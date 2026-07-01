@@ -41,14 +41,23 @@ jobs:
         with:
           script: |
             const slug = process.env.PUBLISHED_SLUG;
+            const score = process.env.SEO_SCORE;
+            const words = process.env.WORD_COUNT;
+            const suggestions = JSON.parse(process.env.SEO_SUGGESTIONS_JSON || '[]');
+            const checklist = suggestions.length
+              ? suggestions.map(item => `- [ ] ${item}`).join('\n')
+              : '- ✅ सभी SEO checks पास हैं';
             github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.issue.number,
-              body: `✅ Post published successfully: https://loankaise.in/${slug}/`
+              body: `## ✅ Post Published\n\n**Live URL:** https://loankaise.in/${slug}/\n\n### Rank Math-style SEO Score: **${score}/100**\n**Word count:** ${words}\n\n### सुधार की checklist\n${checklist}\n\n> Score केवल guidance है। Post किसी भी score पर publish होता है। बदलाव के लिए नया corrected post issue submit करें या repository file edit करें।`
             });
         env:
           PUBLISHED_SLUG: ${{ env.PUBLISHED_SLUG }}
+          SEO_SCORE: ${{ env.SEO_SCORE }}
+          WORD_COUNT: ${{ env.WORD_COUNT }}
+          SEO_SUGGESTIONS_JSON: ${{ env.SEO_SUGGESTIONS_JSON }}
 
       - name: Close publisher issue
         uses: actions/github-script@v7

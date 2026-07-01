@@ -3,6 +3,7 @@ require 'cgi'
 require 'json'
 require 'fileutils'
 require 'date'
+require 'uri'
 
 ROOT = File.expand_path('..', __dir__)
 SITE = File.join(ROOT, 'site')
@@ -85,6 +86,36 @@ def monetize(content)
   end
 end
 
+def seo_audit(title:, slug:, meta_title:, description:, keyword:, image:, image_alt:, body:)
+  keyword_down = keyword.downcase
+  slug_keyword = keyword_down.gsub(/[^a-z0-9\s-]/, ' ').split.join('-')
+  first_section = body.gsub(/^#+\s+.*$/, '').strip[0, 500].to_s.downcase
+  headings = body.scan(/^(?:##|###)\s+(.+)$/).flatten.join(' ').downcase
+  words = body.gsub(/\[[^\]]+\]\([^)]+\)/, ' ').split.size
+  links = body.scan(/\[[^\]]+\]\((https?:\/\/[^)\s]+)\)/).flatten
+  internal = links.any? { |url| URI.parse(url).host.to_s.sub(/^www\./, '') == 'loankaise.in' rescue false }
+  external = links.any? { |url| (URI.parse(url).host.to_s.sub(/^www\./, '') != 'loankaise.in') rescue false }
+
+  checks = [
+    [meta_title.downcase.include?(keyword_down), 12, 'Focus keyword SEO title में रखें'],
+    [title.downcase.include?(keyword_down), 8, 'Focus keyword post title में रखें'],
+    [slug.include?(slug_keyword) || keyword_down.split.all? { |word| slug.include?(word) }, 8, 'Focus keyword URL slug में रखें'],
+    [description.downcase.include?(keyword_down), 10, 'Focus keyword meta description में रखें'],
+    [first_section.include?(keyword_down), 10, 'Focus keyword शुरुआती paragraph में रखें'],
+    [headings.include?(keyword_down), 8, 'Focus keyword कम से कम एक H2/H3 heading में रखें'],
+    [meta_title.length.between?(45, 60), 8, "SEO title 45–60 characters रखें (अभी #{meta_title.length})"],
+    [description.length.between?(140, 160), 8, "Meta description 140–160 characters रखें (अभी #{description.length})"],
+    [words >= 600, 10, "Article कम से कम 600 words का रखें (अभी #{words})"],
+    [body.scan(/^##\s+/).length >= 2, 5, 'कम से कम 2 H2 headings रखें'],
+    [internal, 5, 'LoanKaise का कम से कम 1 internal link जोड़ें'],
+    [external, 4, 'कम से कम 1 भरोसेमंद official external link जोड़ें'],
+    [image.empty? || !image_alt.empty?, 4, 'Featured image के लिए alt text भरें']
+  ]
+  score = checks.sum { |passed, points, _| passed ? points : 0 }
+  suggestions = checks.reject(&:first).map { |_, _, suggestion| suggestion }
+  [score, suggestions, words]
+end
+
 def renumber(rows)
   number = 0
   rows.gsub(/<span class="post-num">\d+<\/span>/) do
@@ -114,11 +145,17 @@ meta_title = fields.fetch('SEO Meta Title').strip
 description = fields.fetch('SEO Meta Description').strip
 keyword = fields.fetch('Focus Keyword').strip
 image = fields.fetch('Featured Image URL', '').strip
+image_alt = fields.fetch('Featured Image Alt Text', '').strip
 body = fields.fetch('Article Body').strip
 
 abort 'Invalid slug. Use lowercase English letters, numbers and hyphens only.' unless slug.match?(/\A[a-z0-9]+(?:-[a-z0-9]+)*\z/)
 abort 'Article body is too short.' if body.length < 200
 abort 'Meta description should be 80-180 characters.' unless description.length.between?(80, 180)
+
+seo_score, seo_suggestions, word_count = seo_audit(
+  title: title, slug: slug, meta_title: meta_title, description: description,
+  keyword: keyword, image: image, image_alt: image_alt, body: body
+)
 
 template = File.read(File.join(SITE, 'loan-kya-hai', 'index.html'))
 prefix = template.split('<div class="article-wrap">', 2).first
@@ -144,7 +181,8 @@ prefix.sub!(/<script type="application\/ld\+json">.*?<\/script>/m, %Q(<script ty
 prefix.sub!('</head>', %Q(<meta name="keywords" content="#{CGI.escapeHTML(keyword)}"><meta property="og:type" content="article"><meta property="og:title" content="#{CGI.escapeHTML(meta_title)}"><meta property="og:description" content="#{CGI.escapeHTML(description)}"><meta property="og:url" content="#{canonical}">#{image.empty? ? '' : %Q(<meta property="og:image" content="#{CGI.escapeHTML(image)}">)}</head>))
 
 article_html = markdown_to_html(body)
-featured = image.empty? ? '' : %Q(<figure><img src="#{CGI.escapeHTML(image)}" alt="#{CGI.escapeHTML(title)}" loading="eager"></figure>)
+featured_alt = image_alt.empty? ? title : image_alt
+featured = image.empty? ? '' : %Q(<figure><img src="#{CGI.escapeHTML(image)}" alt="#{CGI.escapeHTML(featured_alt)}" loading="eager"></figure>)
 article = %Q(<div class="article-wrap"><main class="article"><div class="breadcrumbs"><a href="../">Home</a> / #{CGI.escapeHTML(category)}</div><h1>#{CGI.escapeHTML(title)}</h1><div class="meta">Ashok द्वारा • #{Date.today.iso8601}</div><div class="notice"><b>महत्वपूर्ण:</b> बैंक की दरें और नियम बदल सकते हैं। निर्णय से पहले संबंधित बैंक की official website पर जानकारी verify करें।</div><div class="entry-content">#{featured}#{monetize(article_html)}</div></main></div>\n)
 
 post_dir = File.join(SITE, slug)
@@ -178,12 +216,18 @@ File.write(File.join(SITE, 'sitemap.xml'), sitemap)
 record = {
   title: title, slug: slug, category: category, meta_title: meta_title,
   description: description, keyword: keyword, image: image,
-  published: Date.today.iso8601, body_markdown: body
+  image_alt: image_alt, seo_score: seo_score, word_count: word_count,
+  seo_suggestions: seo_suggestions, published: Date.today.iso8601, body_markdown: body
 }
 FileUtils.mkdir_p(File.join(ROOT, 'content', 'posts'))
 File.write(File.join(ROOT, 'content', 'posts', "#{slug}.json"), JSON.pretty_generate(record) + "\n")
 
 if ENV['GITHUB_ENV']
-  File.open(ENV['GITHUB_ENV'], 'a') { |file| file.puts "PUBLISHED_SLUG=#{slug}" }
+  File.open(ENV['GITHUB_ENV'], 'a') do |file|
+    file.puts "PUBLISHED_SLUG=#{slug}"
+    file.puts "SEO_SCORE=#{seo_score}"
+    file.puts "WORD_COUNT=#{word_count}"
+    file.puts "SEO_SUGGESTIONS_JSON=#{JSON.generate(seo_suggestions)}"
+  end
 end
-puts "Published #{canonical}"
+puts "Published #{canonical} | SEO score: #{seo_score}/100"

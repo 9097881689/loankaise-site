@@ -5,13 +5,14 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## LoanKaise Post Publisher
+        ## LoanKaise Post Publisher + SEO Score
         सभी required fields भरें। Submit करते ही post, homepage, Loan Blog और sitemap update होंगे।
+        Post **हर SEO score पर publish होगा**। Publish होने के बाद इसी issue में 100 में score और सुधारों की checklist मिलेगी।
   - type: input
     id: post_title
     attributes:
       label: Post Title
-      description: Page पर दिखाई देने वाला स्पष्ट title
+      description: Page पर दिखाई देने वाला स्पष्ट title; focus keyword शुरुआत के पास रखें
       placeholder: "SBI Personal Loan कैसे लें?"
     validations:
       required: true
@@ -19,7 +20,7 @@ body:
     id: slug
     attributes:
       label: URL Slug
-      description: केवल छोटे English letters, numbers और hyphen
+      description: केवल छोटे English letters, numbers और hyphen; focus keyword शामिल करें
       placeholder: "sbi-personal-loan-kaise-le"
     validations:
       required: true
@@ -45,7 +46,7 @@ body:
     id: meta_title
     attributes:
       label: SEO Meta Title
-      description: लगभग 50–60 characters
+      description: 50–60 characters; focus keyword शामिल करें
       placeholder: "SBI Personal Loan कैसे लें – Eligibility और Process"
     validations:
       required: true
@@ -53,7 +54,7 @@ body:
     id: meta_description
     attributes:
       label: SEO Meta Description
-      description: लगभग 140–160 characters में page का सार
+      description: 140–160 characters; focus keyword और click करने का स्पष्ट कारण शामिल करें
       placeholder: "SBI personal loan की eligibility, documents, interest और आवेदन process आसान हिंदी में जानें।"
     validations:
       required: true
@@ -61,6 +62,7 @@ body:
     id: focus_keyword
     attributes:
       label: Focus Keyword
+      description: मुख्य search phrase; title, slug, description और शुरुआती paragraph में रखें
       placeholder: "SBI personal loan kaise le"
     validations:
       required: true
@@ -70,16 +72,29 @@ body:
       label: Featured Image URL
       description: Optional HTTPS image URL
       placeholder: "https://example.com/image.jpg"
+  - type: input
+    id: image_alt
+    attributes:
+      label: Featured Image Alt Text
+      description: Image का सरल वर्णन; संभव हो तो focus keyword naturally शामिल करें
+      placeholder: "SBI personal loan apply process"
   - type: textarea
     id: article_body
     attributes:
       label: Article Body
-      description: Markdown supported — headings के लिए ##, bold के लिए **text**, links के लिए [text](URL)
+      description: 600+ words बेहतर; ## headings, lists, कम से कम 1 internal और 1 official external link रखें
       placeholder: |
         परिचय यहाँ लिखें।
 
         ## Eligibility
         पूरी जानकारी यहाँ लिखें।
+
+        ## Documents
+        - Aadhaar Card
+        - PAN Card
+
+        [संबंधित LoanKaise guide](https://loankaise.in/loan-kya-hai/)
+        [Official bank website](https://sbi.co.in/)
     validations:
       required: true
   - type: checkboxes
