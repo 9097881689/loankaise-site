@@ -1,0 +1,62 @@
+name: Publish LoanKaise Post
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  publish:
+    if: startsWith(github.event.issue.title, '[Publish]')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build post and SEO pages
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: ruby scripts/publish_post.rb
+
+      - name: Commit generated site
+        run: |
+          git config user.name "LoanKaise Publisher"
+          git config user.email "actions@users.noreply.github.com"
+          git add site content/posts
+          git commit -m "Publish post from issue #${{ github.event.issue.number }}"
+          git push
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: 07003637b69052c6ffb6626d5df17aa2
+          command: pages deploy site --project-name=loankaise --branch=main
+
+      - name: Add success comment
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const slug = process.env.PUBLISHED_SLUG;
+            github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `✅ Post published successfully: https://loankaise.in/${slug}/`
+            });
+        env:
+          PUBLISHED_SLUG: ${{ env.PUBLISHED_SLUG }}
+
+      - name: Close publisher issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed'
+            });
