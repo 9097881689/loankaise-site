@@ -1,0 +1,78 @@
+name: "Edit or delete a post/tool"
+description: "पुराने या नए post/tool को update या delete करें"
+title: "[Manage] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## LoanKaise Content Manager
+        Slug/file name आपको [All Content list](../../blob/main/CONTENT_MANAGER.md) में मिलेगा। खाली optional fields में पुरानी value सुरक्षित रहेगी।
+  - type: dropdown
+    id: content_type
+    attributes:
+      label: Content Type
+      options:
+        - Post
+        - Tool
+    validations:
+      required: true
+  - type: dropdown
+    id: action
+    attributes:
+      label: Action
+      options:
+        - Edit
+        - Delete
+    validations:
+      required: true
+  - type: input
+    id: slug
+    attributes:
+      label: Slug or Tool File Name
+      description: Post के लिए URL slug; tool के लिए file name जैसे loan-eligibility.html
+      placeholder: "sbi-personal-loan-kaise-le"
+    validations:
+      required: true
+  - type: input
+    id: post_title
+    attributes:
+      label: New Post Title
+      description: Optional — खाली छोड़ने पर पुराना title रहेगा
+  - type: input
+    id: meta_title
+    attributes:
+      label: New SEO Meta Title
+      description: Optional — 50–60 characters बेहतर
+  - type: textarea
+    id: meta_description
+    attributes:
+      label: New SEO Meta Description
+      description: Optional — 140–160 characters बेहतर
+  - type: textarea
+    id: featured_image
+    attributes:
+      label: New Featured Image Upload
+      description: Optional — Add Files दबाकर image चुनें; यह आपकी site के /uploads/ folder में save होगी
+  - type: input
+    id: image_alt
+    attributes:
+      label: New Image Alt Text
+      description: Optional
+  - type: textarea
+    id: article_body
+    attributes:
+      label: New Post Article Body
+      description: केवल Post Edit के लिए optional Markdown; भरने पर पूरा पुराना article body replace होगा
+  - type: textarea
+    id: tool_html
+    attributes:
+      label: New Tool HTML
+      description: केवल Tool Edit के लिए optional; भरने पर tool की पूरी HTML file replace होगी
+      render: html
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: "मैंने सही slug/file और action जाँच लिया है"
+          required: true

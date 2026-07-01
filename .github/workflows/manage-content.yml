@@ -1,0 +1,58 @@
+name: Manage LoanKaise Content
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  manage:
+    if: startsWith(github.event.issue.title, '[Manage]')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Edit or delete content
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: ruby scripts/manage_content.rb
+
+      - name: Commit managed content
+        run: |
+          git config user.name "LoanKaise Content Manager"
+          git config user.email "actions@users.noreply.github.com"
+          git add site content/posts CONTENT_MANAGER.md
+          git commit -m "${{ env.MANAGE_ACTION }} content from issue #${{ github.event.issue.number }}"
+          git push
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: 07003637b69052c6ffb6626d5df17aa2
+          command: pages deploy site --project-name=loankaise --branch=main
+
+      - name: Report result and close issue
+        uses: actions/github-script@v7
+        env:
+          MANAGE_ACTION: ${{ env.MANAGE_ACTION }}
+          MANAGED_URL: ${{ env.MANAGED_URL }}
+        with:
+          script: |
+            const action = process.env.MANAGE_ACTION;
+            const url = process.env.MANAGED_URL;
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `✅ ${action} completed and site deployed.\n\n${url}`
+            });
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed'
+            });

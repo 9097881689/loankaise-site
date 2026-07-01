@@ -4,6 +4,7 @@ require 'json'
 require 'fileutils'
 require 'date'
 require 'uri'
+require 'open-uri'
 
 ROOT = File.expand_path('..', __dir__)
 SITE = File.join(ROOT, 'site')
@@ -116,6 +117,30 @@ def seo_audit(title:, slug:, meta_title:, description:, keyword:, image:, image_
   [score, suggestions, words]
 end
 
+def save_featured_image(raw_value, slug)
+  return '' if raw_value.to_s.strip.empty?
+  source = raw_value.to_s[%r{https://[^)\s]+}]
+  abort 'Featured image upload link is invalid.' unless source
+  data = URI.open(source, 'User-Agent' => 'LoanKaise Publisher', read_timeout: 30)
+  content_type = data.content_type.to_s.downcase
+  extensions = {
+    'image/jpeg' => 'jpg', 'image/png' => 'png',
+    'image/webp' => 'webp', 'image/gif' => 'gif'
+  }
+  extension = extensions[content_type]
+  abort 'Featured image must be JPG, PNG, WebP or GIF.' unless extension
+  bytes = data.read(5 * 1024 * 1024 + 1)
+  abort 'Featured image must be smaller than 5 MB.' if bytes.bytesize > 5 * 1024 * 1024
+  upload_dir = File.join(SITE, 'uploads')
+  FileUtils.mkdir_p(upload_dir)
+  Dir.glob(File.join(upload_dir, "#{slug}.*")).each { |old| FileUtils.rm_f(old) }
+  filename = "#{slug}.#{extension}"
+  File.binwrite(File.join(upload_dir, filename), bytes)
+  "https://loankaise.in/uploads/#{filename}"
+rescue OpenURI::HTTPError, SocketError, Timeout::Error => error
+  abort "Featured image download failed: #{error.message}"
+end
+
 def renumber(rows)
   number = 0
   rows.gsub(/<span class="post-num">\d+<\/span>/) do
@@ -144,13 +169,15 @@ category = fields.fetch('Category').strip
 meta_title = fields.fetch('SEO Meta Title').strip
 description = fields.fetch('SEO Meta Description').strip
 keyword = fields.fetch('Focus Keyword').strip
-image = fields.fetch('Featured Image URL', '').strip
+image_upload = fields.fetch('Featured Image Upload', '').strip
 image_alt = fields.fetch('Featured Image Alt Text', '').strip
 body = fields.fetch('Article Body').strip
 
 abort 'Invalid slug. Use lowercase English letters, numbers and hyphens only.' unless slug.match?(/\A[a-z0-9]+(?:-[a-z0-9]+)*\z/)
 abort 'Article body is too short.' if body.length < 200
 abort 'Meta description should be 80-180 characters.' unless description.length.between?(80, 180)
+
+image = save_featured_image(image_upload, slug)
 
 seo_score, seo_suggestions, word_count = seo_audit(
   title: title, slug: slug, meta_title: meta_title, description: description,

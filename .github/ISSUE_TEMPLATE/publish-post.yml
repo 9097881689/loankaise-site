@@ -66,12 +66,12 @@ body:
       placeholder: "SBI personal loan kaise le"
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: featured_image
     attributes:
-      label: Featured Image URL
-      description: Optional HTTPS image URL
-      placeholder: "https://example.com/image.jpg"
+      label: Featured Image Upload
+      description: Optional — नीचे Add Files पर click करके image चुनें। Image आपकी site के /uploads/ folder में save होगी।
+      placeholder: "Add Files दबाकर image upload करें; यहाँ बना हुआ link रहने दें"
   - type: input
     id: image_alt
     attributes:
