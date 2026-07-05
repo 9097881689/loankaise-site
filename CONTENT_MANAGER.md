@@ -63,11 +63,12 @@
 | लोन एजेंट (DSA) कैसे बनें? आपके लिए पूरा स्टेप-बाय-स्टेप गाइड! | `loan-agent-kaise-bane-in-hindi` | [देखें](https://loankaise.in/loan-agent-kaise-bane-in-hindi/) |
 | व्यापारिक बैंक किसे कहते है (What is Commercial Bank)? | `vyaparik-bank-kise-kahate-hain` | [देखें](https://loankaise.in/vyaparik-bank-kise-kahate-hain/) |
 
-## Tools (4)
+## Tools (5)
 
 | Tool | File Name | Live |
 |---|---|---|
 | Bank Application Generator | `application-generator.html` | [देखें](https://loankaise.in/tools/application-generator.html) |
+| Banking Mock Test | `banking-mock-test.html` | [देखें](https://loankaise.in/tools/banking-mock-test.html) |
 | EMI Calculator | `emi-calculator.html` | [देखें](https://loankaise.in/tools/emi-calculator.html) |
 | Loan Eligibility Calculator | `loan-eligibility.html` | [देखें](https://loankaise.in/tools/loan-eligibility.html) |
 | Loan Prepayment Calculator | `prepayment-calculator.html` | [देखें](https://loankaise.in/tools/prepayment-calculator.html) |
