@@ -1,3 +1,5 @@
+/tools/emi-calculator /emi-calculator/ 301
+/tools/emi-calculator.html /emi-calculator/ 301
 /category/:parent/:category/tools/:tool /tools/:tool 301
 /category/:category/tools/:tool /tools/:tool 301
 /tag/* / 301
