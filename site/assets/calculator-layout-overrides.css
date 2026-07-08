@@ -560,22 +560,24 @@ a{
   }
 
   .main-card{
-    padding:14px;
+    padding:12px;
   }
 
   .actions{
     grid-template-columns:1fr;
+    gap:8px;
   }
 
   .calc-head{
     flex-direction:column;
+    gap:8px;
   }
 
   .calc-toolbar{
     width:100%;
     flex-direction:column;
     align-items:stretch;
-    gap:8px;
+    gap:6px;
   }
 
   .currency-switch,
@@ -585,53 +587,82 @@ a{
   }
 
   .calc-box{
-    gap:14px;
-    padding:14px;
-    border-radius:18px;
+    gap:10px;
+    padding:12px;
+    border-radius:16px;
   }
 
   .field label{
-    font-size:13px;
+    font-size:12px;
   }
 
   .input-shell{
-    min-height:40px;
+    min-height:36px;
   }
 
   .field input,
   .field select,
   .field textarea{
-    padding:8px 10px;
-    font-size:15px;
+    padding:7px 9px;
+    font-size:14px;
   }
 
   .range-ticks{
-    font-size:10px;
+    font-size:9px;
+  }
+
+  .form-grid{
+    gap:10px;
+  }
+
+  .field{
+    gap:6px;
+  }
+
+  .field-meta{
+    margin-bottom:4px;
   }
 
   .result-box{
-    max-height:340px;
-    padding:10px;
+    max-height:300px;
+    padding:9px;
+    border-radius:16px;
   }
 
   .result-hero{
-    margin-bottom:6px;
+    margin-bottom:4px;
   }
 
   .result-hero strong{
-    font-size:24px;
+    font-size:22px;
   }
 
   .metric strong{
-    font-size:18px;
+    font-size:16px;
   }
 
   .metric{
-    padding:9px;
+    padding:8px;
+    border-radius:14px;
   }
 
   .metrics{
-    gap:8px;
+    gap:6px;
+  }
+
+  .metric span{
+    margin-bottom:4px;
+    font-size:10px;
+  }
+
+  .btn,
+  .btn-primary,
+  .btn-secondary,
+  .btn-success,
+  .btn-warning,
+  .btn-danger{
+    min-height:40px;
+    font-size:13px;
   }
 }
 
