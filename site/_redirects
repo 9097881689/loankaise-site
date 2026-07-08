@@ -1,5 +1,11 @@
 /tools/emi-calculator /emi-calculator/ 301
 /tools/emi-calculator.html /emi-calculator/ 301
+/tools/loan-eligibility /loan-eligibility/ 301
+/tools/loan-eligibility.html /loan-eligibility/ 301
+/tools/prepayment-calculator /prepayment-calculator/ 301
+/tools/prepayment-calculator.html /prepayment-calculator/ 301
+/tools/application-generator /application-generator/ 301
+/tools/application-generator.html /application-generator/ 301
 /category/:parent/:category/tools/:tool /tools/:tool 301
 /category/:category/tools/:tool /tools/:tool 301
 /tag/* / 301
