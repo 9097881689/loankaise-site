@@ -114,3 +114,4 @@ window.submitBankingMock=()=>{
  document.querySelector('#mock-root').scrollIntoView({behavior:'smooth'});
 }
 if(document.body.dataset.autoExam==='banking'){window.startBankingMock()}
+(()=>{const legalGroups=document.querySelectorAll('.footer-inner>div:last-child');legalGroups.forEach(group=>{if(group.dataset.seoEnhanced==='1')return;group.dataset.seoEnhanced='1';if(group.querySelector('a[href*="terms-and-conditions"]'))return;const heading=group.querySelector('h3');if(heading)heading.textContent='Legal & Trust';const links=[['Terms & Conditions','/terms-and-conditions/'],['Editorial Policy','/editorial-policy/'],['Fact Check Policy','/fact-check-policy/'],['HTML Sitemap','/html-sitemap/']];links.forEach(([label,href])=>{const a=document.createElement('a');a.href=href;a.textContent=label;group.appendChild(a)})})})();
