@@ -75,6 +75,20 @@ def ad_unit(slot)
   %Q(<div class="ad-slot"><span class="ad-label">ADVERTISEMENT</span><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4298058382758528" data-ad-slot="#{slot}" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({});</script></div>)
 end
 
+def build_toc(markdown)
+  headings = markdown.scan(/^(##|###)\s+(.+)$/).map do |level, text|
+    clean = text.strip
+    anchor = clean.downcase.gsub(/[^a-z0-9\u0900-\u097f]+/, '-').gsub(/^-+|-+$/, '')
+    { level: level.length, text: clean, id: anchor }
+  end
+  return '' if headings.length < 3
+  items = headings.map do |h|
+    klass = h[:level] == 3 ? ' class="toc-sub"' : ''
+    %Q(<li#{klass}><a href="##{h[:id]}">#{CGI.escapeHTML(h[:text])}</a></li>)
+  end.join
+  %Q(<nav class="article-toc" aria-label="Table of contents"><h2>इस page में क्या है</h2><ol>#{items}</ol></nav>)
+end
+
 def monetize(content)
   count = content.scan(%r{</p>}i).length
   return content + ad_unit('9974716573') if count < 6
@@ -192,11 +206,11 @@ footer = template[footer_index..]
 canonical = "https://loankaise.in/#{slug}/"
 
 schema = {
-  '@context' => 'https://schema.org', '@type' => 'Article', 'headline' => title,
+  '@context' => 'https://schema.org', '@type' => 'BlogPosting', 'headline' => title,
   'description' => description, 'datePublished' => Date.today.iso8601,
   'dateModified' => Date.today.iso8601,
-  'author' => { '@type' => 'Person', 'name' => 'Ashok' },
-  'publisher' => { '@type' => 'Organization', 'name' => 'LoanKaise.in' },
+  'author' => { '@type' => 'Person', 'name' => 'Ashok', 'url' => 'https://loankaise.in/aabout-us/' },
+  'publisher' => { '@type' => 'Organization', 'name' => 'LoanKaise.in', 'url' => 'https://loankaise.in/' },
   'mainEntityOfPage' => canonical
 }
 schema['image'] = image unless image.empty?
@@ -205,12 +219,12 @@ prefix.sub!(/<title>.*?<\/title>/m, "<title>#{CGI.escapeHTML(meta_title)} | Loan
 prefix.sub!(/<meta name="description" content="[^"]*">/, %Q(<meta name="description" content="#{CGI.escapeHTML(description)}">))
 prefix.sub!(/<link rel="canonical" href="[^"]*">/, %Q(<link rel="canonical" href="#{canonical}">))
 prefix.sub!(/<script type="application\/ld\+json">.*?<\/script>/m, %Q(<script type="application/ld+json">#{JSON.generate(schema)}</script>))
-prefix.sub!('</head>', %Q(<meta name="keywords" content="#{CGI.escapeHTML(keyword)}"><meta property="og:type" content="article"><meta property="og:title" content="#{CGI.escapeHTML(meta_title)}"><meta property="og:description" content="#{CGI.escapeHTML(description)}"><meta property="og:url" content="#{canonical}">#{image.empty? ? '' : %Q(<meta property="og:image" content="#{CGI.escapeHTML(image)}">)}</head>))
+prefix.sub!('</head>', %Q(<meta name="keywords" content="#{CGI.escapeHTML(keyword)}"><meta property="og:type" content="article"><meta property="og:title" content="#{CGI.escapeHTML(meta_title)}"><meta property="og:description" content="#{CGI.escapeHTML(description)}"><meta property="og:url" content="#{canonical}"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="#{CGI.escapeHTML(meta_title)}"><meta name="twitter:description" content="#{CGI.escapeHTML(description)}">#{image.empty? ? '' : %Q(<meta property="og:image" content="#{CGI.escapeHTML(image)}"><meta name="twitter:image" content="#{CGI.escapeHTML(image)}">)}</head>))
 
 article_html = markdown_to_html(body)
 featured_alt = image_alt.empty? ? title : image_alt
 featured = image.empty? ? '' : %Q(<figure><img src="#{CGI.escapeHTML(image)}" alt="#{CGI.escapeHTML(featured_alt)}" loading="eager"></figure>)
-article = %Q(<div class="article-wrap"><main class="article"><div class="breadcrumbs"><a href="../">Home</a> / #{CGI.escapeHTML(category)}</div><h1>#{CGI.escapeHTML(title)}</h1><div class="meta">Ashok द्वारा • #{Date.today.iso8601}</div><div class="notice"><b>महत्वपूर्ण:</b> बैंक की दरें और नियम बदल सकते हैं। निर्णय से पहले संबंधित बैंक की official website पर जानकारी verify करें।</div><div class="entry-content">#{featured}#{monetize(article_html)}</div></main></div>\n)
+article = %Q(<div class="article-wrap"><main class="article"><div class="breadcrumbs"><a href="../">Home</a> / #{CGI.escapeHTML(category)}</div><h1>#{CGI.escapeHTML(title)}</h1><div class="meta">Ashok द्वारा • Published: #{Date.today.iso8601} • Last updated: #{Date.today.iso8601}</div><div class="notice"><b>महत्वपूर्ण:</b> बैंक की दरें और नियम बदल सकते हैं। निर्णय से पहले संबंधित बैंक की official website पर जानकारी verify करें।</div><section class="author-card"><h2>About the author</h2><p><strong>Ashok</strong> practical banking guides, loan explainers और finance tools पर काम करते हैं. Content ko reader-first तरीके से आसान Hindi me समझाना इनका focus है.</p><div class="author-links"><a href="../aabout-us/">About Us</a><a href="../editorial-policy/">Editorial Policy</a><a href="../fact-check-policy/">Fact Check Policy</a><a href="../contact-us/">Contact</a></div></section><div class="entry-content">#{build_toc(body)}#{featured}#{monetize(article_html)}</div></main></div>\n)
 
 post_dir = File.join(SITE, slug)
 FileUtils.mkdir_p(post_dir)
