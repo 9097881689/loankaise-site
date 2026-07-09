@@ -393,3 +393,126 @@ body{font-family:"Roboto","Noto Sans Devanagari",system-ui,-apple-system,Arial,s
     gap:16px;
   }
 }
+
+/* Desktop refinement v2: one box per content type, readable lines, no fake blank ad gaps */
+@media (min-width:851px){
+  body{
+    line-height:1.66;
+  }
+
+  .grid,
+  .post-list,
+  .entry-content,
+  .footer-inner{
+    content-visibility:visible;
+    contain-intrinsic-size:auto;
+  }
+
+  .hero-inner{
+    padding-top:20px;
+    padding-bottom:20px;
+  }
+
+  .hero h1{
+    font-size:38px;
+    line-height:1.15;
+  }
+
+  .hero p{
+    line-height:1.62;
+  }
+
+  .section,
+  .compact-section{
+    padding-top:18px;
+    padding-bottom:18px;
+  }
+
+  .section-head{
+    margin-bottom:10px;
+  }
+
+  .section h1,
+  .section-head h1{
+    font-size:30px;
+    line-height:1.18;
+  }
+
+  .section h2,
+  .section-head h2{
+    font-size:27px;
+    line-height:1.2;
+  }
+
+  .section-head p,
+  .section>p{
+    line-height:1.6;
+  }
+
+  .grid,
+  .post-list{
+    overflow:hidden;
+    background:#fff;
+    border:1px solid var(--line);
+    border-radius:14px;
+    gap:0;
+    box-shadow:0 8px 22px rgba(16,36,62,.04);
+  }
+
+  .card,
+  .post-row{
+    background:transparent;
+    border:0;
+    border-radius:0;
+    box-shadow:none;
+  }
+
+  .card:hover,
+  .post-row:hover{
+    background:#f7fbff;
+    box-shadow:none;
+    transform:none;
+  }
+
+  .card{
+    padding:12px;
+    border-right:1px solid #edf2f8;
+    border-bottom:1px solid #edf2f8;
+  }
+
+  .card p{
+    line-height:1.55;
+  }
+
+  .post-row{
+    padding:8px 10px;
+    border-right:1px solid #edf2f8;
+    border-bottom:1px solid #edf2f8;
+  }
+
+  .post-row h3{
+    line-height:1.38;
+    -webkit-line-clamp:2;
+  }
+
+  #guides .post-row h3,
+  main.section .post-row h3{
+    line-height:1.34;
+  }
+
+  .ad-slot{
+    min-height:110px;
+    max-height:none;
+    overflow:visible;
+    background:#fff;
+  }
+
+  .ad-slot .adsbygoogle{
+    min-height:90px;
+    max-height:none;
+  }
+
+  .ad-slot:has(.adsbygoogle[data-ad-status="unfilled"]){
+    display:none;
+  }
+}
