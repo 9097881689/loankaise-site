@@ -527,4 +527,13 @@ body{font-family:"Roboto","Noto Sans Devanagari",system-ui,-apple-system,Arial,s
     padding:0!important;
     overflow:hidden!important;
   }
+
+  #tools + .ad-section{
+    display:none!important;
+    height:0!important;
+    min-height:0!important;
+    margin:0!important;
+    padding:0!important;
+    overflow:hidden!important;
+  }
 }
