@@ -254,3 +254,4 @@
     }
   });
 })();
+(()=>{if(window.__lkGoogleAnnoClean)return;window.__lkGoogleAnnoClean=true;const clean=()=>{document.querySelectorAll('.google-anno-sc,.google-anno-skip').forEach(el=>el.remove());document.querySelectorAll('a.google-anno').forEach(a=>{const text=(a.querySelector('.google-anno-t')?.textContent||a.textContent||'').trim();a.replaceWith(document.createTextNode(text?` ${text}`:''))})};const schedule=()=>{clearTimeout(window.__lkGoogleAnnoTimer);window.__lkGoogleAnnoTimer=setTimeout(clean,80)};if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',schedule);else schedule();new MutationObserver(schedule).observe(document.documentElement,{childList:true,subtree:true})})();
