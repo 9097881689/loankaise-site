@@ -347,6 +347,18 @@ a{
   background:linear-gradient(180deg,#fff6f7,#fffafb);
 }
 
+.result-table{
+  width:100%;
+  min-width:560px;
+  border-collapse:collapse;
+}
+
+.result-table th,
+.result-table td{
+  padding:8px 10px;
+  white-space:nowrap;
+}
+
 .result-hero{
   margin-bottom:8px;
 }
@@ -663,6 +675,42 @@ a{
   .btn-danger{
     min-height:40px;
     font-size:13px;
+  }
+}
+
+@media (max-width:420px){
+  .hero-wrap{
+    padding-left:10px;
+    padding-right:10px;
+  }
+
+  .page-wrap{
+    padding-left:10px;
+    padding-right:10px;
+  }
+
+  .main-card{
+    padding:10px;
+  }
+
+  .calc-box{
+    padding:10px;
+  }
+
+  .hero-card h1{
+    font-size:28px;
+  }
+
+  .calc-head h2{
+    font-size:18px;
+  }
+
+  .result-box{
+    padding:8px;
+  }
+
+  .result-table{
+    min-width:520px;
   }
 }
 
