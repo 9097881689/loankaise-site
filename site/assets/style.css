@@ -69,3 +69,26 @@ body{font-family:"Roboto","Noto Sans Devanagari",system-ui,-apple-system,Arial,s
   .hero h1{font-size:29px}
   .section,.compact-section{padding-left:12px;padding-right:12px}
 }
+
+.hero>.google-auto-placed,
+.hero .google-anno-skip,
+.hero .google-anno-sc,
+.card .google-auto-placed,
+.post-row .google-auto-placed,
+.tool-card .google-auto-placed,
+.calc-box .google-auto-placed,
+.main-card>.section:first-child .google-auto-placed{
+  display:none!important;
+  height:0!important;
+  min-height:0!important;
+  margin:0!important;
+  padding:0!important;
+  overflow:hidden!important;
+}
+
+.hero .google-anno{
+  color:inherit!important;
+  text-decoration:none!important;
+  border:0!important;
+  box-shadow:none!important;
+}
