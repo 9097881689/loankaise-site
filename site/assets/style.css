@@ -655,6 +655,10 @@ body{font-family:"Roboto","Noto Sans Devanagari",system-ui,-apple-system,Arial,s
   padding-bottom:0;
 }
 
+.home-hero + .home-section{
+  padding-top:26px;
+}
+
 .home-section-head{
   display:flex;
   justify-content:space-between;
