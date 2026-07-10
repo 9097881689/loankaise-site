@@ -907,3 +907,10 @@ body{font-family:"Roboto","Noto Sans Devanagari",system-ui,-apple-system,Arial,s
     min-height:auto;
   }
 }
+
+.mock-q-hi{font-size:19px;line-height:1.48;color:#20364d}
+.mock-q-en{font-size:14px;line-height:1.45;color:#586a80;margin-top:6px;font-weight:600}
+.mock-q-ref{font-size:12px;line-height:1.35;color:#6d7d91;margin-top:8px;padding-top:8px;border-top:1px dashed #d7e2ea;font-weight:600}
+.mock-option-sub{display:block;margin-top:4px;color:#607087;font-size:13px;line-height:1.35;font-weight:600}
+.review-card .mock-q-hi{font-size:17px}
+.review-card .mock-q-en{font-size:13px}
