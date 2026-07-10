@@ -914,6 +914,10 @@ body{font-family:"Roboto","Noto Sans Devanagari",system-ui,-apple-system,Arial,s
 .mock-option-sub{display:block;margin-top:4px;color:#607087;font-size:13px;line-height:1.35;font-weight:600}
 .review-card .mock-q-hi{font-size:17px}
 .review-card .mock-q-en{font-size:13px}
+.exam-select-row{background:#eef7ff;border:2px solid #1884f7;border-radius:14px;padding:10px 12px}
+.exam-select-row label{color:#0757d5}
+.exam-select{font-weight:900;border:2px solid #1884f7!important;box-shadow:0 0 0 3px #1884f71f;background:#fff!important}
+.exam-language-note{font-weight:800;color:#0757d5!important}
 
 @media(min-width:901px){
   .exam-shell{min-height:100vh;overflow:hidden}
