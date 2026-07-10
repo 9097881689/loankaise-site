@@ -825,6 +825,20 @@ body{font-family:"Roboto","Noto Sans Devanagari",system-ui,-apple-system,Arial,s
   background:#fff;
 }
 
+.home-page .google-auto-placed,
+.home-page .google-auto-placed iframe,
+.home-page .ad-section,
+.home-page .ad-slot{
+  display:none!important;
+  height:0!important;
+  min-height:0!important;
+  max-height:0!important;
+  margin:0!important;
+  padding:0!important;
+  border:0!important;
+  overflow:hidden!important;
+}
+
 @media(max-width:900px){
   .home-hero-grid,
   .home-strip,
