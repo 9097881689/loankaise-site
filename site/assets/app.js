@@ -117,7 +117,7 @@ window.startBankingMock=()=>{
  const lang=(document.querySelector('#mock-language')?.value)||'hindi';
  let pool=bankingQuestionBank();if(cat!=='All')pool=pool.filter(x=>x.cat===cat);
  const fixedSet=Math.max(0,+document.body.dataset.mockSet||0),seed=+(document.body.dataset.mockSeed||20260710);
- const shuffled=seededShuffle(pool,fixedSet?seed+fixedSet:Date.now()),start=fixedSet?((fixedSet-1)*100):0;
+ const shuffled=seededShuffle(pool,fixedSet?seed:Date.now()),start=fixedSet?((fixedSet-1)*100):0;
  mockState.questions=shuffled.slice(start,start+100);mockState.answers={};mockState.status={};mockState.visited={0:true};mockState.secondsLeft=mins*60;mockState.started=true;mockState.current=0;mockState.config={category:cat,minutes:mins,language:lang};mockState.termsOpened=false;mockState.termsAccepted=false;mockState.readyConfirmed=false;
  clearInterval(mockState.timer);
  renderMockInstructions();
