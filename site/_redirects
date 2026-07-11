@@ -6,6 +6,16 @@
 /tools/prepayment-calculator.html /prepayment-calculator/ 301
 /tools/application-generator /application-generator/ 301
 /tools/application-generator.html /application-generator/ 301
+/mock-test/sbi-po-set-1 /mock-test/sbi-po/ 301
+/mock-test/sbi-po-set-1/ /mock-test/sbi-po/ 301
+/mock-test/sbi-po-set-2 /mock-test/sbi-po/ 301
+/mock-test/sbi-po-set-2/ /mock-test/sbi-po/ 301
+/mock-test/sbi-po-set-3 /mock-test/sbi-po/ 301
+/mock-test/sbi-po-set-3/ /mock-test/sbi-po/ 301
+/mock-test/sbi-po-set-4 /mock-test/sbi-po/ 301
+/mock-test/sbi-po-set-4/ /mock-test/sbi-po/ 301
+/mock-test/sbi-po-set-5 /mock-test/sbi-po/ 301
+/mock-test/sbi-po-set-5/ /mock-test/sbi-po/ 301
 /category/:parent/:category/tools/:tool /tools/:tool 301
 /category/:category/tools/:tool /tools/:tool 301
 /tag/* / 301
