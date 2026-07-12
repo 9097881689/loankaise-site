@@ -528,14 +528,6 @@ body{font-family:"Roboto","Noto Sans Devanagari",system-ui,-apple-system,Arial,s
     overflow:hidden!important;
   }
 
-  #tools + .ad-section{
-    display:none!important;
-    height:0!important;
-    min-height:0!important;
-    margin:0!important;
-    padding:0!important;
-    overflow:hidden!important;
-  }
 }
 
 /* Homepage professional finance portal layout */
@@ -825,10 +817,12 @@ body{font-family:"Roboto","Noto Sans Devanagari",system-ui,-apple-system,Arial,s
   background:#fff;
 }
 
-.home-page .google-auto-placed,
-.home-page .google-auto-placed iframe,
-.home-page .ad-section,
-.home-page .ad-slot{
+.ad-slot.ad-collapsed,
+.ad-section.ad-collapsed,
+.ad-slot:has(.adsbygoogle[data-ad-status="unfilled"]),
+.ad-slot:has(.adsbygoogle[data-ad-status="unfill-optimized"]),
+.ad-section:has(.adsbygoogle[data-ad-status="unfilled"]),
+.ad-section:has(.adsbygoogle[data-ad-status="unfill-optimized"]){
   display:none!important;
   height:0!important;
   min-height:0!important;
@@ -837,6 +831,16 @@ body{font-family:"Roboto","Noto Sans Devanagari",system-ui,-apple-system,Arial,s
   padding:0!important;
   border:0!important;
   overflow:hidden!important;
+}
+
+.home-page .ad-section{
+  max-width:1180px;
+  margin:0 auto;
+  padding:0 20px;
+}
+
+.home-page .ad-slot{
+  margin:16px 0!important;
 }
 
 @media(max-width:900px){
