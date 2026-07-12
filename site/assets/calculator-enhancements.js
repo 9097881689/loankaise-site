@@ -221,6 +221,34 @@
     }
   }
 
+  function enhanceSidebar(){
+    const side = document.querySelector('.side-card');
+    if(!side || side.dataset.lkSidebarEnhanced === '1') return;
+    side.dataset.lkSidebarEnhanced = '1';
+    const currentPath = location.pathname.replace(/\/+$/,'/');
+    const popular = [
+      ['EMI Calculator','/emi-calculator/'],
+      ['Loan Calculator','/loan-calculator/'],
+      ['Personal Loan Calculator','/personal-loan-calculator/'],
+      ['Mortgage Calculator','/mortgage-calculator/'],
+      ['Business Loan Calculator','/business-loan-calculator/'],
+      ['Interest Calculator','/interest-calculator/'],
+      ['Simple Interest Calculator','/simple-interest-calculator/'],
+      ['Compound Interest Calculator','/compound-interest-calculator/'],
+      ['Savings Calculator','/savings-calculator/'],
+      ['Investment Calculator','/investment-calculator/'],
+      ['Budget Calculator','/budget-calculator/'],
+      ['Income Tax Calculator','/income-tax-calculator/']
+    ].filter(([,href]) => href !== currentPath).slice(0,10);
+    side.innerHTML = `
+      <h3 class="lk-sidebar-title">Popular Calculators</h3>
+      <ul class="lk-sidebar-list">
+        ${popular.map(([label,href]) => `<li><a href="${href}"><span>${label}</span><span>›</span></a></li>`).join('')}
+      </ul>
+      <a class="lk-all-calculators" href="/calculators/">All Calculators</a>
+    `;
+  }
+
   function syncConverterRate(){
     if(!isConverter) return;
     const from = document.getElementById('from');
@@ -246,6 +274,7 @@
     setCurrencyMeta(activeCode());
     if(typeof renderFields === 'function'){ renderFields(); }
     injectToolbar();
+    enhanceSidebar();
     patchTitles();
     scheduleAutoCalc();
     const form = document.getElementById('calc-form');

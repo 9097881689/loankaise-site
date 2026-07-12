@@ -45,6 +45,143 @@ body{font-family:"Roboto","Noto Sans Devanagari",system-ui,-apple-system,Arial,s
   .footer-inner{grid-template-columns:1fr;padding:24px 16px;gap:18px}
 }
 
+/* Compact professional template for legacy tools */
+.tool-shell{
+  max-width:1180px!important;
+  display:grid!important;
+  grid-template-columns:minmax(0,1fr) 280px!important;
+  gap:16px!important;
+  align-items:start!important;
+  margin:16px auto 42px!important;
+  padding:0 18px!important;
+}
+body:has(.tool-shell) .topline{
+  display:none!important;
+  height:0!important;
+  background:transparent!important;
+}
+.tool-card{
+  border:1px solid #e2eaf5!important;
+  border-radius:16px!important;
+  padding:16px!important;
+  box-shadow:none!important;
+  background:#fff!important;
+}
+.tool-card h1{
+  font-size:clamp(24px,2.5vw,34px)!important;
+  line-height:1.15!important;
+  margin:0 0 4px!important;
+  color:#12233b!important;
+}
+.tool-intro{
+  margin:0 0 12px!important;
+  color:#66758b!important;
+  font-size:14px!important;
+  line-height:1.45!important;
+}
+.tool-card .form-grid{
+  grid-template-columns:repeat(2,minmax(0,1fr))!important;
+  gap:10px!important;
+}
+.tool-card .field label{
+  font-size:12px!important;
+  margin-bottom:4px!important;
+}
+.tool-card .field input,
+.tool-card .field select,
+.tool-card .field textarea{
+  min-height:36px!important;
+  padding:7px 9px!important;
+  border:1px solid #d6e1ef!important;
+  border-radius:10px!important;
+  font-size:14px!important;
+}
+.tool-card .btn{
+  min-height:34px!important;
+  margin-top:10px!important;
+  padding:6px 12px!important;
+  border-radius:10px!important;
+  background:#0b63ce!important;
+  color:#fff!important;
+  box-shadow:none!important;
+}
+.tool-card .result{
+  margin-top:10px!important;
+  padding:10px!important;
+  border:1px solid #dfe8f5!important;
+  border-radius:12px!important;
+  background:#fbfdff!important;
+}
+.tool-card .notice{
+  margin:10px 0 0!important;
+  padding:8px 10px!important;
+  font-size:12px!important;
+}
+.tool-shell>.ad-slot{
+  grid-column:1/-1!important;
+  order:3!important;
+}
+.tool-side-card{
+  position:sticky!important;
+  top:72px!important;
+  border:1px solid #e2eaf5!important;
+  border-radius:16px!important;
+  padding:14px!important;
+  background:#fff!important;
+}
+.tool-side-card h3{
+  margin:0 0 9px!important;
+  color:#12233b!important;
+  font-size:17px!important;
+}
+.lk-sidebar-list{
+  display:grid!important;
+  gap:6px!important;
+  margin:0 0 14px!important;
+  padding:0!important;
+  list-style:none!important;
+}
+.lk-sidebar-list a{
+  display:flex!important;
+  justify-content:space-between!important;
+  gap:10px!important;
+  padding:8px 9px!important;
+  border:1px solid #e2eaf5!important;
+  border-radius:10px!important;
+  background:#fff!important;
+  color:#17345f!important;
+  font-size:13px!important;
+  font-weight:750!important;
+  line-height:1.25!important;
+  text-decoration:none!important;
+}
+.lk-sidebar-list a:hover{
+  border-color:#bed2eb!important;
+  background:#f8fbff!important;
+}
+.lk-all-calculators{
+  display:block!important;
+  padding:10px 12px!important;
+  border-radius:10px!important;
+  background:#0b63ce!important;
+  color:#fff!important;
+  font-size:13px!important;
+  font-weight:900!important;
+  text-align:center!important;
+  text-decoration:none!important;
+}
+@media(max-width:920px){
+  .tool-shell{grid-template-columns:1fr!important}
+  .tool-side-card{position:static!important}
+}
+@media(max-width:560px){
+  .tool-shell{margin-top:10px!important;padding:0 10px!important;gap:10px!important}
+  .tool-card{padding:10px!important;border-radius:12px!important}
+  .tool-card .form-grid{grid-template-columns:1fr!important;gap:8px!important}
+  .tool-card h1{font-size:24px!important}
+  .tool-intro{display:none!important}
+}
+
 @media(max-width:560px){
   .brand{font-size:24px}
   .hero h1{font-size:31px}
