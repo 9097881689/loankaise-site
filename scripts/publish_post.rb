@@ -263,6 +263,8 @@ record = {
 FileUtils.mkdir_p(File.join(ROOT, 'content', 'posts'))
 File.write(File.join(ROOT, 'content', 'posts', "#{slug}.json"), JSON.pretty_generate(record) + "\n")
 
+system('ruby', File.join(__dir__, 'refresh_indexing.rb')) or abort 'Indexing refresh failed.'
+
 if ENV['GITHUB_ENV']
   File.open(ENV['GITHUB_ENV'], 'a') do |file|
     file.puts "PUBLISHED_SLUG=#{slug}"

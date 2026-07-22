@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 Sitemap: https://loankaise.in/sitemap.xml
 Sitemap: https://loankaise.in/sitemap-calculators.xml
+Sitemap: https://loankaise.in/sitemap-mock-tests.xml
+Sitemap: https://loankaise.in/feed.xml

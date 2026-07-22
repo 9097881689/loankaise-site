@@ -191,6 +191,7 @@ else
 end
 
 system('ruby', File.join(__dir__, 'build_content_manager.rb')) or abort 'Content manager refresh failed.'
+system('ruby', File.join(__dir__, 'refresh_indexing.rb')) or abort 'Indexing refresh failed.'
 if ENV['GITHUB_ENV']
   File.open(ENV['GITHUB_ENV'], 'a') do |file|
     file.puts "MANAGE_ACTION=#{action}"
