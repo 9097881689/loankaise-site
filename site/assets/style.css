@@ -1049,6 +1049,54 @@ body:has(.tool-shell) .topline{
   }
 }
 
+/* Homepage ad-gap hardening: collapse empty/manual/auto ad wrappers so blocked ads never leave a white hole */
+.home-page .ad-section,
+.home-page .ad-slot,
+.home-page .google-auto-placed{
+  transition:none!important;
+}
+
+.home-page .ad-section.ad-collapsed,
+.home-page .ad-slot.ad-collapsed,
+.home-page .google-auto-placed.ad-collapsed,
+.home-page .google-auto-placed:empty{
+  display:none!important;
+  height:0!important;
+  min-height:0!important;
+  max-height:0!important;
+  margin:0!important;
+  padding:0!important;
+  border:0!important;
+  overflow:hidden!important;
+}
+
+.home-page .google-auto-placed:not(.ad-visible){
+  min-height:0!important;
+  margin:0!important;
+  padding:0!important;
+}
+
+.home-page .google-auto-placed.ad-visible{
+  display:block!important;
+  max-width:1180px!important;
+  margin:14px auto!important;
+  padding:0 20px!important;
+  min-height:90px!important;
+}
+
+.home-page #calculators{
+  padding-bottom:10px!important;
+}
+
+.home-page #tools{
+  padding-top:18px!important;
+}
+
+.home-page #calculators + .google-auto-placed:not(.ad-visible),
+.home-page .google-auto-placed:not(.ad-visible) + #tools{
+  margin-top:0!important;
+}
+
 .mock-q-hi{font-size:19px;line-height:1.48;color:#20364d}
 .mock-q-en{font-size:14px;line-height:1.45;color:#586a80;margin-top:6px;font-weight:600}
 .mock-q-ref{font-size:12px;line-height:1.35;color:#6d7d91;margin-top:8px;padding-top:8px;border-top:1px dashed #d7e2ea;font-weight:600}
