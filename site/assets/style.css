@@ -1140,3 +1140,92 @@ body:has(.tool-shell) .topline{
   .palette-grid{grid-template-columns:repeat(5,1fr);gap:6px;max-height:calc(100vh - 230px);overflow:auto}
   .palette-btn{height:31px;border-radius:8px;font-size:13px}
 }
+
+/* AdSense optimization: keep ad units policy-safe, compact, and collapse unfilled inventory globally */
+.ad-slot,
+.ad-section,
+.google-auto-placed{
+  transition:none!important;
+}
+
+.ad-slot{
+  max-width:100%;
+  contain:layout style;
+}
+
+.article .ad-slot,
+.entry-content .ad-slot,
+.tool-shell>.ad-slot,
+.main-card>.ad-slot{
+  margin:18px 0!important;
+}
+
+.entry-content .ad-slot.in-article-ad{
+  display:block;
+  width:100%;
+  clear:both;
+  border-left:0;
+  border-right:0;
+  border-radius:12px;
+  background:#fbfdff;
+}
+
+.ad-slot.ad-pending{
+  min-height:90px;
+}
+
+.ad-slot.ad-visible{
+  display:block!important;
+  min-height:90px!important;
+  margin:18px 0!important;
+  padding:8px 10px!important;
+  border:1px solid #e0e8f2!important;
+  background:#fff!important;
+}
+
+.ad-slot.ad-visible .adsbygoogle{
+  min-height:90px!important;
+}
+
+.article .ad-slot.ad-visible{
+  margin:20px 0!important;
+}
+
+.ad-slot.ad-collapsed,
+.ad-section.ad-collapsed,
+.google-auto-placed.ad-collapsed,
+.ad-slot:has(.adsbygoogle[data-ad-status="unfilled"]),
+.ad-slot:has(.adsbygoogle[data-ad-status="unfill-optimized"]),
+.ad-slot:has(.adsbygoogle[data-ad-status="unfilled-optimized"]),
+.ad-section:has(.adsbygoogle[data-ad-status="unfilled"]),
+.ad-section:has(.adsbygoogle[data-ad-status="unfill-optimized"]),
+.ad-section:has(.adsbygoogle[data-ad-status="unfilled-optimized"]){
+  display:none!important;
+  height:0!important;
+  min-height:0!important;
+  max-height:0!important;
+  margin:0!important;
+  padding:0!important;
+  border:0!important;
+  overflow:hidden!important;
+}
+
+.google-auto-placed.ad-visible{
+  display:block!important;
+  max-width:1180px!important;
+  margin:16px auto!important;
+  padding:0 16px!important;
+  min-height:90px!important;
+}
+
+@media(max-width:640px){
+  .article .ad-slot.ad-visible,
+  .entry-content .ad-slot.ad-visible,
+  .tool-shell>.ad-slot.ad-visible,
+  .main-card>.ad-slot.ad-visible{
+    margin:14px 0!important;
+    padding:6px!important;
+    min-height:80px!important;
+  }
+  .ad-slot.ad-visible .adsbygoogle{min-height:80px!important}
+}
