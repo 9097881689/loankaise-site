@@ -1229,3 +1229,69 @@ body:has(.tool-shell) .topline{
   }
   .ad-slot.ad-visible .adsbygoogle{min-height:80px!important}
 }
+
+/* Policy-safe high-viewability ad layout: content first, ads outside controls, no blank holes */
+.ad-slot.ad-pending,
+.ad-section.ad-pending{
+  min-height:0!important;
+  height:auto!important;
+  margin:0!important;
+  padding:0!important;
+  border:0!important;
+  background:transparent!important;
+}
+
+.entry-content .ad-slot.lk-managed-ad,
+.entry-content .ad-slot.in-article-ad{
+  width:100%;
+  max-width:780px;
+  margin:20px auto!important;
+  clear:both;
+  text-align:center;
+}
+
+.entry-content .ad-slot.lk-managed-ad.ad-visible,
+.entry-content .ad-slot.in-article-ad.ad-visible{
+  margin:22px auto!important;
+  padding:8px!important;
+  border:1px solid #e5edf6!important;
+  border-radius:12px!important;
+  background:#fff!important;
+}
+
+.lk-tool-outside-ad.ad-visible,
+.tool-shell>.ad-slot.ad-visible{
+  margin:16px 0 18px!important;
+}
+
+.tool-card .ad-slot,
+.calc-box .ad-slot,
+.result-box .ad-slot{
+  display:none!important;
+}
+
+.article .ad-label,
+.tool-shell .ad-label{
+  font-size:9px!important;
+  color:#98a6b8!important;
+  letter-spacing:.12em!important;
+  text-transform:uppercase!important;
+  margin-bottom:4px!important;
+}
+
+@media(min-width:960px){
+  .article-wrap{max-width:980px!important}
+  .entry-content .ad-slot.lk-managed-ad.ad-visible{max-width:728px!important}
+}
+
+@media(max-width:640px){
+  .entry-content .ad-slot.lk-managed-ad,
+  .entry-content .ad-slot.in-article-ad{
+    margin:14px auto!important;
+  }
+  .entry-content .ad-slot.lk-managed-ad.ad-visible,
+  .entry-content .ad-slot.in-article-ad.ad-visible{
+    margin:16px auto!important;
+    padding:4px!important;
+  }
+}

@@ -1304,3 +1304,55 @@ body{
     grid-template-columns:1fr 1fr!important;
   }
 }
+
+/* Calculator ad optimization: ads stay outside calculator controls and unfilled units collapse */
+.ad-slot.ad-pending,
+.ad-section.ad-pending{
+  min-height:0!important;
+  height:auto!important;
+  margin:0!important;
+  padding:0!important;
+  border:0!important;
+  background:transparent!important;
+}
+
+.ad-slot.ad-collapsed,
+.ad-section.ad-collapsed,
+.ad-slot:has(.adsbygoogle[data-ad-status="unfilled"]),
+.ad-slot:has(.adsbygoogle[data-ad-status="unfill-optimized"]),
+.ad-slot:has(.adsbygoogle[data-ad-status="unfilled-optimized"]){
+  display:none!important;
+  height:0!important;
+  min-height:0!important;
+  max-height:0!important;
+  margin:0!important;
+  padding:0!important;
+  border:0!important;
+  overflow:hidden!important;
+}
+
+.main-card>.ad-slot.ad-visible,
+.side-card>.ad-slot.ad-visible,
+.layout>.ad-slot.ad-visible{
+  margin:14px 0!important;
+  padding:6px!important;
+  border:1px solid #e5edf6!important;
+  border-radius:12px!important;
+  background:#fff!important;
+  min-height:90px!important;
+}
+
+.calc-box .ad-slot,
+.result-box .ad-slot{
+  display:none!important;
+}
+
+@media(max-width:760px){
+  .main-card>.ad-slot.ad-visible,
+  .side-card>.ad-slot.ad-visible,
+  .layout>.ad-slot.ad-visible{
+    min-height:80px!important;
+    margin:12px 0!important;
+    padding:4px!important;
+  }
+}
