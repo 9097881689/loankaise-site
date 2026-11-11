@@ -6,7 +6,23 @@
     <atom:link href="https://loankaise.in/feed.xml" rel="self" type="application/rss+xml" />
     <description>ताज़ा फाइनेंस न्यूज़, लोन गाइड्स, RBI अपडेट्स और बैंकिंग टूल्स हिंदी में।</description>
     <language>hi-in</language>
-    <lastBuildDate>Wed, 11 Nov 2026 16:17:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 16:24:16 GMT</lastBuildDate>
+    <item>
+      <title>म्यूचुअल फंड: स्मॉल-कैप से लार्ज-कैप की ओर बढ़ा निवेशकों का रुझान, जानें अक्टूबर के आंकड़े</title>
+      <link>https://loankaise.in/news/mutual-fund-investors-shift-large-cap-2944/</link>
+      <guid isPermaLink="true">https://loankaise.in/news/mutual-fund-investors-shift-large-cap-2944/</guid>
+      <pubDate>Wed, 11 Nov 2026 16:24:15 GMT</pubDate>
+      <category>म्यूचुअल फंड &amp; SIP</category>
+      <description>अक्टूबर में इक्विटी म्यूचुअल फंड में कुल निवेश घटा, लेकिन निवेशकों ने स्मॉल-कैप से दूरी बनाकर लार्ज-कैप की ओर रुख किया, जिसका सीधा असर आपके निवेश पर पड़ सकता है।</description>
+    </item>
+    <item>
+      <title>Nvidia के $7.5 अरब के &apos;चीन चिप&apos; विवाद से हड़कंप, निवेशकों पर क्या असर?</title>
+      <link>https://loankaise.in/news/nvidia-china-chip-controversy-investors-impact-1341/</link>
+      <guid isPermaLink="true">https://loankaise.in/news/nvidia-china-chip-controversy-investors-impact-1341/</guid>
+      <pubDate>Wed, 11 Nov 2026 16:23:54 GMT</pubDate>
+      <category>शेयर बाज़ार &amp; गोल्ड</category>
+      <description>अमेरिकी चिप दिग्गज Nvidia पर चीन को प्रतिबंधित चिप बेचने के आरोपों की जांच शुरू हो गई है, जिससे कंपनी के शेयर और AI सेक्टर में निवेशकों की चिंता बढ़ गई है।</description>
+    </item>
     <item>
       <title>MRF के शेयर: Q2 नतीजों के बाद ब्रोकरेज की अलग-अलग राय, जानें निवेश का भविष्य</title>
       <link>https://loankaise.in/news/mrf-share-q2-results-brokerage-views-9829/</link>
@@ -230,22 +246,6 @@
       <pubDate>Sat, 15 Jul 2023 10:00:00 GMT</pubDate>
       <category>Banking Guide</category>
       <description>CRN Number क्या होता है?(What Is CRN Number In Hindi)</description>
-    </item>
-    <item>
-      <title>How To Activate Auto Sweep Facility for SBI Account: A Step-by-Step Guide</title>
-      <link>https://loankaise.in/how-to-activate-auto-sweep-facility-for-sbi-account/</link>
-      <guid isPermaLink="true">https://loankaise.in/how-to-activate-auto-sweep-facility-for-sbi-account/</guid>
-      <pubDate>Sat, 15 Jul 2023 10:00:00 GMT</pubDate>
-      <category>Banking Guide</category>
-      <description>How To Activate Auto Sweep Facility for SBI Account: A Step-by-Step Guide</description>
-    </item>
-    <item>
-      <title>Loan क्या है (What is Loan)?</title>
-      <link>https://loankaise.in/loan-kya-hai/</link>
-      <guid isPermaLink="true">https://loankaise.in/loan-kya-hai/</guid>
-      <pubDate>Sat, 15 Jul 2023 10:00:00 GMT</pubDate>
-      <category>Banking Guide</category>
-      <description>Loan क्या है (What is Loan)?</description>
     </item>
   </channel>
 </rss>

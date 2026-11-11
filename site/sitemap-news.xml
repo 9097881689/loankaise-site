@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/mutual-fund-investors-shift-large-cap-2944/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T16:24:15.986Z</news:publication_date>
+      <news:title>म्यूचुअल फंड: स्मॉल-कैप से लार्ज-कैप की ओर बढ़ा निवेशकों का रुझान, जानें अक्टूबर के आंकड़े</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/nvidia-china-chip-controversy-investors-impact-1341/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T16:23:54.383Z</news:publication_date>
+      <news:title>Nvidia के $7.5 अरब के &apos;चीन चिप&apos; विवाद से हड़कंप, निवेशकों पर क्या असर?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/mrf-share-q2-results-brokerage-views-9829/</loc>
     <news:news>
       <news:publication>
