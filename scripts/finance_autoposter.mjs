@@ -545,7 +545,10 @@ async function runAutoPoster({ limit = 2, push = false } = {}) {
           cwd: ROOT,
           stdio: 'inherit',
         });
-        execSync('git push origin main', { cwd: ROOT, stdio: 'inherit' });
+        execSync('git pull --rebase --autostash origin main && git push origin main', {
+          cwd: ROOT,
+          stdio: 'inherit',
+        });
         console.log('🚀 Pushed to GitHub -> Cloudflare Pages deployment triggered!');
       }
     } catch (gitErr) {
