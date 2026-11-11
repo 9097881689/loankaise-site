@@ -5,4 +5,5 @@ node_modules/
 data/*.lock/
 data/*.lock
 scripts/cache_bg/
+data/google-service-account.json
 .env

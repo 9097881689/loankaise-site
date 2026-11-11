@@ -1,0 +1,51 @@
+name: LoanKaise Cloud Auto-Poster (24x7 Mac-Free)
+
+on:
+  schedule:
+    # Runs automatically in GitHub Cloud every 5 minutes even when Mac is OFF
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cloud-autopost:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Node & Pillow dependencies
+        run: |
+          npm ci || npm install
+          python3 -m pip install pillow
+
+      - name: Configure Git author
+        run: |
+          git config user.name "LoanKaise AutoPoster Bot"
+          git config user.email "bot@loankaise.in"
+
+      - name: Run Top-10 Finance Hindi Auto-Poster + Cross-Source Mixer
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+        run: |
+          node scripts/finance_autoposter.mjs --limit 2 --push
+
+      - name: Fallback Edge Sync Ping (if D1 is attached on Cloudflare Pages)
+        if: always()
+        run: |
+          curl -sS -X POST https://loankaise.in/api/sync \
+            -H "Authorization: Bearer ${{ secrets.SYNC_SECRET_TOKEN || 'loankaise_secret_key_2026' }}" \
+            -H "Content-Type: application/json" \
+            -d '{"geminiApiKey":"${{ secrets.GEMINI_API_KEY }}","serviceAccountJson":${{ toJSON(secrets.GOOGLE_SERVICE_ACCOUNT_JSON || '') }}}'

@@ -16,6 +16,7 @@ import { fileURLToPath } from 'node:url';
 import { XMLParser } from 'fast-xml-parser';
 import { FINANCE_SOURCES, FINANCE_CATEGORIES, getAuthorForFinanceCategory } from './finance_sources.mjs';
 import { buildAll } from './build_news_site.mjs';
+import { notifySearchEngines } from './google_indexing.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -550,6 +551,9 @@ async function runAutoPoster({ limit = 2, push = false } = {}) {
           stdio: 'inherit',
         });
         console.log('🚀 Pushed to GitHub -> Cloudflare Pages deployment triggered!');
+        // Wait 30s for Cloudflare Pages deployment, then ping WebSub, IndexNow, and Google Indexing API
+        await new Promise((r) => setTimeout(r, 30000));
+        await notifySearchEngines(created.map((p) => `/news/${p.slug}/`));
       }
     } catch (gitErr) {
       console.error('[git-push-error]', gitErr.message);

@@ -11,6 +11,7 @@ import argparse
 import hashlib
 import html
 import os
+import shutil
 import subprocess
 import sys
 import tempfile
@@ -20,7 +21,24 @@ from PIL import Image, ImageDraw, ImageFilter
 
 ROOT = Path(__file__).resolve().parent.parent
 CACHE_BG_DIR = ROOT / "scripts" / "cache_bg"
-CHROME_BIN = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+
+
+def find_chrome_bin() -> str:
+    candidates = [
+        "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        shutil.which("google-chrome"),
+        shutil.which("chromium"),
+        shutil.which("chromium-browser"),
+        "/usr/bin/google-chrome",
+        "/usr/bin/chromium-browser",
+    ]
+    for c in candidates:
+        if c and os.path.exists(c):
+            return c
+    return ""
+
+
+CHROME_BIN = find_chrome_bin()
 
 # Curated watermark-free, logo-free high-res Unsplash finance photography
 CATEGORY_PHOTOS = {

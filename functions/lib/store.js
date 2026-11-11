@@ -174,19 +174,110 @@ export async function savePostEdge(post, env = {}) {
           normalized.sourceUrl
         )
         .run();
+      // Auto-prune D1 beyond 250 latest articles so free-tier D1 never fills up
+      await env.DB.prepare(`
+        DELETE FROM posts WHERE id NOT IN (SELECT id FROM posts ORDER BY published_at DESC LIMIT 250)
+      `).run();
       persistedTo = 'cloudflare-d1';
     } catch {
       // keep memory fallback
     }
   }
 
+  const liveUrl = `https://loankaise.in/news/${normalized.slug}/`;
+  let indexMsg = `Saved (${persistedTo}) + WebSub/IndexNow pinged`;
+  let indexStatus = 'SUCCESS';
+  let indexCode = 200;
+
+  try {
+    await Promise.allSettled([
+      fetch('https://pubsubhubbub.appspot.com/', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        body: new URLSearchParams({
+          'hub.mode': 'publish',
+          'hub.url': 'https://loankaise.in/feed.xml',
+        }).toString(),
+      }),
+      fetch('https://api.indexnow.org/indexnow', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          host: 'loankaise.in',
+          key: 'loankaise-indexnow-2026',
+          keyLocation: 'https://loankaise.in/loankaise-indexnow-2026.txt',
+          urlList: [liveUrl],
+        }),
+      }),
+    ]);
+
+    const serviceJson = post.serviceAccountJson || env.GOOGLE_SERVICE_ACCOUNT_JSON;
+    if (serviceJson) {
+      const creds = typeof serviceJson === 'string' ? JSON.parse(serviceJson) : serviceJson;
+      if (creds?.client_email && creds?.private_key) {
+        const now = Math.floor(Date.now() / 1000);
+        const b64 = (s) => btoa(s).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+        const hdr = b64(JSON.stringify({ alg: 'RS256', typ: 'JWT' }));
+        const pay = b64(
+          JSON.stringify({
+            iss: creds.client_email,
+            scope: 'https://www.googleapis.com/auth/indexing',
+            aud: 'https://oauth2.googleapis.com/token',
+            iat: now,
+            exp: now + 3600,
+          })
+        );
+        const pem = creds.private_key.replace(/-----[A-Z ]+-----/g, '').replace(/\s+/g, '');
+        const rawKey = Uint8Array.from(atob(pem), (c) => c.charCodeAt(0));
+        const key = await crypto.subtle.importKey(
+          'pkcs8',
+          rawKey.buffer,
+          { name: 'RSASSA-PKCS1-v1_5', hash: 'SHA-256' },
+          false,
+          ['sign']
+        );
+        const sigBuf = await crypto.subtle.sign('RSASSA-PKCS1-v1_5', key, new TextEncoder().encode(`${hdr}.${pay}`));
+        const sigB64 = btoa(String.fromCharCode(...new Uint8Array(sigBuf)))
+          .replace(/\+/g, '-')
+          .replace(/\//g, '_')
+          .replace(/=+$/, '');
+        const tokRes = await fetch('https://oauth2.googleapis.com/token', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+          body: new URLSearchParams({
+            grant_type: 'urn:ietf:params:oauth:grant-type:jwt-bearer',
+            assertion: `${hdr}.${pay}.${sigB64}`,
+          }).toString(),
+        });
+        const tokData = await tokRes.json();
+        if (tokData?.access_token) {
+          const gRes = await fetch('https://indexing.googleapis.com/v3/urlNotifications:publish', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+              Authorization: `Bearer ${tokData.access_token}`,
+            },
+            body: JSON.stringify({ url: liveUrl, type: 'URL_UPDATED' }),
+          });
+          indexCode = gRes.status;
+          indexStatus = gRes.ok ? 'SUCCESS' : 'FAILED';
+          indexMsg = gRes.ok
+            ? `Google Indexing API (URL_UPDATED 200) + WebSub/IndexNow`
+            : `Google Indexing API HTTP ${gRes.status} + WebSub/IndexNow`;
+        }
+      }
+    }
+  } catch {
+    // non-fatal indexing error
+  }
+
   await recordIndexLog(
     {
       action: 'URL_UPDATED',
-      url: `https://loankaise.in/news/${normalized.slug}/`,
-      status: 'SUCCESS',
-      statusCode: 200,
-      responseMessage: `Saved (${persistedTo}) & queued for Google Indexing`,
+      url: liveUrl,
+      status: indexStatus,
+      statusCode: indexCode,
+      responseMessage: indexMsg,
     },
     env
   );

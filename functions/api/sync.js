@@ -24,6 +24,10 @@ export async function onRequestPost({ request, env }) {
     return Response.json({ success: false, error: 'Unauthorized' }, { status: 401 });
   }
 
+  const body = await request.json().catch(() => ({}));
+  const geminiApiKey = body.geminiApiKey || env.GEMINI_API_KEY || '';
+  const serviceAccountJson = body.serviceAccountJson || env.GOOGLE_SERVICE_ACCOUNT_JSON || '';
+
   const existing = await loadAllPosts(request, env);
   const existingUrls = new Set(existing.map((p) => p.sourceUrl).filter(Boolean));
   const existingTokens = existing.slice(0, 40).map((p) => tokenize(`${p.title} ${p.slug}`));
@@ -71,17 +75,18 @@ export async function onRequestPost({ request, env }) {
     }
   }
 
-  if (!env.GEMINI_API_KEY) {
+  if (!geminiApiKey) {
     return Response.json({
       success: true,
       createdCount: 0,
       scannedFeeds: activeFeeds,
       candidateClusters: clusters.length,
-      message: `Scanned ${activeFeeds}/10 Finance feeds (${clusters.length} unique clusters ready). Auto-posting runs via 5-min cron & GitHub deploy; bind GEMINI_API_KEY in Cloudflare Pages to also run 1-click Edge rewriting from /admin.`,
+      message: `Scanned ${activeFeeds}/10 Finance feeds (${clusters.length} unique clusters ready). Pass geminiApiKey or set GEMINI_API_KEY on Cloudflare Pages for Edge auto-posting.`,
     });
   }
 
   let createdCount = 0;
+  const createdUrls = [];
   for (const cl of clusters.slice(0, 2)) {
     try {
       const sourcesText = cl.items
@@ -91,11 +96,13 @@ export async function onRequestPost({ request, env }) {
 
       const post = await rewriteFinanceStoryHindi({
         sourcesText,
-        apiKey: env.GEMINI_API_KEY,
+        apiKey: geminiApiKey,
       });
       post.sourceUrl = cl.items[0].link;
+      post.serviceAccountJson = serviceAccountJson;
       await savePostEdge(post, env);
       createdCount++;
+      createdUrls.push(`https://loankaise.in/news/${post.slug}/`);
     } catch {
       // continue to next cluster
     }
@@ -104,6 +111,7 @@ export async function onRequestPost({ request, env }) {
   return Response.json({
     success: true,
     createdCount,
+    createdUrls,
     scannedFeeds: activeFeeds,
     candidateClusters: clusters.length,
     message: `Scanned ${activeFeeds}/10 sources, merged ${clusters.length} unique finance topics, and published ${createdCount} new Hindi story(s).`,
