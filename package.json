@@ -1,0 +1,16 @@
+{
+  "name": "loankaise-site",
+  "version": "2.0.0",
+  "type": "module",
+  "scripts": {
+    "build:admin-css": "npx tailwindcss -i ./scripts/admin-tailwind.css -o ./site/assets/admin.css --minify",
+    "build:site": "node ./scripts/build_news_site.mjs",
+    "autopost": "node ./scripts/finance_autoposter.mjs --once"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}

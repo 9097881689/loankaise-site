@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.marquee-track {
+  display: inline-flex;
+  white-space: nowrap;
+  animation: lkAdminMarquee 40s linear infinite;
+}
+@keyframes lkAdminMarquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}

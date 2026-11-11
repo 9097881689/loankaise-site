@@ -1,2 +1,8 @@
 .DS_Store
 *.log
+logs/
+node_modules/
+data/*.lock/
+data/*.lock
+scripts/cache_bg/
+.env
