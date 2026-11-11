@@ -148,7 +148,7 @@ export async function notifySearchEngines(urls = []) {
   return summary;
 }
 
-if (import.meta.url === `file://${process.argv[1]}`) {
+if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
   const inputUrls = process.argv.slice(2);
   if (inputUrls.length === 0) {
     console.log('Usage: node scripts/google_indexing.mjs https://loankaise.in/news/example/');

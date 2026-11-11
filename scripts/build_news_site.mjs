@@ -659,6 +659,6 @@ export function buildAll() {
   return { newsCount: allNews.length, totalManifestCount: manifest.length };
 }
 
-if (import.meta.url === `file://${process.argv[1]}`) {
+if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
   buildAll();
 }
