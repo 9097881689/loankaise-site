@@ -65,6 +65,46 @@ const NAV_ITEMS = [
   { key: 'guides', label: 'GUIDES', href: '/#guides' },
 ];
 
+export function renderMarketAlertStrip(trendingStories = []) {
+  const mktStories = (trendingStories || [])
+    .filter((s) => s && s.slug)
+    .slice(0, 4);
+
+  const initialAlerts = mktStories.length
+    ? [...mktStories, ...mktStories]
+        .map(
+          (st) =>
+            `<a class="lk-al-item" href="/news/${escHtml(st.slug)}/"><span class="lk-al-badge">👀 बाज़ार पर नज़र</span><span>${escHtml(st.title)}</span></a>`
+        )
+        .join('')
+    : `<a class="lk-al-item" href="/news/"><span class="lk-al-badge">⚡ मार्केट रडार</span><span>NIFTY 50, SENSEX, BANK NIFTY, Gold &amp; Global Markets Live Updates</span></a>`;
+
+  return `<section class="lk-mkt-bar" aria-label="Live Stock Market Alerts">
+  <div class="lk-mkt-row-top">
+    <div class="lk-mkt-inner">
+      <span id="lk-mkt-status-pill" class="lk-mkt-pill lk-pill-live">● LIVE MARKET RADAR</span>
+      <div id="lk-mkt-indices" class="lk-mkt-indices">
+        <span class="lk-mkt-chip"><span class="lk-mkt-sym">NIFTY 50</span><span class="lk-mkt-val">Live...</span></span>
+        <span class="lk-mkt-chip"><span class="lk-mkt-sym">SENSEX</span><span class="lk-mkt-val">Live...</span></span>
+        <span class="lk-mkt-chip"><span class="lk-mkt-sym">BANK NIFTY</span><span class="lk-mkt-val">Live...</span></span>
+        <span class="lk-mkt-chip"><span class="lk-mkt-sym">GOLD</span><span class="lk-mkt-val">Live...</span></span>
+        <span class="lk-mkt-chip"><span class="lk-mkt-sym">NASDAQ</span><span class="lk-mkt-val">Live...</span></span>
+        <span class="lk-mkt-chip"><span class="lk-mkt-sym">S&amp;P 500</span><span class="lk-mkt-val">Live...</span></span>
+        <span class="lk-mkt-chip"><span class="lk-mkt-sym">USD/INR</span><span class="lk-mkt-val">Live...</span></span>
+      </div>
+    </div>
+  </div>
+  <div class="lk-mkt-row-alert">
+    <div class="lk-mkt-inner">
+      <span class="lk-radar-label">⚡ MARKET ALERT • जिन पर नज़र है</span>
+      <div class="lk-al-viewport">
+        <div id="lk-mkt-alert-track" class="lk-al-track">${initialAlerts}</div>
+      </div>
+    </div>
+  </div>
+</section>`;
+}
+
 export function renderEditorialHeader({ currentKey = 'home', trendingStories = [] } = {}) {
   const formattedDate = new Intl.DateTimeFormat('en-IN', {
     weekday: 'short',
@@ -153,7 +193,8 @@ export function renderEditorialHeader({ currentKey = 'home', trendingStories = [
       </ul>
     </div>
   </nav>
-</header>`;
+</header>
+${renderMarketAlertStrip(trendingStories)}`;
 }
 
 export function renderEditorialFooter() {
@@ -376,6 +417,7 @@ function renderPageDocument({ title, description, canonical, ogImage, schemaJson
     ${bodyHtml}
   </main>
   ${renderEditorialFooter()}
+  <script src="/assets/market-ticker.js?v=20261112a" defer></script>
   ${extraScripts}
 </body>
 </html>`;

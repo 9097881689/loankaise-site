@@ -7,7 +7,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { escHtml } from './editorial_theme.mjs';
+import { escHtml, renderMarketAlertStrip } from './editorial_theme.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -75,6 +75,7 @@ function buildScopedHeader(trendingStories = []) {
     </ul>
   </nav>
 </header>
+${renderMarketAlertStrip(trendingStories)}
 <!-- LK_HT_HEADER_END -->`;
 }
 
@@ -135,6 +136,7 @@ function buildScopedFooter() {
     </div>
   </div>
 </footer>
+<script src="/assets/market-ticker.js?v=20261112a" defer></script>
 <!-- LK_HT_FOOTER_END -->`;
 }
 

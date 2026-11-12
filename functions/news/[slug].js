@@ -95,6 +95,26 @@ export async function onRequestGet({ params, request, env, next }) {
       </div>
     </nav>
   </header>
+  <section class="lk-mkt-bar" aria-label="Live Stock Market Alerts">
+    <div class="lk-mkt-row-top">
+      <div class="lk-mkt-inner">
+        <span id="lk-mkt-status-pill" class="lk-mkt-pill lk-pill-live">● LIVE MARKET RADAR</span>
+        <div id="lk-mkt-indices" class="lk-mkt-indices">
+          <span class="lk-mkt-chip"><span class="lk-mkt-sym">NIFTY 50</span><span class="lk-mkt-val">Live...</span></span>
+          <span class="lk-mkt-chip"><span class="lk-mkt-sym">SENSEX</span><span class="lk-mkt-val">Live...</span></span>
+          <span class="lk-mkt-chip"><span class="lk-mkt-sym">BANK NIFTY</span><span class="lk-mkt-val">Live...</span></span>
+          <span class="lk-mkt-chip"><span class="lk-mkt-sym">GOLD</span><span class="lk-mkt-val">Live...</span></span>
+          <span class="lk-mkt-chip"><span class="lk-mkt-sym">NASDAQ</span><span class="lk-mkt-val">Live...</span></span>
+        </div>
+      </div>
+    </div>
+    <div class="lk-mkt-row-alert">
+      <div class="lk-mkt-inner">
+        <span class="lk-radar-label">⚡ MARKET ALERT • जिन पर नज़र है</span>
+        <div class="lk-al-viewport"><div id="lk-mkt-alert-track" class="lk-al-track">${[...ticker, ...ticker].map((st) => `<a class="lk-al-item" href="/news/${esc(st.slug)}/"><span class="lk-al-badge">👀 बाज़ार पर नज़र</span><span>${esc(st.title)}</span></a>`).join('')}</div></div>
+      </div>
+    </div>
+  </section>
 
   <main class="flex-1 w-full max-w-7xl mx-auto px-4 sm:px-8 py-8">
     <article class="max-w-4xl mx-auto">
@@ -132,6 +152,7 @@ export async function onRequestGet({ params, request, env, next }) {
   <footer class="bg-zinc-950 text-white py-10 border-t border-zinc-800 mt-12 text-center text-xs text-zinc-500">
     © 2026 LoanKaise.in. All rights reserved.
   </footer>
+  <script src="/assets/market-ticker.js?v=20261112a" defer></script>
 </body>
 </html>`;
 
