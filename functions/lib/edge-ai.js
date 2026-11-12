@@ -91,24 +91,44 @@ export function inferFinanceCategory(text = '') {
 
 export async function callEdgeGemini(prompt, apiKey) {
   if (!apiKey) throw new Error('GEMINI_API_KEY not configured on Cloudflare Pages');
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
-  const res = await fetch(url, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      contents: [{ parts: [{ text: prompt }] }],
-      generationConfig: {
-        temperature: 0.65,
-        responseMimeType: 'application/json',
-      },
-    }),
-  });
-  if (!res.ok) {
-    const err = await res.text();
-    throw new Error(`Gemini HTTP ${res.status}: ${err.slice(0, 160)}`);
+  const models = [
+    'gemini-3.1-flash-lite',
+    'gemini-3.1-flash-lite-preview',
+    'gemini-4-hydrogen',
+    'gemini-3.5-flash-lite',
+    'gemini-flash-lite-latest',
+  ];
+  let lastErr = null;
+  for (const model of models) {
+    try {
+      const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`;
+      const res = await fetch(url, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          contents: [{ parts: [{ text: prompt }] }],
+          generationConfig: {
+            temperature: 0.65,
+            responseMimeType: 'application/json',
+          },
+        }),
+      });
+      if (res.ok) {
+        const data = await res.json();
+        const parts = data.candidates?.[0]?.content?.parts || [];
+        const fullText = parts.map((p) => p.text || '').join('').trim();
+        if (fullText) return fullText;
+      }
+      const err = await res.text();
+      lastErr = new Error(`Gemini HTTP ${res.status} (${model}): ${err.slice(0, 160)}`);
+      if (res.status === 429 || res.status === 503) continue;
+      throw lastErr;
+    } catch (netErr) {
+      lastErr = netErr;
+      continue;
+    }
   }
-  const data = await res.json();
-  return data.candidates?.[0]?.content?.parts?.[0]?.text || '';
+  throw lastErr || new Error('All Gemini models exhausted');
 }
 
 export async function fetchExternalArticleContext(targetUrl) {

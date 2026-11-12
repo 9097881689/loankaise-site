@@ -71,6 +71,21 @@ function slugifyEnglish(str = '') {
   return clean ? `${clean}-${suffix}` : `finance-news-${Date.now()}`;
 }
 
+function safeParseJson(raw = '') {
+  const str = String(raw).trim();
+  const unescaped = str.replace(/```(?:json)?/gi, '').replace(/```/g, '').trim();
+  const firstBrace = unescaped.indexOf('{');
+  const lastBrace = unescaped.lastIndexOf('}');
+  if (firstBrace !== -1 && lastBrace !== -1 && lastBrace > firstBrace) {
+    try {
+      return JSON.parse(unescaped.slice(firstBrace, lastBrace + 1));
+    } catch {
+      // fallback below
+    }
+  }
+  return JSON.parse(unescaped);
+}
+
 function tokenizeTopic(str = '') {
   const stop = new Set([
     'the', 'a', 'an', 'in', 'on', 'at', 'to', 'for', 'of', 'with', 'by', 'from', 'as', 'is', 'are', 'was', 'were',
@@ -208,33 +223,50 @@ async function fetchArticleContext(url) {
 
 async function callGemini(prompt, responseMimeType = 'application/json') {
   if (!GEMINI_API_KEY) throw new Error('GEMINI_API_KEY missing');
-  const models = ['gemini-2.5-flash', 'gemini-2.5-flash', 'gemini-2.5-flash-lite'];
+  const models = [
+    'gemini-3.1-flash-lite',
+    'gemini-3.1-flash-lite-preview',
+    'gemini-4-hydrogen',
+    'gemini-3.5-flash-lite',
+    'gemini-flash-lite-latest',
+  ];
   let lastErr = null;
   for (let attempt = 0; attempt < models.length; attempt++) {
     const model = models[attempt];
     const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${GEMINI_API_KEY}`;
-    const res = await fetch(url, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        contents: [{ parts: [{ text: prompt }] }],
-        generationConfig: {
-          temperature: 0.65,
-          responseMimeType,
-        },
-      }),
-    });
-    if (res.ok) {
-      const data = await res.json();
-      return data.candidates?.[0]?.content?.parts?.[0]?.text || '';
-    }
-    const errTxt = await res.text();
-    lastErr = new Error(`Gemini HTTP ${res.status} (${model}): ${errTxt.slice(0, 180)}`);
-    if (res.status === 503 || res.status === 429) {
-      await new Promise((r) => setTimeout(r, 3500 * (attempt + 1)));
+    try {
+      const ctrl = new AbortController();
+      const timer = setTimeout(() => ctrl.abort(), 18000);
+      const res = await fetch(url, {
+        signal: ctrl.signal,
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          contents: [{ parts: [{ text: prompt }] }],
+          generationConfig: {
+            temperature: 0.65,
+            responseMimeType,
+          },
+        }),
+      });
+      clearTimeout(timer);
+      if (res.ok) {
+        const data = await res.json();
+        const parts = data.candidates?.[0]?.content?.parts || [];
+        const fullText = parts.map((p) => p.text || '').join('').trim();
+        if (fullText) return fullText;
+      }
+      const errTxt = await res.text();
+      lastErr = new Error(`Gemini HTTP ${res.status} (${model}): ${errTxt.slice(0, 180)}`);
+      if (res.status === 503 || res.status === 429) {
+        await new Promise((r) => setTimeout(r, 1500 * (attempt + 1)));
+        continue;
+      }
+    } catch (netErr) {
+      lastErr = netErr;
+      await new Promise((r) => setTimeout(r, 1500));
       continue;
     }
-    throw lastErr;
   }
   throw lastErr || new Error('Gemini request failed');
 }
@@ -328,7 +360,7 @@ Return strict JSON:
 }`;
 
     const rawJson = await callGemini(prompt, 'application/json');
-    const parsed = JSON.parse(rawJson);
+    const parsed = safeParseJson(rawJson);
     if (Array.isArray(parsed.mergedGroups)) {
       const finalClusters = [];
       const seenIdx = new Set();
@@ -434,7 +466,7 @@ Return STRICT JSON ONLY:
 }`;
 
   const rawJson = await callGemini(prompt, 'application/json');
-  const data = JSON.parse(rawJson);
+  const data = safeParseJson(rawJson);
 
   const validSlugs = new Set(FINANCE_CATEGORIES.map((c) => c.slug));
   const category = validSlugs.has(data.category) ? data.category : cluster.items[0].categoryHint || 'personal-finance';
