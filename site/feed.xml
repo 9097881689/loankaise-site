@@ -7,7 +7,23 @@
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <description>ताज़ा फाइनेंस न्यूज़, लोन गाइड्स, RBI अपडेट्स और बैंकिंग टूल्स हिंदी में।</description>
     <language>hi-in</language>
-    <lastBuildDate>Thu, 12 Nov 2026 01:03:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 01:06:47 GMT</lastBuildDate>
+    <item>
+      <title>कंपनियों के नतीजे: किसी की चांदी, किसी का फीका, जानिए आपके निवेश पर क्या होगा असर</title>
+      <link>https://loankaise.in/news/company-earnings-q2-impact-investors-1893/</link>
+      <guid isPermaLink="true">https://loankaise.in/news/company-earnings-q2-impact-investors-1893/</guid>
+      <pubDate>Thu, 12 Nov 2026 01:06:47 GMT</pubDate>
+      <category>शेयर बाज़ार &amp; गोल्ड</category>
+      <description>सितंबर तिमाही के नतीजों ने शेयर बाज़ार में हलचल मचा दी है, कुछ कंपनियों के मुनाफे में जबरदस्त उछाल तो कुछ को घाटा हुआ है।</description>
+    </item>
+    <item>
+      <title>शेयर बाज़ार में तेज़ी: सेंसेक्स 772 अंक उछला, निफ्टी 25255 के पार</title>
+      <link>https://loankaise.in/news/stock-market-rally-sensex-nifty-gains-0719/</link>
+      <guid isPermaLink="true">https://loankaise.in/news/stock-market-rally-sensex-nifty-gains-0719/</guid>
+      <pubDate>Thu, 12 Nov 2026 01:06:05 GMT</pubDate>
+      <category>शेयर बाज़ार &amp; गोल्ड</category>
+      <description>PSU बैंक और ऑटो शेयरों में ज़बरदस्त खरीदारी से बाज़ार में लौटी रौनक, निवेशकों में खुशी की लहर।</description>
+    </item>
     <item>
       <title>MSCI का बड़ा झटका: MicroStrategy इंडेक्स से बाहर, बिटकॉइन निवेश पर क्या होगा असर?</title>
       <link>https://loankaise.in/news/msci-microstrategy-bitcoin-index-impact-0566/</link>
@@ -231,22 +247,6 @@
       <pubDate>Thu, 20 Jul 2023 10:00:00 GMT</pubDate>
       <category>Banking Guide</category>
       <description>Jio Financial Services निफ्टी 50 में शामिल,प्रति शेयर Rs 261.85 कीमत पाई</description>
-    </item>
-    <item>
-      <title>Bulk Posting क्या होता है? (Bulk Posting Meaning In Hindi)</title>
-      <link>https://loankaise.in/bulk-posting-kya-hota-hai-meaning-in-hindi/</link>
-      <guid isPermaLink="true">https://loankaise.in/bulk-posting-kya-hota-hai-meaning-in-hindi/</guid>
-      <pubDate>Mon, 17 Jul 2023 10:00:00 GMT</pubDate>
-      <category>Banking Guide</category>
-      <description>Bulk Posting क्या होता है? (Bulk Posting Meaning In Hindi)</description>
-    </item>
-    <item>
-      <title>Assets And Liabilities Meaning In Hindi</title>
-      <link>https://loankaise.in/assets-and-liabilities-meaning-in-hindi/</link>
-      <guid isPermaLink="true">https://loankaise.in/assets-and-liabilities-meaning-in-hindi/</guid>
-      <pubDate>Sun, 16 Jul 2023 10:00:00 GMT</pubDate>
-      <category>Banking Guide</category>
-      <description>Assets And Liabilities Meaning In Hindi</description>
     </item>
   </channel>
 </rss>

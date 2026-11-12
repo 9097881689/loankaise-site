@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/company-earnings-q2-impact-investors-1893/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T01:06:47.311Z</news:publication_date>
+      <news:title>कंपनियों के नतीजे: किसी की चांदी, किसी का फीका, जानिए आपके निवेश पर क्या होगा असर</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/stock-market-rally-sensex-nifty-gains-0719/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T01:06:05.112Z</news:publication_date>
+      <news:title>शेयर बाज़ार में तेज़ी: सेंसेक्स 772 अंक उछला, निफ्टी 25255 के पार</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/msci-microstrategy-bitcoin-index-impact-0566/</loc>
     <news:news>
       <news:publication>
