@@ -53,7 +53,7 @@ function buildScopedHeader(trendingStories = []) {
     <a href="/" class="ht-brand-link">
       <div class="ht-brand-title-row">
         <span class="ht-diamond"></span>
-        <span class="ht-brand-name">LOANKAISE.IN</span>
+        <span class="ht-brand-name">LOANKAISE<span style="color:#dc2626">.IN</span></span>
       </div>
       <div class="ht-tagline-row">
         <span class="ht-tagline-line"></span>
@@ -96,7 +96,7 @@ function buildScopedFooter() {
       <div>
         <a href="/" style="display:inline-flex;align-items:center;gap:8px;text-decoration:none;margin-bottom:10px">
           <span class="ht-diamond"></span>
-          <span style="font-family:'Lora',serif;font-size:24px;font-weight:900;color:#fff;letter-spacing:-0.02em">LOANKAISE.IN</span>
+          <span style="font-family:'Lora',serif;font-size:24px;font-weight:900;color:#fff;letter-spacing:-0.02em">LOANKAISE<span style="color:#ef4444">.IN</span></span>
         </a>
         <p style="font-size:13px;color:#a1a1aa;font-family:'Lora',serif;line-height:1.65;max-width:380px;margin:0">
           LoanKaise.in भारत का स्वतंत्र हिंदी फाइनेंस न्यूज़ और बैंकिंग पोर्टल है — जहाँ RBI नियम, लोन, म्यूचुअल फंड, टैक्स और 40+ मुफ़्त कैलकुलेटर सरल भाषा में मिलते हैं।

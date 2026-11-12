@@ -150,7 +150,7 @@ export function renderEditorialHeader({ currentKey = 'home', trendingStories = [
           <div class="flex items-center space-x-2">
             <span class="inline-block w-2.5 h-2.5 bg-red-600 transform rotate-45 mb-1 shadow-xs"></span>
             <span class="text-2xl sm:text-3xl md:text-[42px] font-black font-serif tracking-tight text-zinc-950 uppercase group-hover:text-red-600 transition-colors duration-150 leading-none">
-              LOANKAISE.IN
+              LOANKAISE<span class="text-red-600">.IN</span>
             </span>
           </div>
           <div class="flex items-center space-x-2 mt-1">
@@ -209,7 +209,7 @@ export function renderEditorialFooter() {
         <a href="/" class="inline-flex items-center space-x-2 group">
           <span class="inline-block w-3 h-3 bg-red-600 transform rotate-45"></span>
           <span class="text-2xl sm:text-3xl font-black font-serif tracking-tight uppercase text-white group-hover:text-red-500 transition">
-            LOANKAISE.IN
+            LOANKAISE<span class="text-red-500">.IN</span>
           </span>
         </a>
         <p class="text-xs sm:text-sm text-zinc-400 font-serif leading-relaxed max-w-sm">

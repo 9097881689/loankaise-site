@@ -80,7 +80,7 @@ export async function onRequestGet({ params, request, env, next }) {
     <div class="py-3 px-4 sm:px-8 bg-white border-b border-zinc-200 text-center">
       <a href="/" class="inline-flex items-center space-x-2">
         <span class="inline-block w-2.5 h-2.5 bg-red-600 transform rotate-45"></span>
-        <span class="text-2xl sm:text-3xl font-black font-serif tracking-tight text-zinc-950 uppercase">LOANKAISE.IN</span>
+        <span class="text-2xl sm:text-3xl font-black font-serif tracking-tight text-zinc-950 uppercase">LOANKAISE<span class="text-red-600">.IN</span></span>
       </a>
     </div>
     <nav class="bg-white border-b border-zinc-950">
