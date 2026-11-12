@@ -395,7 +395,7 @@ function renderPageDocument({ title, description, canonical, ogImage, schemaJson
     ${bodyHtml}
   </main>
   ${renderEditorialFooter()}
-  <script src="/assets/market-ticker.js?v=20261112d" defer></script>
+  <script src="/assets/market-ticker.js?v=20261112e" defer></script>
   ${extraScripts}
 </body>
 </html>`;

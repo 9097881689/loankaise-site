@@ -1,14 +1,17 @@
 /**
- * LoanKaise.in — Live Stock Market Alert & Global Radar Edge API
- * Strictly serves real-time Indian/Global Stock Indices, Surge/Drop alerts, Commodities, and Live Market Radar
- * (kept 100% separate from the top TRENDING article news marquee).
+ * LoanKaise.in — Real-Time 1-Min Stock Market Alert & Global Radar Edge API
+ * Serves live NSE/BSE/Global Indices (Sensex, Nifty 50, Bank Nifty, FinNifty, India VIX, Gold, Silver, Crude, Nasdaq, S&P 500, Bitcoin, USD/INR)
+ * + Surge/Drop Hindi Alerts & Market Radar (strictly separate from top TRENDING news).
  */
 
 const SYMBOLS = [
-  { sym: '^NSEI', label: 'NIFTY 50', group: 'IN', unit: '' },
   { sym: '^BSESN', label: 'SENSEX', group: 'IN', unit: '' },
+  { sym: '^NSEI', label: 'NIFTY 50', group: 'IN', unit: '' },
   { sym: '^NSEBANK', label: 'BANK NIFTY', group: 'IN', unit: '' },
+  { sym: 'NIFTY_FIN_SERVICE.NS', label: 'FINNIFTY', group: 'IN', unit: '' },
+  { sym: '^INDIAVIX', label: 'INDIA VIX', group: 'IN', unit: '' },
   { sym: 'GC=F', label: 'GOLD', group: 'COMMODITY', unit: '$' },
+  { sym: 'SI=F', label: 'SILVER', group: 'COMMODITY', unit: '$' },
   { sym: 'CL=F', label: 'CRUDE OIL', group: 'COMMODITY', unit: '$' },
   { sym: '^IXIC', label: 'NASDAQ', group: 'GLOBAL', unit: '' },
   { sym: '^GSPC', label: 'S&P 500', group: 'GLOBAL', unit: '' },
@@ -35,12 +38,17 @@ function cleanText(s = '') {
 
 async function fetchQuote(item) {
   try {
-    const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(item.sym)}?range=1d&interval=5m`;
+    const bust = Date.now();
+    const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(item.sym)}?range=1d&interval=1m&_=${bust}`;
     const ctrl = new AbortController();
     const timer = setTimeout(() => ctrl.abort(), 3500);
     const res = await fetch(url, {
       signal: ctrl.signal,
-      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; LoanKaiseBot/1.0)' },
+      cf: { cacheTtl: 5, cacheEverything: false },
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (compatible; LoanKaiseBot/1.0)',
+        'Cache-Control': 'no-cache',
+      },
     });
     clearTimeout(timer);
     if (!res.ok) return null;
@@ -72,6 +80,7 @@ async function fetchRadarHeadlines() {
       const t = setTimeout(() => ctrl.abort(), 3500);
       const res = await fetch(u, {
         signal: ctrl.signal,
+        cf: { cacheTtl: 120 },
         headers: { 'User-Agent': 'Mozilla/5.0 (compatible; LoanKaiseBot/1.0)' },
       });
       clearTimeout(t);
@@ -104,7 +113,7 @@ async function fetchRadarHeadlines() {
 
 function buildHindiAlert(quotes, radarHeadlines) {
   const bigMoves = quotes
-    .filter((q) => Math.abs(q.pct) >= 0.5)
+    .filter((q) => Math.abs(q.pct) >= 0.45)
     .sort((a, b) => Math.abs(b.pct) - Math.abs(a.pct));
 
   const alerts = [];
@@ -128,7 +137,6 @@ function buildHindiAlert(quotes, radarHeadlines) {
     }
   }
 
-  // Global & Commodity Market Watch
   const nasdaq = quotes.find((q) => q.sym === '^IXIC');
   const sp500 = quotes.find((q) => q.sym === '^GSPC');
   const gold = quotes.find((q) => q.sym === 'GC=F');
@@ -147,7 +155,6 @@ function buildHindiAlert(quotes, radarHeadlines) {
     });
   }
 
-  // Live Market Radar strictly from stock/market RSS feeds (never duplicating TRENDING bar)
   for (const h of radarHeadlines.slice(0, 4)) {
     const lower = h.toLowerCase();
     const type =
@@ -176,8 +183,10 @@ export async function onRequestGet() {
   const quotes = quoteResults.filter(Boolean);
   const alerts = buildHindiAlert(quotes, radarHeadlines);
 
-  const primaryTone =
-    quotes[0]?.pct <= -0.5 ? 'drop' : quotes[0]?.pct >= 0.5 ? 'surge' : 'neutral';
+  const sensex = quotes.find((q) => q.sym === '^BSESN');
+  const nifty = quotes.find((q) => q.sym === '^NSEI');
+  const primaryPct = nifty?.pct ?? sensex?.pct ?? 0;
+  const primaryTone = primaryPct <= -0.3 ? 'drop' : primaryPct >= 0.3 ? 'surge' : 'neutral';
 
   return Response.json(
     {
@@ -189,7 +198,7 @@ export async function onRequestGet() {
     },
     {
       headers: {
-        'Cache-Control': 'public, max-age=30, s-maxage=60, stale-while-revalidate=120',
+        'Cache-Control': 'no-store, no-cache, must-revalidate, max-age=0',
       },
     }
   );

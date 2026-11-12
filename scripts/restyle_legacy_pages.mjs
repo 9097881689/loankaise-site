@@ -136,7 +136,7 @@ function buildScopedFooter() {
     </div>
   </div>
 </footer>
-<script src="/assets/market-ticker.js?v=20261112d" defer></script>
+<script src="/assets/market-ticker.js?v=20261112e" defer></script>
 <!-- LK_HT_FOOTER_END -->`;
 }
 

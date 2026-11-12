@@ -140,7 +140,7 @@ export async function onRequestGet({ params, request, env, next }) {
   <footer class="bg-zinc-50 text-zinc-700 py-10 border-t-2 border-zinc-950 mt-12 text-center text-xs">
     © 2026 LoanKaise.in. All rights reserved.
   </footer>
-  <script src="/assets/market-ticker.js?v=20261112d" defer></script>
+  <script src="/assets/market-ticker.js?v=20261112e" defer></script>
 </body>
 </html>`;
 
