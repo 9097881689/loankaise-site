@@ -383,7 +383,7 @@ function renderPageDocument({ title, description, canonical, ogImage, schemaJson
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700;800&family=Inter:wght@400;500;600;700&family=Lora:ital,wght@0,500;0,600;0,700;1,500&family=Noto+Sans+Devanagari:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="/assets/admin.css?v=20261112a" />
+  <link rel="stylesheet" href="/assets/admin.css?v=20261112d" />
   ${schemaJson ? `<script type="application/ld+json">${schemaJson}</script>` : ''}
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4298058382758528" crossorigin="anonymous"></script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-J75EYB646Q"></script>
@@ -395,7 +395,7 @@ function renderPageDocument({ title, description, canonical, ogImage, schemaJson
     ${bodyHtml}
   </main>
   ${renderEditorialFooter()}
-  <script src="/assets/market-ticker.js?v=20261112a" defer></script>
+  <script src="/assets/market-ticker.js?v=20261112d" defer></script>
   ${extraScripts}
 </body>
 </html>`;

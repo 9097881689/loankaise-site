@@ -136,7 +136,7 @@ function buildScopedFooter() {
     </div>
   </div>
 </footer>
-<script src="/assets/market-ticker.js?v=20261112a" defer></script>
+<script src="/assets/market-ticker.js?v=20261112d" defer></script>
 <!-- LK_HT_FOOTER_END -->`;
 }
 
@@ -179,10 +179,14 @@ export function restyleAllLegacyPages(allNews = null) {
     let html = fs.readFileSync(filePath, 'utf8');
     let changed = false;
 
-    // 1. Inject hollywood-shell.css into <head> if not already present
-    const cssTag = '<link rel="stylesheet" href="/assets/hollywood-shell.css?v=20261112a">';
+    // 1. Inject or cache-bust hollywood-shell.css inside <head>
+    const cssVer = '20261112d';
+    const cssTag = `<link rel="stylesheet" href="/assets/hollywood-shell.css?v=${cssVer}">`;
     if (!html.includes('hollywood-shell.css')) {
       html = html.replace('</head>', `  ${cssTag}\n</head>`);
+      changed = true;
+    } else if (!html.includes(`hollywood-shell.css?v=${cssVer}`)) {
+      html = html.replace(/hollywood-shell\.css(\?v=[^"'\s>]+)?/g, `hollywood-shell.css?v=${cssVer}`);
       changed = true;
     }
 

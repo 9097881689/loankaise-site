@@ -57,7 +57,7 @@ export async function onRequestGet({ params, request, env, next }) {
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700;800&family=Inter:wght@400;500;600;700&family=Lora:ital,wght@0,500;0,600;0,700;1,500&family=Noto+Sans+Devanagari:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="/assets/admin.css?v=20261112a" />
+  <link rel="stylesheet" href="/assets/admin.css?v=20261112d" />
   <meta name="google-adsense-account" content="ca-pub-4298058382758528" />
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4298058382758528" crossorigin="anonymous"></script>
 </head>
@@ -140,7 +140,7 @@ export async function onRequestGet({ params, request, env, next }) {
   <footer class="bg-zinc-50 text-zinc-700 py-10 border-t-2 border-zinc-950 mt-12 text-center text-xs">
     © 2026 LoanKaise.in. All rights reserved.
   </footer>
-  <script src="/assets/market-ticker.js?v=20261112a" defer></script>
+  <script src="/assets/market-ticker.js?v=20261112d" defer></script>
 </body>
 </html>`;
 
