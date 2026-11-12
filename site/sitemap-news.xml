@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/myanmar-ipo-civil-war-strategy-0402/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T00:58:15.836Z</news:publication_date>
+      <news:title>युद्धग्रस्त म्यांमार में अनोखा IPO: गृहयुद्ध के बीच कंपनी का बड़ा दांव</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/sip-investors-market-volatility-strategy-3805/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T00:57:48.323Z</news:publication_date>
+      <news:title>SIP निवेशकों को झटका: क्या बाजार की गिरावट में बंद कर दें अपनी किस्तें?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/mutual-fund-investors-shift-large-cap-2944/</loc>
     <news:news>
       <news:publication>
