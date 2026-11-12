@@ -74,32 +74,16 @@ export function renderMarketAlertStrip(trendingStories = []) {
     ? [...mktStories, ...mktStories]
         .map(
           (st) =>
-            `<a class="lk-al-item" href="/news/${escHtml(st.slug)}/"><span class="lk-al-badge">👀 बाज़ार पर नज़र</span><span>${escHtml(st.title)}</span></a>`
+            `<a class="lk-al-item" href="/news/${escHtml(st.slug)}/"><span class="lk-al-badge">👀 बाज़ार पर नज़र</span><span class="lk-txt-news">${escHtml(st.title)}</span><span class="lk-sep">•</span></a>`
         )
         .join('')
-    : `<a class="lk-al-item" href="/news/"><span class="lk-al-badge">⚡ मार्केट रडार</span><span>NIFTY 50, SENSEX, BANK NIFTY, Gold &amp; Global Markets Live Updates</span></a>`;
+    : `<a class="lk-al-item" href="/news/"><span class="lk-al-badge lk-al-surge">⚡ LIVE</span><span class="lk-txt-news">NIFTY 50 • SENSEX • BANK NIFTY • GOLD • NASDAQ Updates</span></a>`;
 
   return `<section class="lk-mkt-bar" aria-label="Live Stock Market Alerts">
-  <div class="lk-mkt-row-top">
-    <div class="lk-mkt-inner">
-      <span id="lk-mkt-status-pill" class="lk-mkt-pill lk-pill-live">● LIVE MARKET RADAR</span>
-      <div id="lk-mkt-indices" class="lk-mkt-indices">
-        <span class="lk-mkt-chip"><span class="lk-mkt-sym">NIFTY 50</span><span class="lk-mkt-val">Live...</span></span>
-        <span class="lk-mkt-chip"><span class="lk-mkt-sym">SENSEX</span><span class="lk-mkt-val">Live...</span></span>
-        <span class="lk-mkt-chip"><span class="lk-mkt-sym">BANK NIFTY</span><span class="lk-mkt-val">Live...</span></span>
-        <span class="lk-mkt-chip"><span class="lk-mkt-sym">GOLD</span><span class="lk-mkt-val">Live...</span></span>
-        <span class="lk-mkt-chip"><span class="lk-mkt-sym">NASDAQ</span><span class="lk-mkt-val">Live...</span></span>
-        <span class="lk-mkt-chip"><span class="lk-mkt-sym">S&amp;P 500</span><span class="lk-mkt-val">Live...</span></span>
-        <span class="lk-mkt-chip"><span class="lk-mkt-sym">USD/INR</span><span class="lk-mkt-val">Live...</span></span>
-      </div>
-    </div>
-  </div>
-  <div class="lk-mkt-row-alert">
-    <div class="lk-mkt-inner">
-      <span class="lk-radar-label">⚡ MARKET ALERT • जिन पर नज़र है</span>
-      <div class="lk-al-viewport">
-        <div id="lk-mkt-alert-track" class="lk-al-track">${initialAlerts}</div>
-      </div>
+  <div class="lk-mkt-inner">
+    <span id="lk-mkt-status-pill" class="lk-mkt-pill lk-pill-live">● MARKET LIVE</span>
+    <div class="lk-al-viewport">
+      <div id="lk-mkt-alert-track" class="lk-al-track">${initialAlerts}</div>
     </div>
   </div>
 </section>`;

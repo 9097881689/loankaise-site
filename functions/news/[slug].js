@@ -96,22 +96,10 @@ export async function onRequestGet({ params, request, env, next }) {
     </nav>
   </header>
   <section class="lk-mkt-bar" aria-label="Live Stock Market Alerts">
-    <div class="lk-mkt-row-top">
-      <div class="lk-mkt-inner">
-        <span id="lk-mkt-status-pill" class="lk-mkt-pill lk-pill-live">● LIVE MARKET RADAR</span>
-        <div id="lk-mkt-indices" class="lk-mkt-indices">
-          <span class="lk-mkt-chip"><span class="lk-mkt-sym">NIFTY 50</span><span class="lk-mkt-val">Live...</span></span>
-          <span class="lk-mkt-chip"><span class="lk-mkt-sym">SENSEX</span><span class="lk-mkt-val">Live...</span></span>
-          <span class="lk-mkt-chip"><span class="lk-mkt-sym">BANK NIFTY</span><span class="lk-mkt-val">Live...</span></span>
-          <span class="lk-mkt-chip"><span class="lk-mkt-sym">GOLD</span><span class="lk-mkt-val">Live...</span></span>
-          <span class="lk-mkt-chip"><span class="lk-mkt-sym">NASDAQ</span><span class="lk-mkt-val">Live...</span></span>
-        </div>
-      </div>
-    </div>
-    <div class="lk-mkt-row-alert">
-      <div class="lk-mkt-inner">
-        <span class="lk-radar-label">⚡ MARKET ALERT • जिन पर नज़र है</span>
-        <div class="lk-al-viewport"><div id="lk-mkt-alert-track" class="lk-al-track">${[...ticker, ...ticker].map((st) => `<a class="lk-al-item" href="/news/${esc(st.slug)}/"><span class="lk-al-badge">👀 बाज़ार पर नज़र</span><span>${esc(st.title)}</span></a>`).join('')}</div></div>
+    <div class="lk-mkt-inner">
+      <span id="lk-mkt-status-pill" class="lk-mkt-pill lk-pill-live">● MARKET LIVE</span>
+      <div class="lk-al-viewport">
+        <div id="lk-mkt-alert-track" class="lk-al-track">${[...ticker, ...ticker].map((st) => `<a class="lk-al-item" href="/news/${esc(st.slug)}/"><span class="lk-al-badge">👀 बाज़ार पर नज़र</span><span class="lk-txt-news">${esc(st.title)}</span><span class="lk-sep">•</span></a>`).join('')}</div>
       </div>
     </div>
   </section>

@@ -1,6 +1,6 @@
 /**
- * LoanKaise.in — Client-side Live Stock Market Alert Bar Hydrator
- * Polls /api/market-alert (same-origin) cleanly every 60 seconds and updates indices + Hindi alerts.
+ * LoanKaise.in — Single-Line Live Stock Market & Global Radar Ticker
+ * Polls /api/market-alert every 60s and streams quotes + green/red surge/drop/news alerts in 1 marquee line.
  */
 (function () {
   function esc(s) {
@@ -14,69 +14,72 @@
 
   function fmtNum(val, unit) {
     if (typeof val !== 'number' || isNaN(val)) return '--';
-    const formatted = val.toLocaleString('en-IN', {
-      minimumFractionDigits: val < 200 ? 2 : 0,
-      maximumFractionDigits: 2,
-    });
-    return (unit || '') + formatted;
-  }
-
-  function renderQuotes(quotes) {
-    const strip = document.getElementById('lk-mkt-indices');
-    if (!strip || !Array.isArray(quotes) || !quotes.length) return;
-    strip.innerHTML = quotes
-      .map((q) => {
-        const isUp = q.pct >= 0;
-        const cls = isUp ? 'lk-mkt-up' : 'lk-mkt-down';
-        const arrow = isUp ? '▲' : '▼';
-        const sign = isUp ? '+' : '';
-        return (
-          '<span class="lk-mkt-chip">' +
-          '<span class="lk-mkt-sym">' + esc(q.label) + '</span>' +
-          '<span class="lk-mkt-val">' + esc(fmtNum(q.price, q.unit)) + '</span>' +
-          '<span class="' + cls + '">' + arrow + ' ' + sign + q.pct.toFixed(2) + '%</span>' +
-          '</span>'
-        );
+    return (
+      (unit || '') +
+      val.toLocaleString('en-IN', {
+        minimumFractionDigits: val < 200 ? 2 : 0,
+        maximumFractionDigits: 2,
       })
-      .join('');
+    );
   }
 
-  function renderAlerts(alerts, tone) {
+  function updateSingleLine(quotes, alerts, tone) {
     const pill = document.getElementById('lk-mkt-status-pill');
-    const marquee = document.getElementById('lk-mkt-alert-track');
+    const track = document.getElementById('lk-mkt-alert-track');
+
     if (pill) {
       if (tone === 'drop') {
         pill.className = 'lk-mkt-pill lk-pill-drop';
-        pill.textContent = '🔻 बड़ा अलर्ट: गिरावट';
+        pill.textContent = '▼ MARKET ALERT';
       } else if (tone === 'surge') {
         pill.className = 'lk-mkt-pill lk-pill-surge';
-        pill.textContent = '🚀 बड़ा अलर्ट: उछाल';
+        pill.textContent = '▲ MARKET ALERT';
       } else {
         pill.className = 'lk-mkt-pill lk-pill-live';
-        pill.textContent = '● LIVE MARKET RADAR';
+        pill.textContent = '● MARKET LIVE';
       }
     }
-    if (!marquee || !Array.isArray(alerts) || !alerts.length) return;
 
-    const chunk = alerts
-      .map((a) => {
-        const badgeCls =
-          a.type === 'drop'
-            ? 'lk-al-badge lk-al-drop'
-            : a.type === 'surge'
-            ? 'lk-al-badge lk-al-surge'
-            : 'lk-al-badge';
-        const href = String(a.href || '/news/').startsWith('/') ? a.href : '/news/';
-        return (
-          '<a class="lk-al-item" href="' + esc(href) + '">' +
-          '<span class="' + badgeCls + '">' + esc(a.badge) + '</span>' +
-          '<span>' + esc(a.text) + '</span>' +
-          '</a>'
-        );
-      })
-      .join('');
+    if (!track) return;
 
-    marquee.innerHTML = chunk + chunk;
+    const quoteItems = (Array.isArray(quotes) ? quotes : []).map((q) => {
+      const isUp = q.pct >= 0;
+      const cls = isUp ? 'lk-mkt-up' : 'lk-mkt-down';
+      const arrow = isUp ? '▲' : '▼';
+      const sign = isUp ? '+' : '';
+      return (
+        '<a class="lk-al-item" href="/news/">' +
+        '<span class="lk-mkt-sym">' + esc(q.label) + '</span>' +
+        '<span class="lk-mkt-val">' + esc(fmtNum(q.price, q.unit)) + '</span>' +
+        '<span class="' + cls + '">' + arrow + ' ' + sign + q.pct.toFixed(2) + '%</span>' +
+        '<span class="lk-sep">•</span>' +
+        '</a>'
+      );
+    });
+
+    const alertItems = (Array.isArray(alerts) ? alerts : []).map((a) => {
+      const isDown = a.type === 'drop';
+      const isUp = a.type === 'surge';
+      const badgeCls = isDown
+        ? 'lk-al-badge lk-al-drop'
+        : isUp
+          ? 'lk-al-badge lk-al-surge'
+          : 'lk-al-badge';
+      const textCls = isDown ? 'lk-txt-drop' : isUp ? 'lk-txt-surge' : 'lk-txt-news';
+      const href = String(a.href || '/news/').startsWith('/') ? a.href : '/news/';
+      return (
+        '<a class="lk-al-item" href="' + esc(href) + '">' +
+        '<span class="' + badgeCls + '">' + esc(a.badge) + '</span>' +
+        '<span class="' + textCls + '">' + esc(a.text) + '</span>' +
+        '<span class="lk-sep">•</span>' +
+        '</a>'
+      );
+    });
+
+    const chunk = quoteItems.concat(alertItems).join('');
+    if (chunk) {
+      track.innerHTML = chunk + chunk;
+    }
   }
 
   async function refreshMarket() {
@@ -85,8 +88,7 @@
       if (!res.ok) return;
       const data = await res.json();
       if (!data || !data.success) return;
-      renderQuotes(data.quotes);
-      renderAlerts(data.alerts, data.tone);
+      updateSingleLine(data.quotes, data.alerts, data.tone);
     } catch {
       // keep pre-rendered fallback visible
     }
