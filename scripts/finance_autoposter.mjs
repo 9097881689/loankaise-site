@@ -319,11 +319,13 @@ async function clusterAndDedupeItems(freshItems, existingPosts) {
   clusters.sort((a, b) => b.latestMs - a.latestMs);
   const topCandidates = clusters.slice(0, 24);
 
-  if (!GEMINI_API_KEY || topCandidates.length === 0) {
+  if (!GEMINI_API_KEY || topCandidates.length === 0 || process.env.ENABLE_SEMANTIC_DEDUPE !== 'true') {
+    // Lexical clustering already groups items across all 10 sources with Jaccard similarity >= 0.32
+    // and excludes previously published posts (>= 0.38). Skipping saves 100% of Gemini quota for rewriting!
     return topCandidates;
   }
 
-  // 3. Semantic deduplication & cross-source clustering with Gemini 2.5 Flash
+  // 3. Semantic deduplication & cross-source clustering with Gemini (when enabled)
   try {
     const recentPublishedSummary = existingPosts
       .slice(0, 35)
