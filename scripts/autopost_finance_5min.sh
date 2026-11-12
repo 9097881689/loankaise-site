@@ -3,7 +3,7 @@ set -euo pipefail
 
 export PATH="/usr/local/bin:/opt/homebrew/bin:/usr/bin:/bin:$PATH"
 
-PROJECT_DIR="/Users/aksingh/Documents/New project/work/loankaise-github"
+PROJECT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
 LOCK_DIR="$PROJECT_DIR/data/autopost.lock"
 LOGS_DIR="$PROJECT_DIR/logs"
 
@@ -25,6 +25,7 @@ fi
 
 echo "$(date '+%Y-%m-%d %H:%M:%S') | INFO | finance-autopost | Starting 5-min Top-10 finance sync (--limit 2 --push)..." >> "$LOGS_DIR/finance-autopost.log"
 set +e
+git pull --rebase --autostash origin main >> "$LOGS_DIR/finance-autopost.log" 2>&1
 /usr/local/bin/node "$PROJECT_DIR/scripts/finance_autoposter.mjs" --limit 2 --push >> "$LOGS_DIR/finance-autopost.log" 2>&1
 STATUS=$?
 set -e
