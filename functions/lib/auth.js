@@ -1,5 +1,5 @@
 export const AUTH_COOKIE_NAME = 'lk_admin_auth';
-export const AUTH_TOKEN_VALUE = 'lk_authenticated_session_token_2026';
+export const AUTH_TOKEN_VALUE = 'lk_authenticated_session_ashok_2026';
 export const MAX_FAILED_ATTEMPTS = 10;
 export const LOCKOUT_DURATION_MS = 24 * 60 * 60 * 1000; // 24 Hours
 
@@ -29,9 +29,9 @@ export function isAuthenticated(request, env = {}) {
 export function verifyAdminCredentials(username = '', password = '', env = {}) {
   const u = String(username).trim().toLowerCase();
   const p = String(password).trim();
-  const expectedPass = env.ADMIN_PASSWORD || 'loankaise@8093';
-  const validUsers = new Set(['admin', 'loankaise', 'hollywood']);
-  return validUsers.has(u) && (p === expectedPass || p === 'hollywood@8093');
+  const expectedPass = env.ADMIN_PASSWORD || 'Ashok_333';
+  const validUsers = new Set(['admin', 'ashok', 'loankaise']);
+  return validUsers.has(u) && p === expectedPass;
 }
 
 export async function checkLoginLockout(ip, env = {}) {
