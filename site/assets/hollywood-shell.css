@@ -1,0 +1,379 @@
+/* LoanKaise.in — Scoped HollywoodTime Editorial Theme Layer for Legacy Pages, Guides, Calculators & Mock Tests */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700;800&family=Inter:wght@400;500;600;700&family=Lora:ital,wght@0,500;0,600;0,700;1,500&family=Noto+Sans+Devanagari:wght@400;500;600;700;800&display=swap');
+
+:root {
+  --ink: #09090b !important;
+  --muted: #52525b !important;
+  --brand: #dc2626 !important;
+  --brand2: #18181b !important;
+  --bg: #ffffff !important;
+  --card: #ffffff !important;
+  --line: #e4e4e7 !important;
+  --warning: #fefce8 !important;
+  --lk-calc-primary: #dc2626 !important;
+  --lk-calc-primary-2: #b91c1c !important;
+  --lk-calc-soft: #fef2f2 !important;
+  --lk-calc-border: #fecaca !important;
+  --lk-calc-ink: #09090b !important;
+  --lk-calc-muted: #52525b !important;
+  --lk-calc-success: #059669 !important;
+}
+
+body {
+  background: #ffffff !important;
+  color: #09090b !important;
+  font-family: "Inter", "Noto Sans Devanagari", system-ui, -apple-system, sans-serif !important;
+  margin: 0;
+}
+
+h1, h2, h3, h4 {
+  font-family: "Lora", "Noto Sans Devanagari", Georgia, serif !important;
+  color: #09090b;
+}
+
+/* Scoped HollywoodTime Header (.ht-header) */
+.ht-header {
+  width: 100%;
+  background: #ffffff;
+  position: sticky;
+  top: 0;
+  z-index: 60;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.06);
+  font-family: "Inter", "Noto Sans Devanagari", system-ui, sans-serif;
+}
+.ht-topbar {
+  background: #09090b;
+  color: #d4d4d8;
+  padding: 6px 16px;
+  border-bottom: 1px solid #18181b;
+  overflow: hidden;
+  user-select: none;
+}
+.ht-topbar-inner {
+  max-width: 1280px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  font-size: 11px;
+}
+.ht-date {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 10px;
+  color: #a1a1aa;
+  white-space: nowrap;
+}
+.ht-date strong { color: #ffffff; text-transform: uppercase; }
+.ht-date .ht-loc { color: #fbbf24; font-weight: 700; }
+.ht-ticker-wrap {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  overflow: hidden;
+}
+.ht-trending-badge {
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  background: #dc2626;
+  color: #ffffff;
+  font-size: 9px;
+  font-weight: 900;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 2px 8px;
+  border-radius: 2px;
+}
+.ht-trending-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 999px;
+  background: #ffffff;
+}
+.ht-marquee-viewport {
+  flex: 1;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.ht-marquee-track {
+  display: inline-flex;
+  align-items: center;
+  gap: 24px;
+  width: max-content;
+  animation: htMarquee 42s linear infinite;
+  font-family: "Lora", "Noto Sans Devanagari", serif;
+  font-size: 11px;
+}
+.ht-marquee-track:hover { animation-play-state: paused; }
+.ht-marquee-track a {
+  color: #e4e4e7;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+.ht-marquee-track a:hover { color: #fde047; }
+.ht-marquee-cat {
+  color: #ef4444;
+  font-family: "Inter", sans-serif;
+  font-weight: 900;
+  font-size: 9px;
+  text-transform: uppercase;
+}
+@keyframes htMarquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+.ht-toplinks {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 10px;
+  white-space: nowrap;
+}
+.ht-toplinks a { color: #a1a1aa; text-decoration: none; font-weight: 500; }
+.ht-toplinks a:hover { color: #ffffff; }
+.ht-toplinks a.ht-rss { color: #fbbf24; font-weight: 700; }
+
+.ht-masthead {
+  padding: 12px 16px 14px;
+  background: #ffffff;
+  border-bottom: 1px solid #e4e4e7;
+  text-align: center;
+}
+.ht-brand-link {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none !important;
+}
+.ht-brand-title-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.ht-diamond {
+  width: 10px;
+  height: 10px;
+  background: #dc2626;
+  transform: rotate(45deg);
+  display: inline-block;
+  margin-bottom: 2px;
+}
+.ht-brand-name {
+  font-family: "Lora", "Cinzel", Georgia, serif;
+  font-size: clamp(24px, 4vw, 40px);
+  font-weight: 900;
+  letter-spacing: -0.02em;
+  color: #09090b;
+  text-transform: uppercase;
+  line-height: 1;
+}
+.ht-brand-link:hover .ht-brand-name { color: #dc2626; }
+.ht-tagline-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 4px;
+}
+.ht-tagline-line { width: 32px; height: 1px; background: #d4d4d8; }
+.ht-tagline {
+  font-size: 9px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.22em;
+  color: #71717a;
+  margin: 0;
+}
+
+.ht-nav {
+  background: #ffffff;
+  border-bottom: 2px solid #09090b;
+}
+.ht-nav-list {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 6px 16px;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  overflow-x: auto;
+}
+.ht-nav-list::-webkit-scrollbar { display: none; }
+.ht-nav-list a {
+  display: block;
+  white-space: nowrap;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #18181b;
+  text-decoration: none !important;
+  padding: 3px 6px;
+}
+.ht-nav-list a:hover { color: #dc2626; }
+
+@media (max-width: 768px) {
+  .ht-date, .ht-toplinks { display: none; }
+  .ht-nav-list { justify-content: flex-start; gap: 14px; }
+}
+
+/* Override Legacy Blue Elements into HollywoodTime Editorial Theme */
+.hero-wrap {
+  background: #ffffff !important;
+  padding: 20px 16px 8px !important;
+}
+.hero-card {
+  background: #09090b !important;
+  color: #ffffff !important;
+  border: 1px solid #27272a !important;
+  border-top: 4px solid #dc2626 !important;
+  box-shadow: 0 12px 32px rgba(9, 9, 11, 0.12) !important;
+}
+.hero-card h1, .hero-card p { color: #ffffff !important; }
+.hero-card .eyebrow {
+  background: #dc2626 !important;
+  color: #ffffff !important;
+  border-color: #dc2626 !important;
+  border-radius: 3px !important;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+.article {
+  background: #ffffff !important;
+  border: 1px solid #e4e4e7 !important;
+  border-top: 4px solid #09090b !important;
+  border-radius: 12px !important;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04) !important;
+}
+.article h1 {
+  font-family: "Lora", "Noto Sans Devanagari", Georgia, serif !important;
+  color: #09090b !important;
+}
+.entry-content h2 {
+  border-bottom: 2px solid #e4e4e7;
+  padding-bottom: 6px;
+  color: #09090b;
+}
+.tag {
+  background: #dc2626 !important;
+  color: #ffffff !important;
+  border-radius: 2px !important;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+.post-row {
+  border: 1px solid #e4e4e7 !important;
+  border-radius: 12px !important;
+}
+.post-row:hover {
+  border-color: #dc2626 !important;
+}
+.post-num {
+  background: #fef2f2 !important;
+  color: #dc2626 !important;
+  border: 1px solid #fecaca !important;
+}
+.btn-primary, .calc-box .btn-primary {
+  background: #dc2626 !important;
+  color: #ffffff !important;
+  border-color: #dc2626 !important;
+}
+.btn-primary:hover {
+  background: #b91c1c !important;
+}
+.sidebox, .side-card, .main-card {
+  border-color: #e4e4e7 !important;
+}
+.notice {
+  background: #fffbeb !important;
+  border-left: 4px solid #f59e0b !important;
+}
+
+/* Scoped HollywoodTime Dark Footer (.ht-footer) */
+.ht-footer {
+  background: #09090b;
+  color: #ffffff;
+  border-top: 1px solid #27272a;
+  padding: 48px 16px 40px;
+  margin-top: 48px;
+  font-family: "Inter", "Noto Sans Devanagari", system-ui, sans-serif;
+}
+.ht-footer-inner {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+.ht-footer-wire {
+  padding-bottom: 24px;
+  margin-bottom: 32px;
+  border-bottom: 1px solid #27272a;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+.ht-wire-badge {
+  padding: 4px 10px;
+  background: rgba(220, 38, 38, 0.16);
+  color: #f87171;
+  font-weight: 800;
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  border: 1px solid rgba(239, 68, 68, 0.35);
+  border-radius: 2px;
+}
+.ht-footer-grid {
+  display: grid;
+  grid-template-columns: 2fr 1.2fr 1.2fr;
+  gap: 32px;
+  padding-bottom: 36px;
+  border-bottom: 1px solid #27272a;
+}
+@media (max-width: 768px) {
+  .ht-footer-grid { grid-template-columns: 1fr; }
+}
+.ht-footer h3 {
+  color: #a1a1aa !important;
+  font-family: "Inter", sans-serif !important;
+  font-size: 11px !important;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  border-bottom: 1px solid #27272a;
+  padding-bottom: 8px;
+  margin: 0 0 12px;
+}
+.ht-footer-links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 8px;
+  font-size: 12px;
+}
+.ht-footer-links a {
+  color: #d4d4d8;
+  text-decoration: none;
+}
+.ht-footer-links a:hover { color: #f87171; }
+.ht-footer-bottom {
+  padding-top: 24px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  font-size: 12px;
+  color: #71717a;
+}
+.ht-footer-bottom a { color: #a1a1aa; text-decoration: none; }
+.ht-footer-bottom a:hover { color: #ffffff; }
