@@ -63,15 +63,15 @@ export async function onRequestGet({ params, request, env, next }) {
 </head>
 <body class="bg-white text-gray-900 font-sans antialiased min-h-screen flex flex-col">
   <header class="w-full bg-white sticky top-0 z-50 shadow-[0_1px_8px_rgba(0,0,0,0.06)]">
-    <div class="bg-zinc-950 text-zinc-300 py-1.5 px-4 sm:px-8 border-b border-zinc-900 overflow-hidden">
+    <div class="bg-zinc-100 text-zinc-800 py-1.5 px-4 sm:px-8 border-b border-zinc-200 overflow-hidden">
       <div class="max-w-7xl mx-auto flex items-center justify-between gap-3 text-[11px]">
         <div class="flex-1 min-w-0 flex items-center gap-2 overflow-hidden">
           <div class="flex-shrink-0 flex items-center space-x-1 bg-red-600 px-2 py-0.5 rounded-xs text-[9px] font-black uppercase tracking-widest text-white">
             <span>TRENDING</span>
           </div>
           <div class="relative w-full overflow-hidden whitespace-nowrap">
-            <div class="marquee-track flex items-center space-x-6 text-[11px] font-serif">
-              ${[...ticker, ...ticker].map((st) => `<a href="/news/${esc(st.slug)}/" class="text-zinc-200 hover:text-amber-300"><span class="text-red-500 font-sans font-black text-[9px] uppercase mr-1">[${esc(st.categoryLabel)}]</span>${esc(st.title)}</a>`).join('')}
+            <div class="marquee-track flex items-center space-x-6 text-[13px] font-serif">
+              ${[...ticker, ...ticker].map((st) => `<a href="/news/${esc(st.slug)}/" class="text-zinc-900 hover:text-red-600"><span class="text-red-600 font-sans font-black text-[10px] uppercase mr-1">[${esc(st.categoryLabel)}]</span>${esc(st.title)}</a>`).join('')}
             </div>
           </div>
         </div>
@@ -137,7 +137,7 @@ export async function onRequestGet({ params, request, env, next }) {
     </article>
   </main>
 
-  <footer class="bg-zinc-950 text-white py-10 border-t border-zinc-800 mt-12 text-center text-xs text-zinc-500">
+  <footer class="bg-zinc-50 text-zinc-700 py-10 border-t-2 border-zinc-950 mt-12 text-center text-xs">
     © 2026 LoanKaise.in. All rights reserved.
   </footer>
   <script src="/assets/market-ticker.js?v=20261112a" defer></script>
