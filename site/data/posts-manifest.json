@@ -1,5 +1,41 @@
 [
   {
+    "id": "lk-1794446224201-9hil",
+    "slug": "thomson-reuters-ai-spending-share-buyback-6665",
+    "url": "/news/thomson-reuters-ai-spending-share-buyback-6665/",
+    "title": "AI पर भारी खर्च से निवेशक चिंतित, थॉमसन रॉयटर्स का शेयर बायबैक का दांव",
+    "subtitle": "शेयरधारकों को भरोसा दिलाने और AI निवेश के बोझ को कम करने के लिए कंपनी ने उठाया ये बड़ा कदम।",
+    "category": "business",
+    "categoryLabel": "बिज़नेस & इकोनॉमी",
+    "featuredImage": "/uploads/news/thomson-reuters-ai-spending-share-buyback-6665.webp",
+    "authorName": "नेहा गुप्ता",
+    "publishedAt": "2026-11-12T01:17:04.198Z",
+    "indexedInGoogle": true,
+    "sourcesCount": 1,
+    "sourceNames": [
+      "NDTV Profit"
+    ],
+    "isLegacyGuide": false
+  },
+  {
+    "id": "lk-1794446162515-h4gv",
+    "slug": "canada-pension-hedge-fund-investment-plan-5219",
+    "url": "/news/canada-pension-hedge-fund-investment-plan-5219/",
+    "title": "हेज़ फंड में निवेश दोगुना करेगा कनाडा पेंशन, 160 अरब डॉलर तक पहुंचाने की योजना",
+    "subtitle": "कनाडा का सबसे बड़ा पेंशन फंड अगले 5-7 सालों में हेज फंड में अपना निवेश दोगुना करके 160 अरब डॉलर तक ले जाने की तैयारी में है, जिससे फंड की दुनिया को बड़ी राहत मिली है।",
+    "category": "markets",
+    "categoryLabel": "शेयर बाज़ार & गोल्ड",
+    "featuredImage": "/uploads/news/canada-pension-hedge-fund-investment-plan-5219.webp",
+    "authorName": "अमित मिश्रा",
+    "publishedAt": "2026-11-12T01:16:02.513Z",
+    "indexedInGoogle": true,
+    "sourcesCount": 1,
+    "sourceNames": [
+      "Livemint Markets"
+    ],
+    "isLegacyGuide": false
+  },
+  {
     "id": "lk-1794445900666-im7j",
     "slug": "dollar-strengthens-fed-rate-hike-expectations-5925",
     "url": "/news/dollar-strengthens-fed-rate-hike-expectations-5925/",
