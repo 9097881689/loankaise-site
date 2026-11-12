@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/stock-market-rally-sensex-nifty-gains-7473/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T01:21:06.136Z</news:publication_date>
+      <news:title>शेयर बाज़ार में तेज़ी का सिलसिला जारी, सेंसेक्स 82000 के पार, आगे क्या?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/thomson-reuters-ai-spending-share-buyback-6665/</loc>
     <news:news>
       <news:publication>

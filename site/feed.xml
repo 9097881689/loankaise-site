@@ -7,7 +7,15 @@
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <description>ताज़ा फाइनेंस न्यूज़, लोन गाइड्स, RBI अपडेट्स और बैंकिंग टूल्स हिंदी में।</description>
     <language>hi-in</language>
-    <lastBuildDate>Thu, 12 Nov 2026 01:25:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 01:34:36 GMT</lastBuildDate>
+    <item>
+      <title>शेयर बाज़ार में तेज़ी का सिलसिला जारी, सेंसेक्स 82000 के पार, आगे क्या?</title>
+      <link>https://loankaise.in/news/stock-market-rally-sensex-nifty-gains-7473/</link>
+      <guid isPermaLink="true">https://loankaise.in/news/stock-market-rally-sensex-nifty-gains-7473/</guid>
+      <pubDate>Thu, 12 Nov 2026 01:21:06 GMT</pubDate>
+      <category>शेयर बाज़ार &amp; गोल्ड</category>
+      <description>भारतीय शेयर बाज़ार ने लगातार दूसरे दिन बढ़त दर्ज की, सेंसेक्स और निफ्टी नई ऊंचाइयों पर पहुंचे।</description>
+    </item>
     <item>
       <title>AI पर भारी खर्च से निवेशक चिंतित, थॉमसन रॉयटर्स का शेयर बायबैक का दांव</title>
       <link>https://loankaise.in/news/thomson-reuters-ai-spending-share-buyback-6665/</link>
@@ -239,14 +247,6 @@
       <pubDate>Mon, 24 Jul 2023 10:00:00 GMT</pubDate>
       <category>Banking Guide</category>
       <description>Bank Manager Ko आवेदन कैसे लिखें?</description>
-    </item>
-    <item>
-      <title>SBI:Yono se Statement कैसे निकालें?</title>
-      <link>https://loankaise.in/yono-se-statement-kaise-nikale/</link>
-      <guid isPermaLink="true">https://loankaise.in/yono-se-statement-kaise-nikale/</guid>
-      <pubDate>Mon, 24 Jul 2023 10:00:00 GMT</pubDate>
-      <category>Banking Guide</category>
-      <description>SBI:Yono se Statement कैसे निकालें?</description>
     </item>
   </channel>
 </rss>
