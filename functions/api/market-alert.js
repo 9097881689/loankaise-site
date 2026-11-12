@@ -1,7 +1,7 @@
 /**
  * LoanKaise.in — Live Stock Market Alert & Global Radar Edge API
- * Fetches real-time Nifty 50, Sensex, Bank Nifty, Gold, Nasdaq, S&P 500, USD/INR
- * + Breaking stock/market surge, drop & global cues every 60s at Cloudflare Edge.
+ * Strictly serves real-time Indian/Global Stock Indices, Surge/Drop alerts, Commodities, and Live Market Radar
+ * (kept 100% separate from the top TRENDING article news marquee).
  */
 
 const SYMBOLS = [
@@ -9,8 +9,10 @@ const SYMBOLS = [
   { sym: '^BSESN', label: 'SENSEX', group: 'IN', unit: '' },
   { sym: '^NSEBANK', label: 'BANK NIFTY', group: 'IN', unit: '' },
   { sym: 'GC=F', label: 'GOLD', group: 'COMMODITY', unit: '$' },
+  { sym: 'CL=F', label: 'CRUDE OIL', group: 'COMMODITY', unit: '$' },
   { sym: '^IXIC', label: 'NASDAQ', group: 'GLOBAL', unit: '' },
   { sym: '^GSPC', label: 'S&P 500', group: 'GLOBAL', unit: '' },
+  { sym: 'BTC-USD', label: 'BITCOIN', group: 'CRYPTO', unit: '$' },
   { sym: 'USDINR=X', label: 'USD/INR', group: 'FX', unit: '₹' },
 ];
 
@@ -89,7 +91,7 @@ async function fetchRadarHeadlines() {
   for (const r of results) {
     if (r.status === 'fulfilled') {
       for (const t of r.value) {
-        const k = t.toLowerCase().slice(0, 42);
+        const k = t.toLowerCase().slice(0, 40);
         if (!seen.has(k)) {
           seen.add(k);
           combined.push(t);
@@ -100,40 +102,43 @@ async function fetchRadarHeadlines() {
   return combined.slice(0, 5);
 }
 
-function buildHindiAlert(quotes, radarHeadlines, manifestPosts) {
+function buildHindiAlert(quotes, radarHeadlines) {
   const bigMoves = quotes
-    .filter((q) => Math.abs(q.pct) >= 0.7)
+    .filter((q) => Math.abs(q.pct) >= 0.5)
     .sort((a, b) => Math.abs(b.pct) - Math.abs(a.pct));
 
   const alerts = [];
 
   for (const q of bigMoves.slice(0, 3)) {
+    const valStr = `${q.unit}${q.price.toLocaleString('en-IN', { maximumFractionDigits: 2 })}`;
     if (q.pct > 0) {
       alerts.push({
         type: 'surge',
         badge: '🚀 तेज़ी अलर्ट',
-        text: `${q.label} में +${q.pct.toFixed(2)}% का बड़ा उछाल (${q.unit}${q.price.toLocaleString('en-IN', { maximumFractionDigits: 2 })})`,
+        text: `${q.label} +${q.pct.toFixed(2)}% उछाल (${valStr})`,
         href: '/news/',
       });
     } else {
       alerts.push({
         type: 'drop',
         badge: '🔻 गिरावट अलर्ट',
-        text: `${q.label} ${q.pct.toFixed(2)}% टूटा (${q.unit}${q.price.toLocaleString('en-IN', { maximumFractionDigits: 2 })})`,
+        text: `${q.label} ${q.pct.toFixed(2)}% गिरावट (${valStr})`,
         href: '/news/',
       });
     }
   }
 
-  // Global Market Watch
+  // Global & Commodity Market Watch
   const nasdaq = quotes.find((q) => q.sym === '^IXIC');
   const sp500 = quotes.find((q) => q.sym === '^GSPC');
   const gold = quotes.find((q) => q.sym === 'GC=F');
-  if (nasdaq || gold) {
+  const crude = quotes.find((q) => q.sym === 'CL=F');
+  if (nasdaq || gold || crude) {
     const parts = [];
     if (nasdaq) parts.push(`NASDAQ ${nasdaq.pct >= 0 ? '+' : ''}${nasdaq.pct.toFixed(2)}%`);
     if (sp500) parts.push(`S&P 500 ${sp500.pct >= 0 ? '+' : ''}${sp500.pct.toFixed(2)}%`);
     if (gold) parts.push(`Gold $${gold.price.toFixed(0)} (${gold.pct >= 0 ? '+' : ''}${gold.pct.toFixed(2)}%)`);
+    if (crude) parts.push(`Crude $${crude.price.toFixed(1)} (${crude.pct >= 0 ? '+' : ''}${crude.pct.toFixed(2)}%)`);
     alerts.push({
       type: 'global',
       badge: '🌍 ग्लोबल बाज़ार',
@@ -142,24 +147,18 @@ function buildHindiAlert(quotes, radarHeadlines, manifestPosts) {
     });
   }
 
-  // Add latest Hindi market news from our own published manifest
-  const marketPosts = (manifestPosts || [])
-    .filter((p) => !p.isLegacyGuide && (p.category === 'markets' || p.category === 'mutual-funds' || p.category === 'business'))
-    .slice(0, 3);
-
-  for (const p of marketPosts) {
+  // Live Market Radar strictly from stock/market RSS feeds (never duplicating TRENDING bar)
+  for (const h of radarHeadlines.slice(0, 4)) {
+    const lower = h.toLowerCase();
+    const type =
+      /fall|drop|slump|crash|sink|tumble|loss|decline|plunge/.test(lower)
+        ? 'drop'
+        : /surge|jump|rally|gain|soar|high|buy|top|up /.test(lower)
+          ? 'surge'
+          : 'radar';
     alerts.push({
-      type: 'news',
-      badge: '👀 बाज़ार पर नज़र',
-      text: p.title,
-      href: p.url || `/news/${p.slug}/`,
-    });
-  }
-
-  for (const h of radarHeadlines.slice(0, 2)) {
-    alerts.push({
-      type: 'radar',
-      badge: '⚡ मार्केट रडार',
+      type,
+      badge: type === 'drop' ? '🔻 स्टॉक गिरावट' : type === 'surge' ? '🚀 स्टॉक उछाल' : '👀 मार्केट रडार',
       text: h,
       href: '/news/',
     });
@@ -168,25 +167,17 @@ function buildHindiAlert(quotes, radarHeadlines, manifestPosts) {
   return alerts;
 }
 
-export async function onRequestGet({ request, env }) {
-  let manifestPosts = [];
-  try {
-    if (env.ASSETS) {
-      const res = await env.ASSETS.fetch(new Request(new URL('/data/posts-manifest.json', request.url)));
-      if (res.ok) manifestPosts = await res.json();
-    }
-  } catch {}
-
+export async function onRequestGet() {
   const [quoteResults, radarHeadlines] = await Promise.all([
     Promise.all(SYMBOLS.map(fetchQuote)),
     fetchRadarHeadlines(),
   ]);
 
   const quotes = quoteResults.filter(Boolean);
-  const alerts = buildHindiAlert(quotes, radarHeadlines, manifestPosts);
+  const alerts = buildHindiAlert(quotes, radarHeadlines);
 
   const primaryTone =
-    quotes[0]?.pct <= -0.6 ? 'drop' : quotes[0]?.pct >= 0.6 ? 'surge' : 'neutral';
+    quotes[0]?.pct <= -0.5 ? 'drop' : quotes[0]?.pct >= 0.5 ? 'surge' : 'neutral';
 
   return Response.json(
     {

@@ -65,19 +65,13 @@ const NAV_ITEMS = [
   { key: 'guides', label: 'GUIDES', href: '/#guides' },
 ];
 
-export function renderMarketAlertStrip(trendingStories = []) {
-  const mktStories = (trendingStories || [])
-    .filter((s) => s && s.slug)
-    .slice(0, 4);
-
-  const initialAlerts = mktStories.length
-    ? [...mktStories, ...mktStories]
-        .map(
-          (st) =>
-            `<a class="lk-al-item" href="/news/${escHtml(st.slug)}/"><span class="lk-al-badge">👀 बाज़ार पर नज़र</span><span class="lk-txt-news">${escHtml(st.title)}</span><span class="lk-sep">•</span></a>`
-        )
-        .join('')
-    : `<a class="lk-al-item" href="/news/"><span class="lk-al-badge lk-al-surge">⚡ LIVE</span><span class="lk-txt-news">NIFTY 50 • SENSEX • BANK NIFTY • GOLD • NASDAQ Updates</span></a>`;
+export function renderMarketAlertStrip() {
+  const placeholders = [
+    '<a class="lk-al-item" href="/news/"><span class="lk-al-badge lk-al-surge">📈 INDIA</span><span class="lk-mkt-sym">NIFTY 50 • SENSEX • BANK NIFTY Live Updates</span><span class="lk-sep">•</span></a>',
+    '<a class="lk-al-item" href="/news/"><span class="lk-al-badge">🌍 GLOBAL</span><span class="lk-txt-news">NASDAQ • S&amp;P 500 • GOLD • CRUDE OIL • USD/INR</span><span class="lk-sep">•</span></a>',
+    '<a class="lk-al-item" href="/news/"><span class="lk-al-badge lk-al-drop">⚡ MARKET RADAR</span><span class="lk-txt-news">शेयर बाज़ार में बड़ा उछाल, गिरावट और स्टॉक वॉच लोड हो रहा है...</span><span class="lk-sep">•</span></a>',
+  ];
+  const initialAlerts = [...placeholders, ...placeholders].join('');
 
   return `<section class="lk-mkt-bar" aria-label="Live Stock Market Alerts">
   <div class="lk-mkt-inner">

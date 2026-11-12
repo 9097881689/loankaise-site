@@ -99,7 +99,7 @@ export async function onRequestGet({ params, request, env, next }) {
     <div class="lk-mkt-inner">
       <span id="lk-mkt-status-pill" class="lk-mkt-pill lk-pill-live">● MARKET LIVE</span>
       <div class="lk-al-viewport">
-        <div id="lk-mkt-alert-track" class="lk-al-track">${[...ticker, ...ticker].map((st) => `<a class="lk-al-item" href="/news/${esc(st.slug)}/"><span class="lk-al-badge">👀 बाज़ार पर नज़र</span><span class="lk-txt-news">${esc(st.title)}</span><span class="lk-sep">•</span></a>`).join('')}</div>
+        <div id="lk-mkt-alert-track" class="lk-al-track"><a class="lk-al-item" href="/news/"><span class="lk-al-badge lk-al-surge">📈 INDIA</span><span class="lk-mkt-sym">NIFTY 50 • SENSEX • BANK NIFTY Live Updates</span><span class="lk-sep">•</span></a><a class="lk-al-item" href="/news/"><span class="lk-al-badge">🌍 GLOBAL</span><span class="lk-txt-news">NASDAQ • S&amp;P 500 • GOLD • CRUDE OIL</span><span class="lk-sep">•</span></a></div>
       </div>
     </div>
   </section>
