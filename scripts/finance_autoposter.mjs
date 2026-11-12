@@ -99,10 +99,12 @@ function jaccardSimilarity(setA, setB) {
 }
 
 function isFinanceRelevant(item) {
+  const titleLower = String(item.title || '').toLowerCase();
   const text = `${item.title} ${item.description}`.toLowerCase();
   const blockWords = [
     'horoscope', 'rashifal', 'cricket', 'ipl', 'bollywood', 'actress', 'actor', 'bigg boss',
     'recipe', 'weather forecast', 'zodiac', 'astrology', 'viral video', 'dating', 'movie review',
+    'senate race', 'ballot', 'murder', 'arrested', 'divorce', 'wedding', 'earthquake',
   ];
   if (blockWords.some((b) => text.includes(b))) return false;
 
@@ -114,7 +116,11 @@ function isFinanceRelevant(item) {
     'axis', 'kotak', 'market', 'dividend', 'home loan', 'personal loan', 'car loan', 'education loan',
     'savings', 'retirement', 'pension', 'fed', 'treasury', 'bond', 'etf', 'crypto', 'economy',
   ];
-  return financeWords.some((w) => text.includes(w));
+  // Require at least one finance keyword in the headline OR two matches across title+description
+  const titleMatch = financeWords.some((w) => titleLower.includes(w));
+  if (titleMatch) return true;
+  const hitCount = financeWords.filter((w) => text.includes(w)).length;
+  return hitCount >= 2;
 }
 
 async function fetchOneSource(source) {
@@ -202,25 +208,35 @@ async function fetchArticleContext(url) {
 
 async function callGemini(prompt, responseMimeType = 'application/json') {
   if (!GEMINI_API_KEY) throw new Error('GEMINI_API_KEY missing');
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_API_KEY}`;
-  const res = await fetch(url, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      contents: [{ parts: [{ text: prompt }] }],
-      generationConfig: {
-        temperature: 0.65,
-        responseMimeType,
-      },
-    }),
-  });
-  if (!res.ok) {
+  const models = ['gemini-2.5-flash', 'gemini-2.5-flash', 'gemini-2.5-flash-lite'];
+  let lastErr = null;
+  for (let attempt = 0; attempt < models.length; attempt++) {
+    const model = models[attempt];
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${GEMINI_API_KEY}`;
+    const res = await fetch(url, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        contents: [{ parts: [{ text: prompt }] }],
+        generationConfig: {
+          temperature: 0.65,
+          responseMimeType,
+        },
+      }),
+    });
+    if (res.ok) {
+      const data = await res.json();
+      return data.candidates?.[0]?.content?.parts?.[0]?.text || '';
+    }
     const errTxt = await res.text();
-    throw new Error(`Gemini HTTP ${res.status}: ${errTxt.slice(0, 200)}`);
+    lastErr = new Error(`Gemini HTTP ${res.status} (${model}): ${errTxt.slice(0, 180)}`);
+    if (res.status === 503 || res.status === 429) {
+      await new Promise((r) => setTimeout(r, 3500 * (attempt + 1)));
+      continue;
+    }
+    throw lastErr;
   }
-  const data = await res.json();
-  const text = data.candidates?.[0]?.content?.parts?.[0]?.text || '';
-  return text;
+  throw lastErr || new Error('Gemini request failed');
 }
 
 /**
