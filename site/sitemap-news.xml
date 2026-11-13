@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/gold-price-crash-falls-city-wise-rates-9972/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T12:01:57.490Z</news:publication_date>
+      <news:title>सोने की कीमतों में भारी गिरावट जारी, चार दिनों में ₹61,100 तक टूटा भाव</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/parag-parikh-flexi-cap-fund-cash-reduction-9620/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T09:37:48.174Z</news:publication_date>
+      <news:title>Parag Parikh Flexi Cap Fund ने कम की कैश होल्डिंग: क्या अब निवेश करना है सही फैसला?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/nvidia-ceo-resignation-impact-ai-stocks-6917/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-11T16:16:10.067Z</news:publication_date>
       <news:title>Unacademy में बड़ा बदलाव: गौरव मुंजाल अब एग्जीक्यूटिव चेयरमैन, अखिलेन्द्र कुमार नए CEO</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/direct-tax-collections-fy27-india-economy-5717/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T16:15:47.577Z</news:publication_date>
-      <news:title>वित्त वर्ष 2027 में ₹14.42 लाख करोड़ हुई नेट टैक्स वसूली, आपकी जेब पर असर?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/itc-gold-flake-premium-price-hike-2568/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T16:15:15.400Z</news:publication_date>
-      <news:title>ITC Gold Flake प्रीमियम सिगरेट हुई 10 रुपये महंगी, दूसरी बार बढ़े दाम - जेब पर पड़ेगा असर!</news:title>
     </news:news>
   </url>
 </urlset>
