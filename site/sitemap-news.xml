@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/nvidia-ceo-resignation-impact-ai-stocks-6917/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T05:00:34.303Z</news:publication_date>
+      <news:title>Nvidia में नेतृत्व संकट: क्या Jensen Huang के इस्तीफे के बाद AMD और Broadcom पर दांव लगाना सही है?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/hitachi-energy-q2-results-share-price-analysis-6175/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T04:45:22.370Z</news:publication_date>
+      <news:title>Hitachi Energy के शेयर में रॉकेट जैसी तेज़ी: Q2 नतीजों के बाद क्या निवेशकों को करना चाहिए निवेश?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/anthropic-ipo-valuation-market-update-9856/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-11T16:15:15.400Z</news:publication_date>
       <news:title>ITC Gold Flake प्रीमियम सिगरेट हुई 10 रुपये महंगी, दूसरी बार बढ़े दाम - जेब पर पड़ेगा असर!</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/iifl-finance-fairfax-exit-blackstone-investment-0557/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T16:10:45.601Z</news:publication_date>
-      <news:title>IIFL फाइनेंस में बड़ा दांव: फेयरफैक्स बेचेगा हिस्सेदारी, ब्लैकस्टोन निवेश से मिलेगी मजबूती</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/us-tech-ai-stocks-surge-nvidia-coreweave-0099/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T16:10:17.665Z</news:publication_date>
-      <news:title>अमेरिकी टेक शेयरों में आया ज़ोरदार उछाल, AI स्टॉक्स ने भरी उड़ान</news:title>
     </news:news>
   </url>
 </urlset>
