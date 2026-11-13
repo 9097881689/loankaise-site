@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/rbi-treasury-bills-auction-investment-opportunity-9906/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T12:53:15.706Z</news:publication_date>
+      <news:title>RBI का बड़ा ऐलान: 23,000 करोड़ के ट्रेजरी बिल की नीलामी, जानें कैसे करें निवेश</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/microsoft-global-outage-impact-shares-2417/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T12:52:51.422Z</news:publication_date>
+      <news:title>Microsoft Outage: आउटेज से दुनिया भर में ठप हुए माइक्रोसॉफ्ट के काम, क्या शेयर बाजार पर पड़ेगा असर?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/gold-price-crash-falls-city-wise-rates-9972/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-11T16:16:56.980Z</news:publication_date>
       <news:title>बेंगलुरु में ₹8/किमी की इलेक्ट्रिक कैब! क्या Ola-Uber-Rapido की बादशाहत होगी खत्म?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/share-market-rally-fpi-inflows-stock-tips-2555/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T16:16:35.270Z</news:publication_date>
-      <news:title>शेयर बाजार में बंपर तेजी: FPIs ने झोंके ₹53,700 करोड़, इन 5 शेयरों पर रखें नजर</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/unacademy-leadership-change-gaurav-munjal-ceo-7842/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T16:16:10.067Z</news:publication_date>
-      <news:title>Unacademy में बड़ा बदलाव: गौरव मुंजाल अब एग्जीक्यूटिव चेयरमैन, अखिलेन्द्र कुमार नए CEO</news:title>
     </news:news>
   </url>
 </urlset>

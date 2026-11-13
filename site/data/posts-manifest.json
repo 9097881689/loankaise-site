@@ -1,5 +1,41 @@
 [
   {
+    "id": "lk-1794574395709-20eu",
+    "slug": "rbi-treasury-bills-auction-investment-opportunity-9906",
+    "url": "/news/rbi-treasury-bills-auction-investment-opportunity-9906/",
+    "title": "RBI का बड़ा ऐलान: 23,000 करोड़ के ट्रेजरी बिल की नीलामी, जानें कैसे करें निवेश",
+    "subtitle": "भारतीय रिजर्व बैंक ने सरकारी ट्रेजरी बिलों की नीलामी का शेड्यूल जारी किया है, जिसमें रिटेल निवेशक भी हिस्सा ले सकते हैं।",
+    "category": "personal-finance",
+    "categoryLabel": "पर्सनल फाइनेंस",
+    "featuredImage": "/uploads/news/rbi-treasury-bills-auction-investment-opportunity-9906.webp",
+    "authorName": "प्रिया वर्मा",
+    "publishedAt": "2026-11-13T12:53:15.706Z",
+    "indexedInGoogle": true,
+    "sourcesCount": 1,
+    "sourceNames": [
+      "Reserve Bank of India (RBI)"
+    ],
+    "isLegacyGuide": false
+  },
+  {
+    "id": "lk-1794574371428-4ndb",
+    "slug": "microsoft-global-outage-impact-shares-2417",
+    "url": "/news/microsoft-global-outage-impact-shares-2417/",
+    "title": "Microsoft Outage: आउटेज से दुनिया भर में ठप हुए माइक्रोसॉफ्ट के काम, क्या शेयर बाजार पर पड़ेगा असर?",
+    "subtitle": "माइक्रोसॉफ्ट की बड़ी तकनीकी खराबी से 70 से अधिक देशों में कामकाज प्रभावित, निवेशकों की बढ़ी चिंता।",
+    "category": "business",
+    "categoryLabel": "बिज़नेस & इकोनॉमी",
+    "featuredImage": "/uploads/news/microsoft-global-outage-impact-shares-2417.webp",
+    "authorName": "नेहा गुप्ता",
+    "publishedAt": "2026-11-13T12:52:51.422Z",
+    "indexedInGoogle": true,
+    "sourcesCount": 1,
+    "sourceNames": [
+      "Livemint Markets"
+    ],
+    "isLegacyGuide": false
+  },
+  {
     "id": "lk-1794571317493-5wgl",
     "slug": "gold-price-crash-falls-city-wise-rates-9972",
     "url": "/news/gold-price-crash-falls-city-wise-rates-9972/",
