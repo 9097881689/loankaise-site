@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/mobikwik-rbi-penalty-fine-news-1054/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T05:00:25.968Z</news:publication_date>
+      <news:title>MobiKwik पर RBI का बड़ा एक्शन: नियमों के उल्लंघन पर लगा 9 लाख का जुर्माना</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/zetwerk-q2-fy27-results-revenue-loss-9248/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T05:00:15.419Z</news:publication_date>
+      <news:title>Zetwerk Q2 FY27 Results: IPO के बाद पहली तिमाही में कंपनी को हुआ बड़ा नुकसान</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/yes-bank-at1-bonds-supreme-court-review-plea-5347/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-12T19:04:39.421Z</news:publication_date>
       <news:title>Paytm शेयर IPO लिस्टिंग प्राइस के करीब, मार्च के निचले स्तर से 100% उछाल के पीछे क्या है वजह?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/gold-price-future-india-experts-view-6634/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T10:06:21.309Z</news:publication_date>
-      <news:title>सोने की कीमत ₹1.50 लाख तक पहुंचेगी? एक्सपर्ट्स की राय, जानें कब</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/orient-green-power-q2-results-share-price-3724/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T10:05:59.650Z</news:publication_date>
-      <news:title>ओरिएंट ग्रीन पावर के शेयर चमके: Q2 नतीजों से मुनाफे में उछाल</news:title>
     </news:news>
   </url>
 </urlset>
