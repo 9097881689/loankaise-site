@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/nvidia-ceo-jensen-huang-resignation-impact-0530/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T05:50:25.339Z</news:publication_date>
+      <news:title>Nvidia में बड़ी उथल-पुथल: जेन्सेन हुआंग के इस्तीफे से गिरा शेयर, निवेशकों की चिंता बढ़ी</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/bank-holidays-november-2026-complete-list-9537/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T05:50:15.173Z</news:publication_date>
+      <news:title>बैंक की छुट्टियों की लंबी लिस्ट: नवंबर 2026 में कब-कब बंद रहेंगे बैंक? चेक करें</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/nvidia-ceo-jensen-huang-resignation-china-connection-2543/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-13T19:21:43.583Z</news:publication_date>
       <news:title>सोने की कीमतों में बड़ी गिरावट: क्या अब खरीदारी का सही मौका है या और गिरेंगे दाम?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/non-life-insurance-premium-growth-october-5639/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T14:03:22.383Z</news:publication_date>
-      <news:title>बीमा क्षेत्र में उछाल: अक्टूबर में नॉन-लाइफ इंश्योरेंस प्रीमियम 10.5% बढ़ा, हेल्थ इंश्योरेंस की मांग सबसे ज्यादा</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/paytm-shares-cross-ipo-listing-high-rbi-ppi-approval-3319/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T14:03:09.791Z</news:publication_date>
-      <news:title>Paytm Share: आईपीओ के 5 साल बाद पेटीएम शेयरों ने बनाया नया रिकॉर्ड, RBI के इस फैसले से लौटी निवेशकों की रौनक</news:title>
     </news:news>
   </url>
 </urlset>
