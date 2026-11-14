@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/us-fed-interest-rate-hike-impact-india-9136/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T04:30:33.399Z</news:publication_date>
+      <news:title>US Fed Rate Hike: क्या दिसंबर में फिर बढ़ेगी ब्याज दरें? जानिए क्या है अमेरिकी अर्थव्यवस्था का हाल</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/mahanadi-coalfields-ipo-coal-india-subsidiary-details-6877/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T04:30:23.645Z</news:publication_date>
+      <news:title>Mahanadi Coalfields IPO: कोल इंडिया की इस दिग्गज सब्सिडियरी का आईपीओ जल्द, जानें पूरी डिटेल</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/softbank-sells-meesho-shares-worth-rs-1885-crore-3391/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-12T09:41:04.326Z</news:publication_date>
       <news:title>IRFC शेयरों में तेज़ी: रेलवे सेक्टर के बड़े विस्तार से मिलेगा कितना फायदा? जानें टारगेट</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/patna-municipal-bond-nse-investment-guide-7804/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T09:11:43.929Z</news:publication_date>
-      <news:title>पटना का म्युनिसिपल बॉन्ड NSE पर लिस्ट, पाएं 9.20% ब्याज और जानें निवेश का तरीका</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/bharat-dynamics-q2-profit-fall-stock-impact-4698/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T09:11:09.339Z</news:publication_date>
-      <news:title>भारत डायनामिक्स के Q2 नतीजों ने किया निराश, मुनाफा 15% गिरा, मार्जिन में भारी गिरावट; शेयर धड़ाम!</news:title>
     </news:news>
   </url>
 </urlset>
