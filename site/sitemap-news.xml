@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/epf-ecr-filing-october-dues-deadline-7087/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T06:16:32.434Z</news:publication_date>
+      <news:title>EPF ECR Filing Deadline: अक्टूबर ईपीएफ बकाया और ईसीआर फाइलिंग के लिए 15 नवंबर तक का अल्टीमेटम</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/germany-stock-market-dax-rally-impact-1146/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T06:15:26.204Z</news:publication_date>
+      <news:title>जर्मनी के शेयर बाजार में जबरदस्त तेजी: क्या भारतीय निवेशकों को भी मिलेगा फायदा?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/rbi-forex-reserves-data-analysis-1837/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T04:15:17.477Z</news:publication_date>
       <news:title>अमेरिकी बाजार में तेजी की उम्मीद: गोल्डमैन सैक्स ने S&amp;P 500 के लिए जारी किया नया टारगेट</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/robinhood-ipo-lawsuit-supreme-court-update-1496/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T04:10:58.117Z</news:publication_date>
-      <news:title>Robinhood IPO Case: अमेरिका के सुप्रीम कोर्ट पहुंची रॉबिनहुड की कानूनी लड़ाई, निवेशकों को क्या है उम्मीद?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/childrens-day-2026-financial-planning-tips-7612/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T04:10:35.368Z</news:publication_date>
-      <news:title>Children&apos;s Day 2026: क्या बच्चों के भविष्य के लिए निवेश की तैयारी है पूरी?</news:title>
     </news:news>
   </url>
 </urlset>
