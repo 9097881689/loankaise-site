@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/inflation-monetary-policy-cea-nageswaran-impact-6883/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T06:35:32.213Z</news:publication_date>
+      <news:title>महंगाई रोकने में ब्याज दरों का असर होगा कम? CEA नागेश्वरन ने दी बड़ी चेतावनी</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/rbi-new-domestic-money-transfer-rules-4065/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T06:35:21.303Z</news:publication_date>
+      <news:title>RBI ने बदले पैसे भेजने के नियम: अब घर बैठे कैश ट्रांसफर करना होगा आसान</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/top-performing-largecap-stocks-november-multibagger-5061/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T04:35:19.352Z</news:publication_date>
       <news:title>Family Pension Rules: सरकारी पेंशन के लिए क्या है आय की सीमा? नए नियमों को समझें</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/us-fed-interest-rate-hike-impact-india-9136/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T04:30:33.399Z</news:publication_date>
-      <news:title>US Fed Rate Hike: क्या दिसंबर में फिर बढ़ेगी ब्याज दरें? जानिए क्या है अमेरिकी अर्थव्यवस्था का हाल</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/mahanadi-coalfields-ipo-coal-india-subsidiary-details-6877/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T04:30:23.645Z</news:publication_date>
-      <news:title>Mahanadi Coalfields IPO: कोल इंडिया की इस दिग्गज सब्सिडियरी का आईपीओ जल्द, जानें पूरी डिटेल</news:title>
     </news:news>
   </url>
 </urlset>
