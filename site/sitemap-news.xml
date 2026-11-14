@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/smart-financial-planning-for-rented-homes-4208/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T06:00:29.713Z</news:publication_date>
+      <news:title>किराये के घर में रह रहे हैं? अपनी सेविंग्स और भविष्य के सपनों को ऐसे रखें सुरक्षित</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/india-forex-reserves-increase-rbi-data-3043/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T06:00:18.313Z</news:publication_date>
+      <news:title>भारत का विदेशी मुद्रा भंडार फिर हुआ मजबूत, RBI के नए आंकड़ों में दिखी बड़ी उछाल</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/prime-focus-q2-results-stock-analysis-0602/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T04:00:25.513Z</news:publication_date>
       <news:title>क्या AI अब वैश्विक अर्थव्यवस्था के लिए खतरा बन रहा है? जानिए निवेशकों पर इसका असर</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/prime-focus-q2-results-profit-growth-2194/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T03:58:59.811Z</news:publication_date>
-      <news:title>Prime Focus Q2 Results: वीएफएक्स की भारी मांग से मुनाफे में जबरदस्त उछाल, जानें क्या है पूरा मामला</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/icici-bank-credit-card-new-rules-november-6494/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T03:58:39.618Z</news:publication_date>
-      <news:title>ICICI Bank Credit Card: 25 नवंबर से बदल रहे हैं नियम, इन कार्ड होल्डर्स की जेब पर पड़ेगा असर</news:title>
     </news:news>
   </url>
 </urlset>
