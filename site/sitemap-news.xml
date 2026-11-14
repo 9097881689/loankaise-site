@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/prime-focus-q2-results-stock-analysis-0602/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T05:55:35.028Z</news:publication_date>
+      <news:title>Prime Focus Q2 Results: 14 गुना मुनाफा उछला, फिर भी क्यों गिर रहे हैं शेयर?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/ops-pension-rules-university-job-switch-9484/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T05:55:24.940Z</news:publication_date>
+      <news:title>Old Pension Scheme: नौकरी बदलने पर भी मिलेगा OPS का लाभ, हाई कोर्ट का बड़ा फैसला</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/nvidia-ceo-jensen-huang-resignation-impact-0530/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T03:58:39.618Z</news:publication_date>
       <news:title>ICICI Bank Credit Card: 25 नवंबर से बदल रहे हैं नियम, इन कार्ड होल्डर्स की जेब पर पड़ेगा असर</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/debt-mutual-fund-investment-strategy-rising-interest-rates-5555/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T19:37:00.402Z</news:publication_date>
-      <news:title>Debt Mutual Fund में निवेश का सही समय: बढ़ती ब्याज दरों के बीच ऐसे चुनें बेस्ट स्कीम</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/gold-price-fall-investment-strategy-india-7271/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T19:21:43.583Z</news:publication_date>
-      <news:title>सोने की कीमतों में बड़ी गिरावट: क्या अब खरीदारी का सही मौका है या और गिरेंगे दाम?</news:title>
     </news:news>
   </url>
 </urlset>
