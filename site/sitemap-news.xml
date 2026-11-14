@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/diljit-dosanjh-mumbai-concert-security-threat-0204/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T09:31:17.128Z</news:publication_date>
+      <news:title>दिलजीत दोसांझ के मुंबई कॉन्सर्ट पर बम से उड़ाने की धमकी, सुरक्षा बढ़ाने की मांग</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/stock-market-corporate-actions-record-date-november-9882/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T09:00:16.455Z</news:publication_date>
+      <news:title>अगले हफ्ते शेयर बाजार में हलचल: MRF, PFC समेत इन दिग्गज कंपनियों के कॉर्पोरेट एक्शन पर रखें नज़र</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/best-mutual-fund-sip-long-term-returns-8664/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T05:10:13.999Z</news:publication_date>
       <news:title>Anthropic IPO: चीन और हांगकांग के निवेशकों पर लगी रोक, जानें क्या है पूरा मामला?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/airtel-payments-bank-ipo-plans-details-9534/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T05:05:24.197Z</news:publication_date>
-      <news:title>Airtel Payments Bank का IPO जल्द? जानिए क्या है सुनील भारती मित्तल का बड़ा प्लान</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/hal-shares-buy-rating-citi-target-9401/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T05:05:14.444Z</news:publication_date>
-      <news:title>HAL Shares: क्या 28% की तेजी के लिए तैयार है सरकारी डिफेंस दिग्गज? जानिए एक्सपर्ट्स की राय</news:title>
     </news:news>
   </url>
 </urlset>
