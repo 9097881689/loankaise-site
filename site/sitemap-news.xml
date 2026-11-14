@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/rbi-imposes-penalty-on-mobikwik-ppi-rules-5641/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T06:05:31.050Z</news:publication_date>
+      <news:title>RBI का Mobikwik पर बड़ा एक्शन: नियमों के उल्लंघन पर लगा 9 लाख का जुर्माना</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/rbi-cheque-book-rules-fake-news-clarification-8628/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T06:05:13.885Z</news:publication_date>
+      <news:title>क्या 1 जनवरी 2027 से बदल रहे हैं चेक बुक के नियम? RBI की सफाई से जानें सच</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/smart-financial-planning-for-rented-homes-4208/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T04:05:18.415Z</news:publication_date>
       <news:title>Gold Silver Price: सोने-चांदी की कीमतों में बड़ी गिरावट, जानें आज आपके शहर में क्या है नया रेट</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/ai-stocks-global-market-impact-indian-investors-0789/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T04:00:34.989Z</news:publication_date>
-      <news:title>AI स्टॉक्स में हलचल और ग्लोबल मार्केट का मूड: क्या भारतीय शेयर बाज़ार को मिलेगा फायदा?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/ai-financial-risk-fed-report-impact-9120/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T04:00:25.513Z</news:publication_date>
-      <news:title>क्या AI अब वैश्विक अर्थव्यवस्था के लिए खतरा बन रहा है? जानिए निवेशकों पर इसका असर</news:title>
     </news:news>
   </url>
 </urlset>
