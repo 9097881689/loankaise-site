@@ -7,7 +7,23 @@
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <description>ताज़ा फाइनेंस न्यूज़, लोन गाइड्स, RBI अपडेट्स और बैंकिंग टूल्स हिंदी में।</description>
     <language>hi-in</language>
-    <lastBuildDate>Sat, 14 Nov 2026 06:35:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 06:40:39 GMT</lastBuildDate>
+    <item>
+      <title>सरकारी बॉन्ड की नीलामी: सरकार ने जुटाए 34,000 करोड़ रुपये, जानें क्या है यील्ड का गणित</title>
+      <link>https://loankaise.in/news/government-bond-auction-yield-update-2401/</link>
+      <guid isPermaLink="true">https://loankaise.in/news/government-bond-auction-yield-update-2401/</guid>
+      <pubDate>Sat, 14 Nov 2026 06:40:39 GMT</pubDate>
+      <category>बिज़नेस &amp; इकोनॉमी</category>
+      <description>केंद्र सरकार की हालिया बॉन्ड नीलामी में निवेशकों ने दिखाई दिलचस्पी, जानिए आम आदमी और बाजार पर इसका क्या असर होगा।</description>
+    </item>
+    <item>
+      <title>ICICI Bank Credit Card: 25 नवंबर से बदल रहे हैं क्रेडिट कार्ड के नियम, क्या आपकी जेब पर पड़ेगा असर?</title>
+      <link>https://loankaise.in/news/icici-bank-credit-card-new-rules-november-1061/</link>
+      <guid isPermaLink="true">https://loankaise.in/news/icici-bank-credit-card-new-rules-november-1061/</guid>
+      <pubDate>Sat, 14 Nov 2026 06:40:19 GMT</pubDate>
+      <category>बैंकिंग &amp; RBI</category>
+      <description>ICICI बैंक के क्रेडिट कार्ड इस्तेमाल करने वाले ग्राहकों के लिए जरूरी खबर, नए बदलावों और शुल्क से जुड़ी पूरी जानकारी यहां देखें।</description>
+    </item>
     <item>
       <title>महंगाई रोकने में ब्याज दरों का असर होगा कम? CEA नागेश्वरन ने दी बड़ी चेतावनी</title>
       <link>https://loankaise.in/news/inflation-monetary-policy-cea-nageswaran-impact-6883/</link>
@@ -231,22 +247,6 @@
       <pubDate>Sat, 14 Nov 2026 05:30:13 GMT</pubDate>
       <category>बिज़नेस &amp; इकोनॉमी</category>
       <description>अमेरिकी राजनीति और आर्थिक जगत में चर्चा का विषय बने हावर्ड लटनिक की मुश्किलें बढ़ती दिख रही हैं।</description>
-    </item>
-    <item>
-      <title>भारत का करंट अकाउंट डेफिसिट 25.8 अरब डॉलर पर पहुंचा, क्या आपकी जेब पर पड़ेगा असर?</title>
-      <link>https://loankaise.in/news/india-current-account-deficit-h1fy27-analysis-3123/</link>
-      <guid isPermaLink="true">https://loankaise.in/news/india-current-account-deficit-h1fy27-analysis-3123/</guid>
-      <pubDate>Sat, 14 Nov 2026 05:25:28 GMT</pubDate>
-      <category>बिज़नेस &amp; इकोनॉमी</category>
-      <description>चालू वित्त वर्ष की पहली छमाही में बढ़े घाटे और बैलेंस ऑफ पेमेंट के सरप्लस का आम आदमी और अर्थव्यवस्था पर क्या है सीधा कनेक्शन, जानें यहाँ।</description>
-    </item>
-    <item>
-      <title>शेयर बाजार की उठापटक के बीच क्या भारत में भी आएगा विदेशी निवेश का पैसा?</title>
-      <link>https://loankaise.in/news/global-market-volatility-impact-on-indian-stocks-9510/</link>
-      <guid isPermaLink="true">https://loankaise.in/news/global-market-volatility-impact-on-indian-stocks-9510/</guid>
-      <pubDate>Sat, 14 Nov 2026 05:25:14 GMT</pubDate>
-      <category>शेयर बाज़ार &amp; गोल्ड</category>
-      <description>ग्लोबल मार्केट में जारी हलचल का भारतीय निवेशकों और चुनिंदा स्टॉक्स पर क्या होगा असर, जानिए पूरी रिपोर्ट।</description>
     </item>
   </channel>
 </rss>

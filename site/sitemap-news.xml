@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/government-bond-auction-yield-update-2401/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T06:40:39.166Z</news:publication_date>
+      <news:title>सरकारी बॉन्ड की नीलामी: सरकार ने जुटाए 34,000 करोड़ रुपये, जानें क्या है यील्ड का गणित</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/icici-bank-credit-card-new-rules-november-1061/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T06:40:19.680Z</news:publication_date>
+      <news:title>ICICI Bank Credit Card: 25 नवंबर से बदल रहे हैं क्रेडिट कार्ड के नियम, क्या आपकी जेब पर पड़ेगा असर?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/inflation-monetary-policy-cea-nageswaran-impact-6883/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T04:40:21.567Z</news:publication_date>
       <news:title>Nippon India Small Cap Fund का बड़ा दांव: अक्टूबर में ITC और BoB पर जताया भरोसा, इन 4 शेयरों से किया किनारा</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/bank-holiday-november-14-16-update-3681/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T04:35:29.216Z</news:publication_date>
-      <news:title>Bank Holiday Alert: क्या 14-16 नवंबर को बंद रहेंगे बैंक? जानिए छुट्टियों की पूरी लिस्ट</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/government-family-pension-eligibility-rules-explained-4336/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T04:35:19.352Z</news:publication_date>
-      <news:title>Family Pension Rules: सरकारी पेंशन के लिए क्या है आय की सीमा? नए नियमों को समझें</news:title>
     </news:news>
   </url>
 </urlset>
