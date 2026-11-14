@@ -7,7 +7,23 @@
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <description>ताज़ा फाइनेंस न्यूज़, लोन गाइड्स, RBI अपडेट्स और बैंकिंग टूल्स हिंदी में।</description>
     <language>hi-in</language>
-    <lastBuildDate>Sat, 14 Nov 2026 06:16:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 06:20:59 GMT</lastBuildDate>
+    <item>
+      <title>लोन लेने वालों के लिए खुशखबरी: सितंबर में सस्ता हुआ कर्ज, जानिए आपकी EMI पर क्या होगा असर</title>
+      <link>https://loankaise.in/news/bank-lending-rates-drop-september-impact-3394/</link>
+      <guid isPermaLink="true">https://loankaise.in/news/bank-lending-rates-drop-september-impact-3394/</guid>
+      <pubDate>Sat, 14 Nov 2026 06:20:59 GMT</pubDate>
+      <category>लोन &amp; EMI</category>
+      <description>सितंबर महीने में फ्रेश लेंडिंग रेट्स में 10 बेसिस पॉइंट्स की गिरावट दर्ज की गई है, जिसका सीधा फायदा ग्राहकों को मिल सकता है।</description>
+    </item>
+    <item>
+      <title>Demat 2.0: क्या है RBI और SEBI का नया ब्लॉकचेन प्लान? बॉन्ड मार्केट में आएगा बड़ा बदलाव</title>
+      <link>https://loankaise.in/news/rbi-sebi-demat-2-0-blockchain-bond-market-1451/</link>
+      <guid isPermaLink="true">https://loankaise.in/news/rbi-sebi-demat-2-0-blockchain-bond-market-1451/</guid>
+      <pubDate>Sat, 14 Nov 2026 06:20:26 GMT</pubDate>
+      <category>शेयर बाज़ार &amp; गोल्ड</category>
+      <description>ब्लॉकचेन तकनीक के जरिए कॉर्पोरेट बॉन्ड में निवेश और सेटलमेंट की प्रक्रिया को आसान बनाने की तैयारी, जानें निवेशकों को क्या होगा फायदा।</description>
+    </item>
     <item>
       <title>EPF ECR Filing Deadline: अक्टूबर ईपीएफ बकाया और ईसीआर फाइलिंग के लिए 15 नवंबर तक का अल्टीमेटम</title>
       <link>https://loankaise.in/news/epf-ecr-filing-october-dues-deadline-7087/</link>
@@ -231,22 +247,6 @@
       <pubDate>Sat, 14 Nov 2026 05:10:13 GMT</pubDate>
       <category>बिज़नेस &amp; इकोनॉमी</category>
       <description>AI दिग्गज कंपनी Anthropic के आगामी IPO से चीन आधारित निवेशकों को बाहर रखा गया है, जानिए इसका क्या असर होगा।</description>
-    </item>
-    <item>
-      <title>Airtel Payments Bank का IPO जल्द? जानिए क्या है सुनील भारती मित्तल का बड़ा प्लान</title>
-      <link>https://loankaise.in/news/airtel-payments-bank-ipo-plans-details-9534/</link>
-      <guid isPermaLink="true">https://loankaise.in/news/airtel-payments-bank-ipo-plans-details-9534/</guid>
-      <pubDate>Sat, 14 Nov 2026 05:05:24 GMT</pubDate>
-      <category>बिज़नेस &amp; इकोनॉमी</category>
-      <description>भारती एयरटेल की फिनटेक इकाई आने वाले 3-4 सालों में शेयर बाजार में लिस्ट हो सकती है, जानिए निवेशकों के लिए क्या है संकेत।</description>
-    </item>
-    <item>
-      <title>HAL Shares: क्या 28% की तेजी के लिए तैयार है सरकारी डिफेंस दिग्गज? जानिए एक्सपर्ट्स की राय</title>
-      <link>https://loankaise.in/news/hal-shares-buy-rating-citi-target-9401/</link>
-      <guid isPermaLink="true">https://loankaise.in/news/hal-shares-buy-rating-citi-target-9401/</guid>
-      <pubDate>Sat, 14 Nov 2026 05:05:14 GMT</pubDate>
-      <category>शेयर बाज़ार &amp; गोल्ड</category>
-      <description>दिग्गज ब्रोकरेज फर्म Citi ने HAL पर &apos;Buy&apos; रेटिंग बरकरार रखी है, जानिए निवेशकों के लिए इसका क्या मतलब है।</description>
     </item>
   </channel>
 </rss>

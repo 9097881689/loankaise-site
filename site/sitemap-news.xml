@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/bank-lending-rates-drop-september-impact-3394/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T06:20:59.055Z</news:publication_date>
+      <news:title>लोन लेने वालों के लिए खुशखबरी: सितंबर में सस्ता हुआ कर्ज, जानिए आपकी EMI पर क्या होगा असर</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/rbi-sebi-demat-2-0-blockchain-bond-market-1451/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T06:20:26.483Z</news:publication_date>
+      <news:title>Demat 2.0: क्या है RBI और SEBI का नया ब्लॉकचेन प्लान? बॉन्ड मार्केट में आएगा बड़ा बदलाव</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/epf-ecr-filing-october-dues-deadline-7087/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T04:20:16.462Z</news:publication_date>
       <news:title>ग्लोबल मार्केट में बड़े बदलावों की आहट: क्या भारत के शेयर बाजार को मिलेगा फायदा?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/daily-vs-monthly-sip-investment-strategy-2567/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T04:15:26.979Z</news:publication_date>
-      <news:title>रोजाना 100 रुपये या महीने में 3000 की SIP: लंबी अवधि में कौन सा विकल्प है बेहतर?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/goldman-sachs-sp500-forecast-global-market-impact-1338/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T04:15:17.477Z</news:publication_date>
-      <news:title>अमेरिकी बाजार में तेजी की उम्मीद: गोल्डमैन सैक्स ने S&amp;P 500 के लिए जारी किया नया टारगेट</news:title>
     </news:news>
   </url>
 </urlset>
