@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/corporate-actions-stock-split-dividend-list-9832/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T22:12:54.035Z</news:publication_date>
+      <news:title>शेयर बाजार में हलचल: इस हफ्ते इन कंपनियों के कॉर्पोरेट एक्शन पर रखें नजर</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/indian-stock-market-outlook-nifty-trend-0910/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T22:12:36.934Z</news:publication_date>
+      <news:title>शेयर बाजार का साप्ताहिक आउटलुक: क्या 25,000 के स्तर पर निफ्टी की चाल रहेगी बरकरार?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/bank-account-transaction-tax-itat-ruling-7395/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T05:20:14.644Z</news:publication_date>
       <news:title>सोने के दाम में जोरदार उछाल: क्या महंगाई का असर? जानें आज का ताज़ा भाव</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/bank-fd-interest-rates-hike-november-2026-2356/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T05:15:27.239Z</news:publication_date>
-      <news:title>FD में निवेश करने का सही समय? नवंबर 2026 में क्यों बढ़ रही हैं ब्याज दरें</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/bank-liability-online-fraud-compensation-8648/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T05:15:13.744Z</news:publication_date>
-      <news:title>ऑनलाइन फ्रॉड का शिकार हुई महिला की बैंक को चुकानी होगी भारी कीमत, जानें पूरा मामला</news:title>
     </news:news>
   </url>
 </urlset>
