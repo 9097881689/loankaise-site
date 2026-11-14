@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/ai-stocks-global-market-impact-indian-investors-0789/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T04:00:34.989Z</news:publication_date>
+      <news:title>AI स्टॉक्स में हलचल और ग्लोबल मार्केट का मूड: क्या भारतीय शेयर बाज़ार को मिलेगा फायदा?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/ai-financial-risk-fed-report-impact-9120/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T04:00:25.513Z</news:publication_date>
+      <news:title>क्या AI अब वैश्विक अर्थव्यवस्था के लिए खतरा बन रहा है? जानिए निवेशकों पर इसका असर</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/prime-focus-q2-results-profit-growth-2194/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-12T01:06:05.112Z</news:publication_date>
       <news:title>शेयर बाज़ार में तेज़ी: सेंसेक्स 772 अंक उछला, निफ्टी 25255 के पार</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/msci-microstrategy-bitcoin-index-impact-0566/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T01:03:26.237Z</news:publication_date>
-      <news:title>MSCI का बड़ा झटका: MicroStrategy इंडेक्स से बाहर, बिटकॉइन निवेश पर क्या होगा असर?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/top-6-stocks-buy-expert-targets-5111/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T01:00:55.549Z</news:publication_date>
-      <news:title>शेयर बाजार में कमाई का बंपर मौका! इन 6 स्टॉक्स पर लगाएं दांव, जानें टारगेट</news:title>
     </news:news>
   </url>
 </urlset>
