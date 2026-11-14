@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/nvidia-ceo-jensen-huang-resignation-impact-3052/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T04:20:27.717Z</news:publication_date>
+      <news:title>Nvidia के CEO जेनसेन हुआंग के इस्तीफे से गिरा शेयर, क्या निवेशकों को डरना चाहिए?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/global-market-trends-impact-indian-investors-0727/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T04:20:16.462Z</news:publication_date>
+      <news:title>ग्लोबल मार्केट में बड़े बदलावों की आहट: क्या भारत के शेयर बाजार को मिलेगा फायदा?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/daily-vs-monthly-sip-investment-strategy-2567/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-12T09:07:06.638Z</news:publication_date>
       <news:title>होम लोन से पाएं जल्दी छुटकारा: बस ये 2 आदतें अपनाएं और सालों पहले बनें कर्ज मुक्त!</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/high-interest-government-schemes-india-7038/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T02:17:17.346Z</news:publication_date>
-      <news:title>7.5% से ज़्यादा ब्याज! इन सरकारी स्कीमों में करें निवेश, FD को भी पीछे छोड़ा</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/stock-market-rally-sensex-nifty-gains-7473/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T01:21:06.136Z</news:publication_date>
-      <news:title>शेयर बाज़ार में तेज़ी का सिलसिला जारी, सेंसेक्स 82000 के पार, आगे क्या?</news:title>
     </news:news>
   </url>
 </urlset>
