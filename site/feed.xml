@@ -7,7 +7,23 @@
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <description>ताज़ा फाइनेंस न्यूज़, लोन गाइड्स, RBI अपडेट्स और बैंकिंग टूल्स हिंदी में।</description>
     <language>hi-in</language>
-    <lastBuildDate>Sat, 14 Nov 2026 04:30:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 04:35:29 GMT</lastBuildDate>
+    <item>
+      <title>Bank Holiday Alert: क्या 14-16 नवंबर को बंद रहेंगे बैंक? जानिए छुट्टियों की पूरी लिस्ट</title>
+      <link>https://loankaise.in/news/bank-holiday-november-14-16-update-3681/</link>
+      <guid isPermaLink="true">https://loankaise.in/news/bank-holiday-november-14-16-update-3681/</guid>
+      <pubDate>Sat, 14 Nov 2026 04:35:29 GMT</pubDate>
+      <category>बैंकिंग &amp; RBI</category>
+      <description>अगर आपको बैंक से जुड़ा कोई जरूरी काम है, तो घर से निकलने से पहले छुट्टियों का यह अपडेट जरूर देख लें।</description>
+    </item>
+    <item>
+      <title>Family Pension Rules: सरकारी पेंशन के लिए क्या है आय की सीमा? नए नियमों को समझें</title>
+      <link>https://loankaise.in/news/government-family-pension-eligibility-rules-explained-4336/</link>
+      <guid isPermaLink="true">https://loankaise.in/news/government-family-pension-eligibility-rules-explained-4336/</guid>
+      <pubDate>Sat, 14 Nov 2026 04:35:19 GMT</pubDate>
+      <category>पर्सनल फाइनेंस</category>
+      <description>केंद्र सरकार ने फैमिली पेंशन की पात्रता और आय सीमा को लेकर जारी किया स्पष्ट दिशा-निर्देश, जानें कौन-कौन है हकदार।</description>
+    </item>
     <item>
       <title>US Fed Rate Hike: क्या दिसंबर में फिर बढ़ेगी ब्याज दरें? जानिए क्या है अमेरिकी अर्थव्यवस्था का हाल</title>
       <link>https://loankaise.in/news/us-fed-interest-rate-hike-impact-india-9136/</link>
@@ -231,22 +247,6 @@
       <pubDate>Fri, 13 Nov 2026 00:25:25 GMT</pubDate>
       <category>शेयर बाज़ार &amp; गोल्ड</category>
       <description>दुनिया की प्रमुख करेंसी येन में अचानक आई गिरावट ने ग्लोबल निवेशकों की चिंताएं बढ़ा दी हैं, जानिए इसका आप पर क्या असर होगा।</description>
-    </item>
-    <item>
-      <title>AI चिप्स के दम पर अब बदलेगा निवेश का तरीका, GPU फाइनेंसिंग से जुड़ी बड़ी डील की तैयारी</title>
-      <link>https://loankaise.in/news/gpu-financing-abs-market-trends-7943/</link>
-      <guid isPermaLink="true">https://loankaise.in/news/gpu-financing-abs-market-trends-7943/</guid>
-      <pubDate>Fri, 13 Nov 2026 00:22:03 GMT</pubDate>
-      <category>बिज़नेस &amp; इकोनॉमी</category>
-      <description>आर्टिफिशियल इंटेलिजेंस की बढ़ती डिमांड के बीच, अब GPU लोन और लीज से जुड़ी एसेट-बैक्ड सिक्योरिटीज (ABS) बाजार में निवेश का नया जरिया बन रही हैं।</description>
-    </item>
-    <item>
-      <title>शेयर बाजार का आज का हाल: उतार-चढ़ाव के बीच बैंकिंग शेयरों में दिखा दम, निवेशकों के लिए क्या हैं संकेत?</title>
-      <link>https://loankaise.in/news/indian-stock-market-update-banking-stocks-nifty-9064/</link>
-      <guid isPermaLink="true">https://loankaise.in/news/indian-stock-market-update-banking-stocks-nifty-9064/</guid>
-      <pubDate>Fri, 13 Nov 2026 00:06:19 GMT</pubDate>
-      <category>शेयर बाज़ार &amp; गोल्ड</category>
-      <description>भारतीय शेयर बाजार में मामूली बढ़त के साथ कारोबार खत्म, जानिए ग्लोबल मार्केट के संकेतों का आपके पोर्टफोलियो पर क्या असर होगा।</description>
     </item>
   </channel>
 </rss>
