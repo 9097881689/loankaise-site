@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/bank-fd-interest-rates-hike-november-2026-2356/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T05:15:27.239Z</news:publication_date>
+      <news:title>FD में निवेश करने का सही समय? नवंबर 2026 में क्यों बढ़ रही हैं ब्याज दरें</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/bank-liability-online-fraud-compensation-8648/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T05:15:13.744Z</news:publication_date>
+      <news:title>ऑनलाइन फ्रॉड का शिकार हुई महिला की बैंक को चुकानी होगी भारी कीमत, जानें पूरा मामला</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/razorpay-ipo-sebi-approval-details-8687/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-12T22:23:08.038Z</news:publication_date>
       <news:title>प्रेडिक्शन मार्केट में बड़ा बदलाव: डोनाल्ड ट्रम्प जूनियर ने छोड़ा कलशी का साथ, जानें पूरी खबर</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/us-fed-meeting-schedule-2027-rate-hike-5431/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T21:54:01.812Z</news:publication_date>
-      <news:title>US Fed Meeting Schedule 2027: अमेरिकी फेडरल रिजर्व ने बदला नियम, अब कम होंगी बैठकें</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/nvidia-share-crash-retail-investors-ai-trade-5755/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T21:38:23.122Z</news:publication_date>
-      <news:title>Nvidia Share Crash: रिटेल निवेशकों ने संभाला मोर्चा, AI शेयरों पर कितना असर?</news:title>
     </news:news>
   </url>
 </urlset>
