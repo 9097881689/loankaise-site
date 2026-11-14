@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/young-indians-debt-trap-emi-management-7039/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T07:00:32.222Z</news:publication_date>
+      <news:title>युवाओं की जेब पर भारी पड़ रहा आसान कर्ज: 60% इनकम सिर्फ EMI में, कैसे बचें इस जाल से?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/retirement-corpus-inflation-risk-strategy-2974/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T07:00:19.228Z</news:publication_date>
+      <news:title>रिटायरमेंट फंड कहीं 10 साल पहले ही तो खत्म नहीं हो जाएगा? महंगाई के इस नए गणित को समझें</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/rupee-vs-dollar-exchange-rate-update-9585/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T05:00:15.419Z</news:publication_date>
       <news:title>Zetwerk Q2 FY27 Results: IPO के बाद पहली तिमाही में कंपनी को हुआ बड़ा नुकसान</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/yes-bank-at1-bonds-supreme-court-review-plea-5347/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T04:56:51.454Z</news:publication_date>
-      <news:title>YES Bank AT-1 Bonds: सुप्रीम कोर्ट में पुनर्विचार याचिका से फिर गरमाया मामला</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/gold-price-fall-global-market-impact-5808/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T04:55:41.280Z</news:publication_date>
-      <news:title>सोने की चमक क्यों हो रही फीकी? जानें ग्लोबल मार्केट में गिरावट की असली वजह</news:title>
     </news:news>
   </url>
 </urlset>
