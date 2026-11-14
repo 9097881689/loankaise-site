@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/india-current-account-deficit-h1fy27-analysis-3123/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T05:25:28.392Z</news:publication_date>
+      <news:title>भारत का करंट अकाउंट डेफिसिट 25.8 अरब डॉलर पर पहुंचा, क्या आपकी जेब पर पड़ेगा असर?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/global-market-volatility-impact-on-indian-stocks-9510/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T05:25:14.709Z</news:publication_date>
+      <news:title>शेयर बाजार की उठापटक के बीच क्या भारत में भी आएगा विदेशी निवेश का पैसा?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/anthropic-ipo-ai-market-impact-analysis-0336/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-13T00:25:25.158Z</news:publication_date>
       <news:title>जापानी येन में आई बड़ी हलचल: क्या ग्लोबल मार्केट और निवेशकों के लिए है खतरे की घंटी?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/gpu-financing-abs-market-trends-7943/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T00:22:03.717Z</news:publication_date>
-      <news:title>AI चिप्स के दम पर अब बदलेगा निवेश का तरीका, GPU फाइनेंसिंग से जुड़ी बड़ी डील की तैयारी</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/indian-stock-market-update-banking-stocks-nifty-9064/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T00:06:19.986Z</news:publication_date>
-      <news:title>शेयर बाजार का आज का हाल: उतार-चढ़ाव के बीच बैंकिंग शेयरों में दिखा दम, निवेशकों के लिए क्या हैं संकेत?</news:title>
     </news:news>
   </url>
 </urlset>
