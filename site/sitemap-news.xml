@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/razorpay-ipo-sebi-approval-details-8687/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T05:10:23.347Z</news:publication_date>
+      <news:title>Razorpay IPO: फिनटेक दिग्गज को SEBI से मिली बड़ी मंजूरी, क्या आप भी करेंगे निवेश?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/anthropic-ipo-china-investor-restriction-update-8886/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T05:10:13.999Z</news:publication_date>
+      <news:title>Anthropic IPO: चीन और हांगकांग के निवेशकों पर लगी रोक, जानें क्या है पूरा मामला?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/airtel-payments-bank-ipo-plans-details-9534/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-12T21:38:23.122Z</news:publication_date>
       <news:title>Nvidia Share Crash: रिटेल निवेशकों ने संभाला मोर्चा, AI शेयरों पर कितना असर?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/nvidia-ceo-jensen-huang-resignation-impact-2752/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T20:41:06.066Z</news:publication_date>
-      <news:title>Nvidia के CEO जेनसेन हुआंग का इस्तीफा: क्या AI बबल फूटेगा? निवेशकों के लिए बड़ी खबर</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/health-insurance-pre-existing-disease-waiting-period-5327/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T19:17:32.740Z</news:publication_date>
-      <news:title>हेल्थ इंश्योरेंस में प्री-एक्जिस्टिंग बीमारी का वेटिंग पीरियड क्या है? जानें कैसे कम करें नियम</news:title>
     </news:news>
   </url>
 </urlset>
