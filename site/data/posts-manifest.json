@@ -1,5 +1,41 @@
 [
   {
+    "id": "lk-1794666035576-dcpj",
+    "slug": "bank-account-transaction-tax-itat-ruling-7395",
+    "url": "/news/bank-account-transaction-tax-itat-ruling-7395/",
+    "title": "दूसरे का पैसा अपने बैंक अकाउंट में लेना पड़ सकता है भारी: ITAT का बड़ा फैसला",
+    "subtitle": "क्या किसी और के लिए बैंक खाते का इस्तेमाल करने पर आपको टैक्स देना होगा? जानिए ITAT के इस अहम फैसले से क्या सीख मिलती है।",
+    "category": "tax-saving",
+    "categoryLabel": "टैक्स & बचत",
+    "featuredImage": "/uploads/news/bank-account-transaction-tax-itat-ruling-7395.webp",
+    "authorName": "प्रिया वर्मा",
+    "publishedAt": "2026-11-14T14:20:35.576Z",
+    "indexedInGoogle": true,
+    "sourcesCount": 1,
+    "sourceNames": [
+      "Livemint Money"
+    ],
+    "isLegacyGuide": false
+  },
+  {
+    "id": "lk-1794666018931-0xzv",
+    "slug": "rising-pollution-health-insurance-claims-india-2765",
+    "url": "/news/rising-pollution-health-insurance-claims-india-2765/",
+    "title": "प्रदूषण के कारण बढ़ रहे हेल्थ इंश्योरेंस क्लेम: क्या आपका कवर पर्याप्त है?",
+    "subtitle": "पिछले तीन सालों में प्रदूषण से जुड़ी बीमारियों के क्लेम में 4.3 गुना उछाल आया है, जानिए क्यों अब टियर-2 और टियर-3 शहरों पर है सबसे बड़ा खतरा।",
+    "category": "personal-finance",
+    "categoryLabel": "पर्सनल फाइनेंस",
+    "featuredImage": "/uploads/news/rising-pollution-health-insurance-claims-india-2765.webp",
+    "authorName": "प्रिया वर्मा",
+    "publishedAt": "2026-11-14T14:20:18.930Z",
+    "indexedInGoogle": true,
+    "sourcesCount": 1,
+    "sourceNames": [
+      "NDTV Profit"
+    ],
+    "isLegacyGuide": false
+  },
+  {
     "id": "lk-1794648677130-fb4p",
     "slug": "diljit-dosanjh-mumbai-concert-security-threat-0204",
     "url": "/news/diljit-dosanjh-mumbai-concert-security-threat-0204/",

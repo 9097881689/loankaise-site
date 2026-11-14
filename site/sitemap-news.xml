@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/bank-account-transaction-tax-itat-ruling-7395/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T14:20:35.576Z</news:publication_date>
+      <news:title>दूसरे का पैसा अपने बैंक अकाउंट में लेना पड़ सकता है भारी: ITAT का बड़ा फैसला</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/rising-pollution-health-insurance-claims-india-2765/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T14:20:18.930Z</news:publication_date>
+      <news:title>प्रदूषण के कारण बढ़ रहे हेल्थ इंश्योरेंस क्लेम: क्या आपका कवर पर्याप्त है?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/diljit-dosanjh-mumbai-concert-security-threat-0204/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T05:15:13.744Z</news:publication_date>
       <news:title>ऑनलाइन फ्रॉड का शिकार हुई महिला की बैंक को चुकानी होगी भारी कीमत, जानें पूरा मामला</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/razorpay-ipo-sebi-approval-details-8687/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T05:10:23.347Z</news:publication_date>
-      <news:title>Razorpay IPO: फिनटेक दिग्गज को SEBI से मिली बड़ी मंजूरी, क्या आप भी करेंगे निवेश?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/anthropic-ipo-china-investor-restriction-update-8886/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T05:10:13.999Z</news:publication_date>
-      <news:title>Anthropic IPO: चीन और हांगकांग के निवेशकों पर लगी रोक, जानें क्या है पूरा मामला?</news:title>
     </news:news>
   </url>
 </urlset>
