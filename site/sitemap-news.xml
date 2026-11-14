@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/nvidia-ceo-resignation-global-market-impact-7417/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T04:50:32.601Z</news:publication_date>
+      <news:title>Nvidia संकट से सहमा ग्लोबल मार्केट: क्या AI क्रांति का दौर खत्म हो रहा है?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/nvidia-stock-price-drop-ceo-exit-analysis-8800/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T04:50:12.900Z</news:publication_date>
+      <news:title>Nvidia के शेयरों में बड़ी गिरावट, CEO के इस्तीफे और चिप सेक्टर की सुस्ती से निवेशक परेशान</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/us-aviation-ground-stop-airline-stocks-impact-0175/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-12T10:00:54.977Z</news:publication_date>
       <news:title>रोबोटिक्स का जलवा: इस कंपनी के IPO ने मचाया धमाल, भारतीय शेयरों पर भी असर</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/nps-sip-investment-portfolio-overlap-5828/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T09:56:30.848Z</news:publication_date>
-      <news:title>NPS और SIP: क्या दोनों में निवेश करना समझदारी है? जानें कैसे करें सही तालमेल!</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/inherited-property-capital-gain-tax-rules-5491/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T09:56:03.636Z</news:publication_date>
-      <news:title>विरासत में मिली प्रॉपर्टी बेचने पर कैपिटल गेन टैक्स? ऐसे करें बचत और समझें नियम</news:title>
     </news:news>
   </url>
 </urlset>
