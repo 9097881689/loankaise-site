@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/anthropic-ipo-ai-market-impact-analysis-0336/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T05:20:25.006Z</news:publication_date>
+      <news:title>Anthropic IPO: क्या AI दिग्गज एंथ्रोपिक का आईपीओ स्पेसएक्स का रिकॉर्ड तोड़ेगा?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/gold-price-hike-inflation-impact-india-9606/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T05:20:14.644Z</news:publication_date>
+      <news:title>सोने के दाम में जोरदार उछाल: क्या महंगाई का असर? जानें आज का ताज़ा भाव</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/bank-fd-interest-rates-hike-november-2026-2356/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-13T00:06:19.986Z</news:publication_date>
       <news:title>शेयर बाजार का आज का हाल: उतार-चढ़ाव के बीच बैंकिंग शेयरों में दिखा दम, निवेशकों के लिए क्या हैं संकेत?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/october-retail-inflation-impact-home-loan-emi-3235/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T22:23:19.726Z</news:publication_date>
-      <news:title>महंगाई की मार: अक्टूबर में बढ़ी रिटेल इन्फ्लेशन, क्या अब महंगे होंगे होम लोन और EMI?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/donald-trump-jr-kalshi-advisory-role-exit-0061/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T22:23:08.038Z</news:publication_date>
-      <news:title>प्रेडिक्शन मार्केट में बड़ा बदलाव: डोनाल्ड ट्रम्प जूनियर ने छोड़ा कलशी का साथ, जानें पूरी खबर</news:title>
     </news:news>
   </url>
 </urlset>
