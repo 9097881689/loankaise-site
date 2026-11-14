@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/rupee-vs-dollar-exchange-rate-update-9585/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T06:55:34.824Z</news:publication_date>
+      <news:title>रुपये में मामूली मजबूती: डॉलर के मुकाबले 7 पैसे चढ़कर 94.05 पर खुला</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/gold-price-hike-tanishq-malabar-update-4620/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T06:55:21.615Z</news:publication_date>
+      <news:title>Gold Price Hike: तनिष्क और मालाबार में सोना हुआ महंगा, जानें आज का सटीक भाव</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/rbi-vrrr-auction-liquidity-analysis-4744/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T04:55:41.280Z</news:publication_date>
       <news:title>सोने की चमक क्यों हो रही फीकी? जानें ग्लोबल मार्केट में गिरावट की असली वजह</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/nvidia-ceo-resignation-global-market-impact-7417/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T04:50:32.601Z</news:publication_date>
-      <news:title>Nvidia संकट से सहमा ग्लोबल मार्केट: क्या AI क्रांति का दौर खत्म हो रहा है?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/nvidia-stock-price-drop-ceo-exit-analysis-8800/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T04:50:12.900Z</news:publication_date>
-      <news:title>Nvidia के शेयरों में बड़ी गिरावट, CEO के इस्तीफे और चिप सेक्टर की सुस्ती से निवेशक परेशान</news:title>
     </news:news>
   </url>
 </urlset>
