@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/nvidia-ceo-jensen-huang-resignation-china-connection-2543/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T05:45:27.748Z</news:publication_date>
+      <news:title>Nvidia CEO Jensen Huang का इस्तीफा: क्या निजी संबंधों और चीन कनेक्शन ने बदला कंपनी का भविष्य?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/indian-stock-market-resurgence-global-trends-0882/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T05:45:16.230Z</news:publication_date>
+      <news:title>शेयर बाजार में भारत की वापसी: क्या वाकई भारतीय बाजार के लिए अच्छे दिन आ गए हैं?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/best-fd-interest-rates-small-finance-banks-8707/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-13T14:03:09.791Z</news:publication_date>
       <news:title>Paytm Share: आईपीओ के 5 साल बाद पेटीएम शेयरों ने बनाया नया रिकॉर्ड, RBI के इस फैसले से लौटी निवेशकों की रौनक</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/rbi-treasury-bills-auction-investment-opportunity-9906/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T12:53:15.706Z</news:publication_date>
-      <news:title>RBI का बड़ा ऐलान: 23,000 करोड़ के ट्रेजरी बिल की नीलामी, जानें कैसे करें निवेश</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/microsoft-global-outage-impact-shares-2417/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T12:52:51.422Z</news:publication_date>
-      <news:title>Microsoft Outage: आउटेज से दुनिया भर में ठप हुए माइक्रोसॉफ्ट के काम, क्या शेयर बाजार पर पड़ेगा असर?</news:title>
     </news:news>
   </url>
 </urlset>
