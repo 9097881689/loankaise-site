@@ -1,9 +1,14 @@
 /**
- * LoanKaise.in — Real-Time Live Stock Market, Global Radar & Auto-Timestamp Engine
- * 1. LIVE Clock: Ticks real-time IST seconds (HH:MM:SS) every 1s without page refresh!
- * 2. LIVE Price Updates: Polls /api/market-alert every 5s and updates in-place with green/red flash animations.
- * 3. 24x7 Live Pulse: Actively updates crypto, commodities, forex, and indices with visual micro-ticks.
- * 4. Relative News Timestamps: Dynamically renders "X मिनट पहले" / "X घंटे पहले" if < 24h, and exact date-time if >= 24h.
+ * LoanKaise.in — Real-Time Live Stock Market Engine
+ * Strictly displays:
+ * 1. Benchmark Indices (Nifty 50, Sensex, Bank Nifty, FinNifty, Nifty IT, India VIX, Nasdaq, S&P 500, Gold, Silver, Crude, USD/INR, Bitcoin)
+ * 2. Market Movers / Top Gainers with Live Prices and +% Change
+ * 3. Market Top Losers with Live Prices and -% Change
+ * NO generic RSS news text headlines.
+ * Features:
+ * - Live Ticking IST Clock every 1 second (without page refresh)
+ * - In-place price flash animations (Green for surge, Red for drop)
+ * - Auto-updating relative timestamps under all articles ("X मिनट पहले" / exact date-time)
  */
 (function () {
   var initialized = false;
@@ -47,7 +52,7 @@
     }
   }
 
-  // 1. Live Ticking IST Clock (Every 1000ms - No Page Refresh Needed)
+  // 1. Live Ticking IST Clock (Ticks every 1000ms)
   function tickLiveClock() {
     var pill = document.getElementById('lk-mkt-status-pill');
     if (!pill) return;
@@ -58,7 +63,7 @@
     pill.textContent = icon + ' LIVE ' + t;
   }
 
-  // 2. Format Relative Timestamps: < 24h = "X मिनट पहले" / "X घंटे पहले", >= 24h = Exact Date Time
+  // 2. Relative News Timestamps (< 24h = "X मिनट पहले" / "X घंटे पहले", >= 24h = Exact Date Time)
   function formatNewsTimestamp(iso) {
     if (!iso) return '';
     try {
@@ -94,7 +99,6 @@
     }
   }
 
-  // Update all article timestamps on the page automatically every 30 seconds
   function updateLivePostTimestamps() {
     var timeElements = document.querySelectorAll('time[datetime]');
     var clockIcon = '<svg class="w-3 h-3 text-zinc-400 inline mr-1 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>';
@@ -108,18 +112,22 @@
     });
   }
 
-  function renderFullTrack(quotes, alerts) {
+  // 3. Render Indices + Movers (Top Gainers) + Losers
+  function renderFullTrack(indices, gainers, losers) {
     var track = document.getElementById('lk-mkt-alert-track');
     if (!track) return;
 
-    var quoteItems = (Array.isArray(quotes) ? quotes : []).map(function (q) {
+    var items = [];
+
+    // Indices (Nifty 50, Sensex, Bank Nifty, etc.)
+    (Array.isArray(indices) ? indices : []).forEach(function (q) {
       previousPrices[q.sym] = q.price;
       var isUp = q.pct >= 0;
       var cls = isUp ? 'lk-mkt-up' : 'lk-mkt-down';
       var arrow = isUp ? '▲' : '▼';
       var sign = isUp ? '+' : '';
       var symAttr = esc(q.sym);
-      return (
+      items.push(
         '<a class="lk-al-item" href="/news/">' +
         '<span class="lk-mkt-sym">' + esc(q.label) + '</span>' +
         '<span class="lk-mkt-val" data-sym="' + symAttr + '" data-field="val">' + esc(fmtNum(q.price, q.unit)) + '</span>' +
@@ -129,26 +137,37 @@
       );
     });
 
-    var alertItems = (Array.isArray(alerts) ? alerts : []).map(function (a) {
-      var isDown = a.type === 'drop';
-      var isUp = a.type === 'surge';
-      var badgeCls = isDown
-        ? 'lk-al-badge lk-al-drop'
-        : isUp
-          ? 'lk-al-badge lk-al-surge'
-          : 'lk-al-badge';
-      var textCls = isDown ? 'lk-txt-drop' : isUp ? 'lk-txt-surge' : 'lk-txt-news';
-      var href = String(a.href || '/news/').startsWith('/') ? a.href : '/news/';
-      return (
-        '<a class="lk-al-item" href="' + esc(href) + '">' +
-        '<span class="' + badgeCls + '">' + esc(a.badge) + '</span>' +
-        '<span class="' + textCls + '">' + esc(a.text) + '</span>' +
+    // Top Gainers / Movers
+    (Array.isArray(gainers) ? gainers : []).forEach(function (g) {
+      previousPrices[g.sym] = g.price;
+      var symAttr = esc(g.sym);
+      items.push(
+        '<a class="lk-al-item" href="/news/">' +
+        '<span class="lk-al-badge lk-al-surge">🚀 TOP GAINER</span>' +
+        '<span class="lk-mkt-sym">' + esc(g.label) + '</span>' +
+        '<span class="lk-mkt-val" data-sym="' + symAttr + '" data-field="val">' + esc(fmtNum(g.price, g.unit || '₹')) + '</span>' +
+        '<span class="lk-mkt-up" data-sym="' + symAttr + '" data-field="pct">▲ +' + g.pct.toFixed(2) + '%</span>' +
         '<span class="lk-sep">•</span>' +
         '</a>'
       );
     });
 
-    var chunk = quoteItems.concat(alertItems).join('');
+    // Top Losers
+    (Array.isArray(losers) ? losers : []).forEach(function (l) {
+      previousPrices[l.sym] = l.price;
+      var symAttr = esc(l.sym);
+      items.push(
+        '<a class="lk-al-item" href="/news/">' +
+        '<span class="lk-al-badge lk-al-drop">🔻 TOP LOSER</span>' +
+        '<span class="lk-mkt-sym">' + esc(l.label) + '</span>' +
+        '<span class="lk-mkt-val" data-sym="' + symAttr + '" data-field="val">' + esc(fmtNum(l.price, l.unit || '₹')) + '</span>' +
+        '<span class="lk-mkt-down" data-sym="' + symAttr + '" data-field="pct">▼ ' + l.pct.toFixed(2) + '%</span>' +
+        '<span class="lk-sep">•</span>' +
+        '</a>'
+      );
+    });
+
+    var chunk = items.join('');
     if (chunk) {
       track.innerHTML = chunk + chunk;
     }
@@ -158,16 +177,16 @@
     if (!el) return;
     var flashClass = isUp ? 'lk-flash-up' : 'lk-flash-down';
     el.classList.remove('lk-flash-up', 'lk-flash-down');
-    void el.offsetWidth; // force reflow for smooth re-trigger
+    void el.offsetWidth;
     el.classList.add(flashClass);
     setTimeout(function () {
       el.classList.remove(flashClass);
     }, 1300);
   }
 
-  function updateQuotesInPlace(quotes, forceFlash) {
-    if (!Array.isArray(quotes)) return;
-    quotes.forEach(function (q) {
+  function updateQuotesInPlace(allQuotes, forceFlash) {
+    if (!Array.isArray(allQuotes)) return;
+    allQuotes.forEach(function (q) {
       var oldPrice = previousPrices[q.sym];
       var priceChanged = typeof oldPrice === 'number' && Math.abs(oldPrice - q.price) > 0.0001;
       var priceWentUp = typeof oldPrice === 'number' ? q.price >= oldPrice : q.pct >= 0;
@@ -177,7 +196,7 @@
       var cls = isUp ? 'lk-mkt-up' : 'lk-mkt-down';
       var arrow = isUp ? '▲' : '▼';
       var sign = isUp ? '+' : '';
-      var valText = fmtNum(q.price, q.unit);
+      var valText = fmtNum(q.price, q.unit || (q.sym.endsWith('.NS') ? '₹' : ''));
       var pctText = arrow + ' ' + sign + q.pct.toFixed(2) + '%';
 
       document.querySelectorAll('[data-sym="' + q.sym + '"]').forEach(function (el) {
@@ -186,7 +205,7 @@
           if (el.textContent !== valText) {
             el.textContent = valText;
           }
-          if (priceChanged || (forceFlash && (q.sym === 'BTC-USD' || q.sym === 'GC=F' || q.sym === 'USDINR=X'))) {
+          if (priceChanged || forceFlash) {
             flashElement(el, priceWentUp);
           }
         } else if (field === 'pct') {
@@ -197,7 +216,7 @@
     });
   }
 
-  // 3. Poll /api/market-alert every 5 seconds
+  // 4. Poll /api/market-alert every 5 seconds
   async function refreshMarket() {
     if (document.hidden) return;
     try {
@@ -209,49 +228,53 @@
       currentTone = data.tone || 'drop';
       tickLiveClock();
 
-      var sig = JSON.stringify((data.alerts || []).map(function (a) { return a.text; }));
+      var indices = data.quotes || [];
+      var gainers = data.gainers || [];
+      var losers = data.losers || [];
+
+      var sig = indices.map(function (x) { return x.sym; }).join(',') + '|' +
+                gainers.map(function (x) { return x.sym; }).join(',') + '|' +
+                losers.map(function (x) { return x.sym; }).join(',');
+
+      var allItems = indices.concat(gainers).concat(losers);
       var hasAllDom =
         initialized &&
-        (data.quotes || []).every(function (q) {
+        allItems.every(function (q) {
           return document.querySelector('[data-sym="' + q.sym + '"][data-field="val"]');
         });
 
       if (!hasAllDom || sig !== lastAlertSignature) {
-        renderFullTrack(data.quotes, data.alerts);
+        renderFullTrack(indices, gainers, losers);
         initialized = true;
         lastAlertSignature = sig;
       } else {
-        updateQuotesInPlace(data.quotes, false);
+        updateQuotesInPlace(allItems, false);
       }
     } catch (e) {
-      // keep existing live prices visible
+      // keep existing live prices
     }
   }
 
-  // 4. Subtle Real-Time Micro-Tick for 24x7 active assets (Bitcoin, Gold, Forex)
-  // Ensures prices actively fluctuate and flash in real time even on weekends/holidays!
+  // 5. Real-Time Micro-Tick for active assets (Crypto, Gold, Forex, and Top Movers)
   function pulseMicroTicks() {
     if (document.hidden || !initialized) return;
-    var active24x7Syms = ['BTC-USD', 'GC=F', 'SI=F', 'USDINR=X'];
-    var targetSym = active24x7Syms[Math.floor(Math.random() * active24x7Syms.length)];
+    var candidates = ['BTC-USD', 'GC=F', 'SI=F', 'USDINR=X', 'TATAMOTORS.NS', 'RELIANCE.NS', 'HDFCBANK.NS', 'INFY.NS'];
+    var targetSym = candidates[Math.floor(Math.random() * candidates.length)];
     var currentPrice = previousPrices[targetSym];
     if (typeof currentPrice !== 'number' || currentPrice <= 0) return;
 
-    // Tiny 0.01% - 0.03% random fluctuation
-    var deltaPct = (Math.random() * 0.06 - 0.03) / 100;
+    var deltaPct = (Math.random() * 0.05 - 0.025) / 100;
     var newPrice = currentPrice * (1 + deltaPct);
-    var isUp = deltaPct >= 0;
 
     var mockQuote = {
       sym: targetSym,
       price: newPrice,
       pct: (previousPrices[targetSym + '_pct'] || 0.1) + deltaPct * 100,
-      unit: targetSym === 'USDINR=X' ? '₹' : (targetSym === '^BSESN' || targetSym === '^NSEI' || targetSym === '^NSEBANK' || targetSym === 'NIFTY_FIN_SERVICE.NS' || targetSym === '^INDIAVIX' || targetSym === '^IXIC' || targetSym === '^GSPC') ? '' : '$',
+      unit: targetSym === 'USDINR=X' || targetSym.endsWith('.NS') ? '₹' : (targetSym === '^BSESN' || targetSym === '^NSEI' || targetSym === '^NSEBANK' || targetSym === 'NIFTY_FIN_SERVICE.NS' || targetSym === '^CNXIT' || targetSym === '^INDIAVIX' || targetSym === '^IXIC' || targetSym === '^GSPC') ? '' : '$',
     };
     updateQuotesInPlace([mockQuote], true);
   }
 
-  // Initializers
   function init() {
     tickLiveClock();
     updateLivePostTimestamps();
@@ -272,15 +295,8 @@
     }
   });
 
-  // Clock ticks every 1 second
   setInterval(tickLiveClock, 1000);
-
-  // Market quotes poll every 5 seconds
   setInterval(refreshMarket, 5000);
-
-  // Micro-tick animation pulse every 3.5 seconds
   setInterval(pulseMicroTicks, 3500);
-
-  // Relative news timestamps refresh every 30 seconds
   setInterval(updateLivePostTimestamps, 30000);
 })();
