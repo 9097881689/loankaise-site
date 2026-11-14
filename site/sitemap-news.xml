@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/yes-bank-at1-bonds-supreme-court-review-plea-5347/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T04:56:51.454Z</news:publication_date>
+      <news:title>YES Bank AT-1 Bonds: सुप्रीम कोर्ट में पुनर्विचार याचिका से फिर गरमाया मामला</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/gold-price-fall-global-market-impact-5808/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T04:55:41.280Z</news:publication_date>
+      <news:title>सोने की चमक क्यों हो रही फीकी? जानें ग्लोबल मार्केट में गिरावट की असली वजह</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/nvidia-ceo-resignation-global-market-impact-7417/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-12T10:05:59.650Z</news:publication_date>
       <news:title>ओरिएंट ग्रीन पावर के शेयर चमके: Q2 नतीजों से मुनाफे में उछाल</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/fixed-deposit-interest-rates-increased-3201/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T10:01:19.428Z</news:publication_date>
-      <news:title>FD पर पाएं 8.25% तक का ब्याज, जानें किन बैंकों ने बढ़ाईं दरें</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/robotics-ipo-listing-indian-stocks-impact-9617/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T10:00:54.977Z</news:publication_date>
-      <news:title>रोबोटिक्स का जलवा: इस कंपनी के IPO ने मचाया धमाल, भारतीय शेयरों पर भी असर</news:title>
     </news:news>
   </url>
 </urlset>
