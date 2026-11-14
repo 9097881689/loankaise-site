@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/indian-banking-system-deposit-growth-october-2026-1959/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T06:25:26.873Z</news:publication_date>
+      <news:title>भारतीय बैंकिंग सिस्टम में भारी उछाल: डिपॉजिट्स का आंकड़ा 28 लाख करोड़ के पार</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/children-day-insurance-planning-tips-1210/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T06:25:16.369Z</news:publication_date>
+      <news:title>Children&apos;s Day Special: बच्चों के भविष्य को सुरक्षित बनाने के लिए सही इंश्योरेंस कैसे चुनें?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/bank-lending-rates-drop-september-impact-3394/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T04:25:39.116Z</news:publication_date>
       <news:title>Page Industries का बड़ा तोहफा: ₹150 प्रति शेयर डिविडेंड का ऐलान, जानें रिकॉर्ड डेट और जरूरी जानकारी</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/nvidia-ceo-jensen-huang-resignation-impact-3052/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T04:20:27.717Z</news:publication_date>
-      <news:title>Nvidia के CEO जेनसेन हुआंग के इस्तीफे से गिरा शेयर, क्या निवेशकों को डरना चाहिए?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/global-market-trends-impact-indian-investors-0727/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T04:20:16.462Z</news:publication_date>
-      <news:title>ग्लोबल मार्केट में बड़े बदलावों की आहट: क्या भारत के शेयर बाजार को मिलेगा फायदा?</news:title>
     </news:news>
   </url>
 </urlset>
