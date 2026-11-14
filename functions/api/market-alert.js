@@ -44,7 +44,7 @@ async function fetchQuote(item) {
     const timer = setTimeout(() => ctrl.abort(), 3500);
     const res = await fetch(url, {
       signal: ctrl.signal,
-      cf: { cacheTtl: 5, cacheEverything: false },
+      cf: { cacheTtl: 0, cacheEverything: false },
       headers: {
         'User-Agent': 'Mozilla/5.0 (compatible; LoanKaiseBot/1.0)',
         'Cache-Control': 'no-cache',

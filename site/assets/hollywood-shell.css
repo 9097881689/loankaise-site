@@ -462,3 +462,26 @@ h1, h2, h3, h4 {
 .lk-txt-drop { color: #dc2626 !important; font-weight: 700 !important; }
 .lk-txt-news { color: #18181b !important; }
 .lk-sep { color: #d4d4d8 !important; margin-left: 4px !important; }
+
+@keyframes lkFlashGreen {
+  0% { background-color: #bbf7d0 !important; color: #14532d !important; border-radius: 3px; transform: scale(1.04); }
+  100% { background-color: transparent !important; transform: scale(1); }
+}
+@keyframes lkFlashRed {
+  0% { background-color: #fecaca !important; color: #7f1d1d !important; border-radius: 3px; transform: scale(1.04); }
+  100% { background-color: transparent !important; transform: scale(1); }
+}
+.lk-flash-up {
+  animation: lkFlashGreen 1.2s ease-out !important;
+  display: inline-block;
+  padding: 0 3px !important;
+}
+.lk-flash-down {
+  animation: lkFlashRed 1.2s ease-out !important;
+  display: inline-block;
+  padding: 0 3px !important;
+}
+.lk-mkt-pill {
+  font-variant-numeric: tabular-nums !important;
+}
+

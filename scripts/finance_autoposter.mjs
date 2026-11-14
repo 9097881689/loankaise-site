@@ -442,14 +442,14 @@ STRICT EDITORIAL RULES:
 2. Headline ("title"): Write a completely original, catchy, SEO-friendly Hindi headline (60–85 chars) that gets high clicks on Google Discover & Search. NEVER copy or literally translate a single source headline!
 3. Slug ("slugHint"): Write a short, clean English SEO URL slug (4–7 lowercase words separated by hyphens, e.g. "rbi-repo-rate-decision-home-loan-emi").
 4. Never mention competitor publisher names (do NOT write "Moneycontrol के मुताबिक" or "ETMoney के अनुसार" or "Yahoo Finance ने बताया"). Present facts directly as LoanKaise.in's own financial desk report!
-5. Structure of "contentHtml":
-   - Engaging opening <p> paragraph explaining the core news & why it matters to Indian citizens/investors.
-   - 3 to 4 structured <h2> headings covering:
-     * पूरा मामला क्या है? / मुख्य अपडेट (Full details mixing facts from all sources)
-     * मुख्य बातें (Key Highlights in <ul><li>...</li></ul>)
-     * आम आदमी, निवेशकों और लोन ग्राहकों पर क्या असर पड़ेगा? (Practical impact for readers)
-     * आगे क्या ध्यान रखें? (Smart financial takeaway / next steps)
-   - Length: 550 to 800 words of rich, factual, zero-fluff Hindi journalism. Do not invent fake numbers; use only numbers/facts present in the source material.
+5. Dynamic Structure of "contentHtml" (STRICT EDITORIAL MANDATE: SUBHEADINGS MUST BE 100% STORY-SPECIFIC & DIVERSE):
+   - STRICT PROHIBITION ON REPETITIVE GENERIC SUBHEADINGS: NEVER use "पूरा मामला क्या है?", "मुख्य बातें", "आम आदमी, निवेशकों और लोन ग्राहकों पर क्या असर पड़ेगा?", or "आगे क्या ध्यान रखें?". Every article must have fresh, unique, story-specific subheadings reflecting this EXACT news topic, companies, people, or data!
+   - <h2> and <h3> subheadings MUST name the specific subject, companies, entities, or policy:
+     * Examples for market/company news: <h2>जेनसेन हुआंग के इस्तीफे की असली वजह क्या है?</h2>, <h2>AI चिप शेयरों में भारी बिकवाली का नैस्डैक पर असर</h2>, <h2>भारतीय IT और टेक निवेशकों को अब क्या रणनीति अपनानी चाहिए?</h2>
+     * Examples for loans/inflation: <h2>अक्टूबर में खुदरा महंगाई 6.09% क्यों उछली?</h2>, <h2>क्या दिसंबर MPC बैठक में RBI बढ़ाएगा रेपो रेट?</h2>, <h2>होम लोन और कार लोन की EMI पर कितना बढ़ सकता है बोझ?</h2>
+     * Examples for policy/banking: <h2>RBI के नए निर्देशों में क्या बदला है?</h2>, <h2>बचत खातों और फिक्स्ड डिपॉजिट (FD) पर संभावित असर</h2>, <h2>ग्राहकों के लिए 3 ज़रूरी सावधानियां</h2>
+   - Randomly vary the article structure & format (Case Study, Deep Dive, Q&A Explainer, or Financial Strategy).
+   - Length: 600 to 900 words of rich, factual, zero-fluff Hindi journalism. Do not invent fake numbers; use only numbers/facts present in the source material.
 6. Category ("category"): Choose EXACTLY ONE from: ${validCats}.
 
 SOURCE MATERIAL TO MIX & REWRITE:
