@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/rbi-forex-reserves-data-analysis-1837/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T06:10:27.226Z</news:publication_date>
+      <news:title>RBI का नया डेटा: विदेशी मुद्रा भंडार में बदलाव और सरकारी कर्ज की स्थिति पर नज़र</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/india-gem-jewellery-exports-october-growth-0080/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T06:10:15.306Z</news:publication_date>
+      <news:title>भारतीय ज्वेलरी एक्सपोर्ट में आया बड़ा उछाल, अक्टूबर में 34% बढ़ी विदेशी मांग</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/rbi-imposes-penalty-on-mobikwik-ppi-rules-5641/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T04:10:35.368Z</news:publication_date>
       <news:title>Children&apos;s Day 2026: क्या बच्चों के भविष्य के लिए निवेश की तैयारी है पूरी?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/nifty-50-market-outlook-investment-strategy-4669/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T04:05:32.533Z</news:publication_date>
-      <news:title>शेयर बाजार में उतार-चढ़ाव: Nifty 50 के लिए 25,000 का स्तर क्यों है बेहद अहम?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/gold-silver-price-today-india-update-0592/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T04:05:18.415Z</news:publication_date>
-      <news:title>Gold Silver Price: सोने-चांदी की कीमतों में बड़ी गिरावट, जानें आज आपके शहर में क्या है नया रेट</news:title>
     </news:news>
   </url>
 </urlset>
