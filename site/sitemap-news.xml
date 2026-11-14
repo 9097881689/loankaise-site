@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/hdfc-mutual-fund-h-sif-hybrid-fund-nfo-9133/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T05:30:23.882Z</news:publication_date>
+      <news:title>HDFC Mutual Fund का बड़ा दांव: 10 लाख रुपये के मिनिमम निवेश वाला नया &apos;H-SIF&apos; लॉन्च</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/howard-lutnick-republican-party-controversy-update-8280/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T05:30:13.769Z</news:publication_date>
+      <news:title>हावर्ड लटनिक पर क्यों भड़के रिपब्लिकन नेता? अमेरिकी राजनीति में मची हलचल</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/india-current-account-deficit-h1fy27-analysis-3123/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-13T04:45:22.370Z</news:publication_date>
       <news:title>Hitachi Energy के शेयर में रॉकेट जैसी तेज़ी: Q2 नतीजों के बाद क्या निवेशकों को करना चाहिए निवेश?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/anthropic-ipo-valuation-market-update-9856/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T00:25:34.085Z</news:publication_date>
-      <news:title>Anthropic IPO: क्या यह बनेगा दुनिया का सबसे बड़ा आईपीओ? निवेशकों में दिखा भारी उत्साह</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/japanese-yen-currency-volatility-impact-0363/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T00:25:25.158Z</news:publication_date>
-      <news:title>जापानी येन में आई बड़ी हलचल: क्या ग्लोबल मार्केट और निवेशकों के लिए है खतरे की घंटी?</news:title>
     </news:news>
   </url>
 </urlset>
