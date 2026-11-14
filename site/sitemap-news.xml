@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/daily-vs-monthly-sip-investment-strategy-2567/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T04:15:26.979Z</news:publication_date>
+      <news:title>रोजाना 100 रुपये या महीने में 3000 की SIP: लंबी अवधि में कौन सा विकल्प है बेहतर?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/goldman-sachs-sp500-forecast-global-market-impact-1338/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T04:15:17.477Z</news:publication_date>
+      <news:title>अमेरिकी बाजार में तेजी की उम्मीद: गोल्डमैन सैक्स ने S&amp;P 500 के लिए जारी किया नया टारगेट</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/robinhood-ipo-lawsuit-supreme-court-update-1496/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-12T01:21:06.136Z</news:publication_date>
       <news:title>शेयर बाज़ार में तेज़ी का सिलसिला जारी, सेंसेक्स 82000 के पार, आगे क्या?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/thomson-reuters-ai-spending-share-buyback-6665/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T01:17:04.198Z</news:publication_date>
-      <news:title>AI पर भारी खर्च से निवेशक चिंतित, थॉमसन रॉयटर्स का शेयर बायबैक का दांव</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/canada-pension-hedge-fund-investment-plan-5219/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T01:16:02.513Z</news:publication_date>
-      <news:title>हेज़ फंड में निवेश दोगुना करेगा कनाडा पेंशन, 160 अरब डॉलर तक पहुंचाने की योजना</news:title>
     </news:news>
   </url>
 </urlset>
