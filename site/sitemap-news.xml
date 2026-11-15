@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/iob-fd-interest-rate-hike-444-days-8021/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T08:24:02.307Z</news:publication_date>
+      <news:title>Indian Overseas Bank का बड़ा तोहफा: 444 दिन की FD पर ब्याज दरों में बढ़ोतरी</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/fujiyama-power-systems-stock-outlook-target-7532/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T08:23:53.478Z</news:publication_date>
+      <news:title>Fujiyama Power Systems: सोलर सेक्टर के इस शेयर में 40% उछाल की उम्मीद, क्या आपके पोर्टफोलियो में है?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/chhath-puja-2026-sandhya-arghya-timings-7020/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T05:45:16.230Z</news:publication_date>
       <news:title>शेयर बाजार में भारत की वापसी: क्या वाकई भारतीय बाजार के लिए अच्छे दिन आ गए हैं?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/best-fd-interest-rates-small-finance-banks-8707/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T05:40:43.883Z</news:publication_date>
-      <news:title>FD में मिल रहा है 8.6% तक का धांसू रिटर्न, जानें कौन से बैंक दे रहे सबसे ज्यादा ब्याज</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/child-investment-income-tax-clubbing-rules-8725/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T05:40:14.673Z</news:publication_date>
-      <news:title>बच्चों के नाम पर निवेश करते समय न करें ये गलती, टैक्स क्लबिंग नियमों की पूरी जानकारी</news:title>
     </news:news>
   </url>
 </urlset>
