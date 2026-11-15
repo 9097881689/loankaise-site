@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/jioblackrock-flexi-cap-fund-portfolio-changes-8639/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T00:14:03.265Z</news:publication_date>
+      <news:title>JioBlackRock Flexi Cap Fund का बड़ा दांव: 13 नए शेयरों में एंट्री और 21 से किनारा</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/dividend-stocks-record-dates-this-week-5650/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T00:13:40.233Z</news:publication_date>
+      <news:title>डिविडेंड की बौछार: इस हफ्ते Ashok Leyland और MRF समेत इन 23 शेयरों पर रखें नज़र</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/corporate-actions-stock-split-dividend-list-9832/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T05:25:14.709Z</news:publication_date>
       <news:title>शेयर बाजार की उठापटक के बीच क्या भारत में भी आएगा विदेशी निवेश का पैसा?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/anthropic-ipo-ai-market-impact-analysis-0336/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T05:20:25.006Z</news:publication_date>
-      <news:title>Anthropic IPO: क्या AI दिग्गज एंथ्रोपिक का आईपीओ स्पेसएक्स का रिकॉर्ड तोड़ेगा?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/gold-price-hike-inflation-impact-india-9606/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T05:20:14.644Z</news:publication_date>
-      <news:title>सोने के दाम में जोरदार उछाल: क्या महंगाई का असर? जानें आज का ताज़ा भाव</news:title>
     </news:news>
   </url>
 </urlset>
