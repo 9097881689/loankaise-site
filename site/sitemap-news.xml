@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/anthropic-ipo-how-to-invest-from-india-2076/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T09:40:26.674Z</news:publication_date>
+      <news:title>Anthropic IPO: क्या भारतीय निवेशक भी खरीद पाएंगे Claude बनाने वाली कंपनी के शेयर?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/epfo-wage-ceiling-hike-benefits-explained-9927/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T09:40:17.246Z</news:publication_date>
+      <news:title>EPFO का बड़ा तोहफा: 25,000 रुपये हुई सैलरी सीलिंग, जानें आपको कैसे मिलेगा फायदा</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/iob-fd-interest-rate-hike-444-days-8021/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T05:50:15.173Z</news:publication_date>
       <news:title>बैंक की छुट्टियों की लंबी लिस्ट: नवंबर 2026 में कब-कब बंद रहेंगे बैंक? चेक करें</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/nvidia-ceo-jensen-huang-resignation-china-connection-2543/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T05:45:27.748Z</news:publication_date>
-      <news:title>Nvidia CEO Jensen Huang का इस्तीफा: क्या निजी संबंधों और चीन कनेक्शन ने बदला कंपनी का भविष्य?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/indian-stock-market-resurgence-global-trends-0882/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T05:45:16.230Z</news:publication_date>
-      <news:title>शेयर बाजार में भारत की वापसी: क्या वाकई भारतीय बाजार के लिए अच्छे दिन आ गए हैं?</news:title>
     </news:news>
   </url>
 </urlset>
