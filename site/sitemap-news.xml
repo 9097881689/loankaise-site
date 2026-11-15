@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/mutual-fund-portfolio-risk-management-tips-7051/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T02:55:51.516Z</news:publication_date>
+      <news:title>म्यूचुअल फंड पोर्टफोलियो में गिरावट से हैं परेशान? जोखिम कम करने के 5 असरदार तरीके</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/nvidia-ceo-jensen-huang-resignation-anthropic-ipo-2612/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T02:55:28.197Z</news:publication_date>
+      <news:title>Nvidia में उथल-पुथल और Anthropic का IPO: क्या AI शेयरों का दौर खत्म हो रहा है?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/jioblackrock-flexi-cap-fund-portfolio-changes-8639/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T05:30:13.769Z</news:publication_date>
       <news:title>हावर्ड लटनिक पर क्यों भड़के रिपब्लिकन नेता? अमेरिकी राजनीति में मची हलचल</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/india-current-account-deficit-h1fy27-analysis-3123/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T05:25:28.392Z</news:publication_date>
-      <news:title>भारत का करंट अकाउंट डेफिसिट 25.8 अरब डॉलर पर पहुंचा, क्या आपकी जेब पर पड़ेगा असर?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/global-market-volatility-impact-on-indian-stocks-9510/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T05:25:14.709Z</news:publication_date>
-      <news:title>शेयर बाजार की उठापटक के बीच क्या भारत में भी आएगा विदेशी निवेश का पैसा?</news:title>
     </news:news>
   </url>
 </urlset>
