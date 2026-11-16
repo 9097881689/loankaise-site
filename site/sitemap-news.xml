@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/inox-wind-share-price-q2-results-analysis-5679/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T04:27:00.510Z</news:publication_date>
+      <news:title>Inox Wind के शेयरों में 10% की बड़ी गिरावट, क्या Q2 के कमजोर नतीजे हैं वजह?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/tata-motors-share-price-fall-analysis-7792/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T04:26:49.519Z</news:publication_date>
+      <news:title>Tata Motors के शेयरों में 8% की भारी गिरावट: क्या अब निवेशकों को घबराना चाहिए?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/top-six-stocks-to-buy-expert-picks-0653/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T06:05:13.885Z</news:publication_date>
       <news:title>क्या 1 जनवरी 2027 से बदल रहे हैं चेक बुक के नियम? RBI की सफाई से जानें सच</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/smart-financial-planning-for-rented-homes-4208/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T06:00:29.713Z</news:publication_date>
-      <news:title>किराये के घर में रह रहे हैं? अपनी सेविंग्स और भविष्य के सपनों को ऐसे रखें सुरक्षित</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/india-forex-reserves-increase-rbi-data-3043/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T06:00:18.313Z</news:publication_date>
-      <news:title>भारत का विदेशी मुद्रा भंडार फिर हुआ मजबूत, RBI के नए आंकड़ों में दिखी बड़ी उछाल</news:title>
     </news:news>
   </url>
 </urlset>
