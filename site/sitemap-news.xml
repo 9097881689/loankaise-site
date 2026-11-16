@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/gold-silver-price-crash-mcx-analysis-2843/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T08:28:18.011Z</news:publication_date>
+      <news:title>सोने-चांदी की कीमतों में हाहाकार: MCX पर बड़ी गिरावट, क्या खरीदारी का सही मौका है?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/credit-card-reward-points-holiday-savings-0542/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T08:25:28.661Z</news:publication_date>
+      <news:title>क्रेडिट कार्ड के रिवॉर्ड पॉइंट से ऐसे बचाएं लाखों रुपये, वेकेशन का खर्च होगा आधा</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/inox-wind-share-price-q2-results-analysis-5679/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T06:10:15.306Z</news:publication_date>
       <news:title>भारतीय ज्वेलरी एक्सपोर्ट में आया बड़ा उछाल, अक्टूबर में 34% बढ़ी विदेशी मांग</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/rbi-imposes-penalty-on-mobikwik-ppi-rules-5641/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T06:05:31.050Z</news:publication_date>
-      <news:title>RBI का Mobikwik पर बड़ा एक्शन: नियमों के उल्लंघन पर लगा 9 लाख का जुर्माना</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/rbi-cheque-book-rules-fake-news-clarification-8628/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T06:05:13.885Z</news:publication_date>
-      <news:title>क्या 1 जनवरी 2027 से बदल रहे हैं चेक बुक के नियम? RBI की सफाई से जानें सच</news:title>
     </news:news>
   </url>
 </urlset>
