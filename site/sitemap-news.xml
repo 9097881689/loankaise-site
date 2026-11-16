@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/top-six-stocks-to-buy-expert-picks-0653/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T01:30:47.707Z</news:publication_date>
+      <news:title>शानदार कमाई का मौका: शेयर बाजार के दिग्गजों ने बताए ये 6 धमाकेदार स्टॉक्स</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/stocks-to-watch-q2-results-impact-9913/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T00:30:16.312Z</news:publication_date>
+      <news:title>शेयर बाजार में आज इन कंपनियों पर रहेगी नजर: Q2 नतीजों ने बदली कई दिग्गजों की चाल</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/income-tax-refund-double-payment-solution-8074/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T06:00:18.313Z</news:publication_date>
       <news:title>भारत का विदेशी मुद्रा भंडार फिर हुआ मजबूत, RBI के नए आंकड़ों में दिखी बड़ी उछाल</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/prime-focus-q2-results-stock-analysis-0602/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T05:55:35.028Z</news:publication_date>
-      <news:title>Prime Focus Q2 Results: 14 गुना मुनाफा उछला, फिर भी क्यों गिर रहे हैं शेयर?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/ops-pension-rules-university-job-switch-9484/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T05:55:24.940Z</news:publication_date>
-      <news:title>Old Pension Scheme: नौकरी बदलने पर भी मिलेगा OPS का लाभ, हाई कोर्ट का बड़ा फैसला</news:title>
     </news:news>
   </url>
 </urlset>
