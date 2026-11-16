@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/dehradun-banks-closed-igas-bagwal-holiday-8447/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T18:08:27.019Z</news:publication_date>
+      <news:title>20 नवंबर को देहरादून में बैंक रहेंगे बंद, इगास-बग्वाल की छुट्टी को लेकर RBI का बड़ा अपडेट</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/gold-hallmarking-cag-report-bis-inspection-gaps-1611/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T16:57:57.906Z</news:publication_date>
+      <news:title>गोल्ड हॉलमार्किंग में बड़ी चूक: क्या आप असली सोना खरीद रहे हैं? CAG की रिपोर्ट ने बढ़ाई चिंता</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/budget-2027-ltcg-tax-changes-cbdt-4058/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T06:25:16.369Z</news:publication_date>
       <news:title>Children&apos;s Day Special: बच्चों के भविष्य को सुरक्षित बनाने के लिए सही इंश्योरेंस कैसे चुनें?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/bank-lending-rates-drop-september-impact-3394/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T06:20:59.055Z</news:publication_date>
-      <news:title>लोन लेने वालों के लिए खुशखबरी: सितंबर में सस्ता हुआ कर्ज, जानिए आपकी EMI पर क्या होगा असर</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/rbi-sebi-demat-2-0-blockchain-bond-market-1451/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T06:20:26.483Z</news:publication_date>
-      <news:title>Demat 2.0: क्या है RBI और SEBI का नया ब्लॉकचेन प्लान? बॉन्ड मार्केट में आएगा बड़ा बदलाव</news:title>
     </news:news>
   </url>
 </urlset>
