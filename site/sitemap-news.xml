@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/share-market-today-sensex-nifty-update-3487/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T09:10:28.163Z</news:publication_date>
+      <news:title>शेयर बाज़ार में आज की तेज़ चाल: सेंसेक्स-निफ्टी की रिकवरी और एशियाई पेंट्स का दम</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/kaynes-technology-q2-results-stock-crash-1168/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T09:10:16.284Z</news:publication_date>
+      <news:title>Kaynes Technology के शेयरों में बड़ी गिरावट: क्या 62% मुनाफा घटने से बिगड़ा खेल?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/bank-guarantor-pension-deduction-court-ruling-4821/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-17T01:10:42.599Z</news:publication_date>
       <news:title>Nvidia के सीईओ जेनसेन हुआंग को लेकर सिलिकॉन वैली में क्यों छिड़ी बहस?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/stock-market-sensex-nifty-recovery-update-3191/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T00:50:27.208Z</news:publication_date>
-      <news:title>शेयर बाजार में जोश: सेंसेक्स-निफ्टी की शानदार वापसी, इन सेक्टर्स ने फूंकी जान</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/nifty-sensex-market-update-investment-strategy-7597/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T00:50:16.971Z</news:publication_date>
-      <news:title>शेयर बाजार में निफ्टी की वापसी लेकिन मिडकैप में सुस्ती, क्या है निवेश की रणनीति?</news:title>
     </news:news>
   </url>
 </urlset>
