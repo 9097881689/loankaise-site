@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/new-motor-insurance-rules-december-15-3514/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T02:20:37.476Z</news:publication_date>
+      <news:title>15 दिसंबर से बदल रहे मोटर इंश्योरेंस नियम: क्या आपकी कार पॉलिसी में परिवार सुरक्षित है?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/nvidia-crisis-anthropic-ipo-market-impact-1836/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T02:20:16.147Z</news:publication_date>
+      <news:title>Nvidia संकट और Anthropic IPO: क्या अमेरिकी टेक बाज़ार में आने वाला है बड़ा भूचाल?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/nvidia-earnings-asian-market-tech-selloff-5399/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-15T05:20:43.254Z</news:publication_date>
       <news:title>शेयर बाजार में फिर लौटी बहार: नवंबर की तेजी के पीछे क्या है असली वजह?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/top-stocks-to-buy-market-correction-1323/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T05:16:06.274Z</news:publication_date>
-      <news:title>बाज़ार में गिरावट के बीच इन 3 शेयरों पर दांव लगाने की सलाह, जानें क्या है टारगेट</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/ashok-leyland-q2-results-dividend-announcement-5345/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T05:00:41.640Z</news:publication_date>
-      <news:title>Ashok Leyland Q2 Results: मुनाफा 12.7% उछला, निवेशकों के लिए डिविडेंड का ऐलान</news:title>
     </news:news>
   </url>
 </urlset>
