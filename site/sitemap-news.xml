@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/repo-rate-cut-loan-emi-outlook-6637/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T06:39:53.738Z</news:publication_date>
+      <news:title>रेपो रेट में कटौती का इंतजार: क्या आने वाले महीनों में सस्ता होगा आपका लोन?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/government-bond-market-yield-outlook-6895/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T06:24:38.900Z</news:publication_date>
+      <news:title>सरकारी बॉन्ड मार्केट में सुस्ती के क्या हैं मायने, आगे कैसी रहेगी चाल?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/us-dollar-strength-trump-tariffs-impact-9938/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-15T15:30:42.001Z</news:publication_date>
       <news:title>Baazar Style Retail Share Price: Q2 नतीजों के बाद इस वैल्यू फैशन स्टॉक में क्या करें निवेशक?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/anthropic-ipo-how-to-invest-from-india-2076/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T09:40:26.674Z</news:publication_date>
-      <news:title>Anthropic IPO: क्या भारतीय निवेशक भी खरीद पाएंगे Claude बनाने वाली कंपनी के शेयर?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/epfo-wage-ceiling-hike-benefits-explained-9927/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T09:40:17.246Z</news:publication_date>
-      <news:title>EPFO का बड़ा तोहफा: 25,000 रुपये हुई सैलरी सीलिंग, जानें आपको कैसे मिलेगा फायदा</news:title>
     </news:news>
   </url>
 </urlset>
