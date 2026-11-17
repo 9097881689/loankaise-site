@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/us-dollar-strength-trump-tariffs-impact-9938/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T03:00:23.809Z</news:publication_date>
+      <news:title>अमेरिकी डॉलर की दमदार वापसी: क्या ट्रंप के टैरिफ का असर खत्म हो गया?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/us-banking-system-outage-technical-glitch-9958/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T03:00:14.293Z</news:publication_date>
+      <news:title>अमेरिकी बैंकिंग सिस्टम में तकनीकी खराबी से हड़कंप: क्या आपका पैसा सुरक्षित है?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/nvidia-ceo-jensen-huang-ouster-impact-3672/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-15T09:40:17.246Z</news:publication_date>
       <news:title>EPFO का बड़ा तोहफा: 25,000 रुपये हुई सैलरी सीलिंग, जानें आपको कैसे मिलेगा फायदा</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/iob-fd-interest-rate-hike-444-days-8021/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T08:24:02.307Z</news:publication_date>
-      <news:title>Indian Overseas Bank का बड़ा तोहफा: 444 दिन की FD पर ब्याज दरों में बढ़ोतरी</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/fujiyama-power-systems-stock-outlook-target-7532/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T08:23:53.478Z</news:publication_date>
-      <news:title>Fujiyama Power Systems: सोलर सेक्टर के इस शेयर में 40% उछाल की उम्मीद, क्या आपके पोर्टफोलियो में है?</news:title>
     </news:news>
   </url>
 </urlset>
