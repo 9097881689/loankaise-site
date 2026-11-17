@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/walmart-target-q3-earnings-global-market-impact-3843/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T01:50:28.987Z</news:publication_date>
+      <news:title>Walmart, Target और Home Depot के Q3 नतीजों पर टिकी ग्लोबल बाज़ार की नज़रें</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/canadian-dollar-inflation-bank-of-canada-rates-1039/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T01:50:18.796Z</news:publication_date>
+      <news:title>कनाडाई डॉलर 19 महीने के निचले स्तर पर: क्या बैंक ऑफ कनाडा अब ब्याज दरें नहीं बढ़ाएगा?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/us-major-banks-outage-jpmorgan-bofa-2588/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T09:00:16.455Z</news:publication_date>
       <news:title>अगले हफ्ते शेयर बाजार में हलचल: MRF, PFC समेत इन दिग्गज कंपनियों के कॉर्पोरेट एक्शन पर रखें नज़र</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/best-mutual-fund-sip-long-term-returns-8664/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T08:55:36.904Z</news:publication_date>
-      <news:title>SIP का पैसा कहाँ बनाएगा सबसे ज्यादा रिटर्न: लार्ज, मिड या स्मॉल कैप?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/8th-pay-commission-pension-arrears-update-4681/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T08:55:23.394Z</news:publication_date>
-      <news:title>8th Pay Commission: रिटायर होने वाले कर्मचारियों को क्या मिलेगा एरियर और बढ़ा हुआ पेंशन?</news:title>
     </news:news>
   </url>
 </urlset>
