@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/nps-kyc-rules-eased-nri-seafarers-4444/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T08:10:41.196Z</news:publication_date>
+      <news:title>NPS खाता खोलना अब NRI नाविकों के लिए हुआ आसान, जानिए क्या बदले KYC नियम</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/stock-market-nifty-bank-nifty-record-high-0857/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T08:10:28.587Z</news:publication_date>
+      <news:title>शेयर बाजार में तूफानी तेजी: निफ्टी 9 महीने के शिखर पर, बैंक निफ्टी ने रचा इतिहास</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/repo-rate-cut-loan-emi-outlook-6637/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-16T00:30:16.312Z</news:publication_date>
       <news:title>शेयर बाजार में आज इन कंपनियों पर रहेगी नजर: Q2 नतीजों ने बदली कई दिग्गजों की चाल</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/income-tax-refund-double-payment-solution-8074/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T15:30:52.201Z</news:publication_date>
-      <news:title>इनकम टैक्स रिफंड गलती से दो बार आ गया? घबराएं नहीं, अपनाएं ये सुरक्षित तरीका</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/baazar-style-retail-share-price-target-q2-results-5722/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T15:30:42.001Z</news:publication_date>
-      <news:title>Baazar Style Retail Share Price: Q2 नतीजों के बाद इस वैल्यू फैशन स्टॉक में क्या करें निवेशक?</news:title>
     </news:news>
   </url>
 </urlset>
