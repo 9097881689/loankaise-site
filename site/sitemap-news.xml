@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/nvidia-earnings-asian-market-tech-selloff-5399/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T02:15:30.994Z</news:publication_date>
+      <news:title>Nvidia के नतीजों से पहले एशियाई बाजारों में बड़ी गिरावट, क्या टेक शेयरों में मची है खलबली?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/gold-silver-price-trend-india-latest-1615/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T02:15:18.627Z</news:publication_date>
+      <news:title>Gold-Silver Price Update: क्या सोने-चांदी में गिरावट का दौर थमेगा? जानें आज के लेटेस्ट भाव</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/brokerage-recommendations-stocks-to-watch-7838/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-15T05:00:41.640Z</news:publication_date>
       <news:title>Ashok Leyland Q2 Results: मुनाफा 12.7% उछला, निवेशकों के लिए डिविडेंड का ऐलान</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/mutual-fund-portfolio-risk-management-tips-7051/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T02:55:51.516Z</news:publication_date>
-      <news:title>म्यूचुअल फंड पोर्टफोलियो में गिरावट से हैं परेशान? जोखिम कम करने के 5 असरदार तरीके</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/nvidia-ceo-jensen-huang-resignation-anthropic-ipo-2612/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T02:55:28.197Z</news:publication_date>
-      <news:title>Nvidia में उथल-पुथल और Anthropic का IPO: क्या AI शेयरों का दौर खत्म हो रहा है?</news:title>
     </news:news>
   </url>
 </urlset>
