@@ -1,5 +1,41 @@
 [
   {
+    "id": "lk-1794881131945-ygtq",
+    "slug": "us-dollar-surge-impact-indian-market-6559",
+    "url": "/news/us-dollar-surge-impact-indian-market-6559/",
+    "title": "अमेरिकी डॉलर में 19 महीने की सबसे बड़ी उछाल, क्या भारतीय बाज़ार पर पड़ेगा असर?",
+    "subtitle": "फेडरल रिजर्व की सख्ती की उम्मीदों के बीच डॉलर इंडेक्स 103.66 के पार, जानिए भारत के निवेशकों के लिए इसका क्या मतलब है।",
+    "category": "markets",
+    "categoryLabel": "शेयर बाज़ार & गोल्ड",
+    "featuredImage": "/uploads/news/us-dollar-surge-impact-indian-market-6559.webp",
+    "authorName": "अमित मिश्रा",
+    "publishedAt": "2026-11-17T02:05:31.945Z",
+    "indexedInGoogle": true,
+    "sourcesCount": 1,
+    "sourceNames": [
+      "Economic Times Markets"
+    ],
+    "isLegacyGuide": false
+  },
+  {
+    "id": "lk-1794881120044-nk55",
+    "slug": "us-banking-system-outage-explained-2679",
+    "url": "/news/us-banking-system-outage-explained-2679/",
+    "title": "US बैंकिंग सिस्टम में बड़ी तकनीकी खराबी: क्या आपके पैसे सुरक्षित हैं? जानें पूरी सच्चाई",
+    "subtitle": "अमेरिका के प्रमुख बैंकों में आई तकनीकी दिक्कत से ग्राहकों की बढ़ी चिंता, जानें आपके अकाउंट और ट्रांजैक्शन पर इसका क्या असर पड़ेगा।",
+    "category": "banking-rbi",
+    "categoryLabel": "बैंकिंग & RBI",
+    "featuredImage": "/uploads/news/us-banking-system-outage-explained-2679.webp",
+    "authorName": "राहुल शर्मा",
+    "publishedAt": "2026-11-17T02:05:20.044Z",
+    "indexedInGoogle": true,
+    "sourcesCount": 1,
+    "sourceNames": [
+      "NDTV Profit"
+    ],
+    "isLegacyGuide": false
+  },
+  {
     "id": "lk-1794880830405-woib",
     "slug": "nvidia-jensen-huang-ceo-return-update-5638",
     "url": "/news/nvidia-jensen-huang-ceo-return-update-5638/",

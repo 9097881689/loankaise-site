@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/us-dollar-surge-impact-indian-market-6559/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T02:05:31.945Z</news:publication_date>
+      <news:title>अमेरिकी डॉलर में 19 महीने की सबसे बड़ी उछाल, क्या भारतीय बाज़ार पर पड़ेगा असर?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/us-banking-system-outage-explained-2679/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T02:05:20.044Z</news:publication_date>
+      <news:title>US बैंकिंग सिस्टम में बड़ी तकनीकी खराबी: क्या आपके पैसे सुरक्षित हैं? जानें पूरी सच्चाई</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/nvidia-jensen-huang-ceo-return-update-5638/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-15T00:13:40.233Z</news:publication_date>
       <news:title>डिविडेंड की बौछार: इस हफ्ते Ashok Leyland और MRF समेत इन 23 शेयरों पर रखें नज़र</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/corporate-actions-stock-split-dividend-list-9832/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T22:12:54.035Z</news:publication_date>
-      <news:title>शेयर बाजार में हलचल: इस हफ्ते इन कंपनियों के कॉर्पोरेट एक्शन पर रखें नजर</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/indian-stock-market-outlook-nifty-trend-0910/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T22:12:36.934Z</news:publication_date>
-      <news:title>शेयर बाजार का साप्ताहिक आउटलुक: क्या 25,000 के स्तर पर निफ्टी की चाल रहेगी बरकरार?</news:title>
     </news:news>
   </url>
 </urlset>
