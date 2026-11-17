@@ -1,5 +1,41 @@
 [
   {
+    "id": "lk-1794879927582-xz2k",
+    "slug": "us-major-banks-outage-jpmorgan-bofa-2588",
+    "url": "/news/us-major-banks-outage-jpmorgan-bofa-2588/",
+    "title": "अमेरिका में बैंकिंग ठप: JPMorgan, BofA समेत कई बड़े बैंकों के सर्वर डाउन से हड़कंप",
+    "subtitle": "अमेरिका के प्रमुख बैंकों में तकनीकी खराबी के चलते लाखों ग्राहकों को ट्रांजेक्शन और अकाउंट बैलेंस देखने में भारी दिक्कतों का सामना करना पड़ा।",
+    "category": "business",
+    "categoryLabel": "बिज़नेस & इकोनॉमी",
+    "featuredImage": "/uploads/news/us-major-banks-outage-jpmorgan-bofa-2588.webp",
+    "authorName": "नेहा गुप्ता",
+    "publishedAt": "2026-11-17T01:45:27.582Z",
+    "indexedInGoogle": true,
+    "sourcesCount": 1,
+    "sourceNames": [
+      "NDTV Profit"
+    ],
+    "isLegacyGuide": false
+  },
+  {
+    "id": "lk-1794879915162-mkp5",
+    "slug": "ai-impact-global-currency-market-rules-0490",
+    "url": "/news/ai-impact-global-currency-market-rules-0490/",
+    "title": "क्या AI और 24-घंटे की ट्रेडिंग विदेशी मुद्रा बाज़ार के लिए खतरा हैं? बदलेंगे नियम",
+    "subtitle": "9.5 ट्रिलियन डॉलर के विदेशी मुद्रा बाज़ार में AI के बढ़ते दखल से रेगुलेटर्स चिंतित, क्या आपकी निवेश सुरक्षा पर पड़ेगा असर?",
+    "category": "markets",
+    "categoryLabel": "शेयर बाज़ार & गोल्ड",
+    "featuredImage": "/uploads/news/ai-impact-global-currency-market-rules-0490.webp",
+    "authorName": "अमित मिश्रा",
+    "publishedAt": "2026-11-17T01:45:15.162Z",
+    "indexedInGoogle": true,
+    "sourcesCount": 1,
+    "sourceNames": [
+      "Livemint Markets"
+    ],
+    "isLegacyGuide": false
+  },
+  {
     "id": "lk-1794879629763-x43s",
     "slug": "us-stock-market-crash-nvidia-ai-stocks-5484",
     "url": "/news/us-stock-market-crash-nvidia-ai-stocks-5484/",

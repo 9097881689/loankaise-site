@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/us-major-banks-outage-jpmorgan-bofa-2588/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T01:45:27.582Z</news:publication_date>
+      <news:title>अमेरिका में बैंकिंग ठप: JPMorgan, BofA समेत कई बड़े बैंकों के सर्वर डाउन से हड़कंप</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/ai-impact-global-currency-market-rules-0490/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T01:45:15.162Z</news:publication_date>
+      <news:title>क्या AI और 24-घंटे की ट्रेडिंग विदेशी मुद्रा बाज़ार के लिए खतरा हैं? बदलेंगे नियम</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/us-stock-market-crash-nvidia-ai-stocks-5484/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T08:55:23.394Z</news:publication_date>
       <news:title>8th Pay Commission: रिटायर होने वाले कर्मचारियों को क्या मिलेगा एरियर और बढ़ा हुआ पेंशन?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/young-indians-debt-trap-emi-management-7039/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T07:00:32.222Z</news:publication_date>
-      <news:title>युवाओं की जेब पर भारी पड़ रहा आसान कर्ज: 60% इनकम सिर्फ EMI में, कैसे बचें इस जाल से?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/retirement-corpus-inflation-risk-strategy-2974/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T07:00:19.228Z</news:publication_date>
-      <news:title>रिटायरमेंट फंड कहीं 10 साल पहले ही तो खत्म नहीं हो जाएगा? महंगाई के इस नए गणित को समझें</news:title>
     </news:news>
   </url>
 </urlset>
