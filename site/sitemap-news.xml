@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/bank-guarantor-pension-deduction-court-ruling-4821/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T09:05:29.383Z</news:publication_date>
+      <news:title>लोन गारंटर हैं तो सावधान: क्या बैंक आपकी पेंशन से काट सकता है पैसा? जानें हाई कोर्ट का बड़ा फैसला</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/india-retail-credit-growth-gold-business-loan-3719/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T09:05:19.098Z</news:publication_date>
+      <news:title>भारत में रिटेल लोन का क्रेज बढ़ा: ₹185 लाख करोड़ के पार पहुंचा रिटेल क्रेडिट का आंकड़ा</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/hfcl-sterlite-technologies-share-price-correction-5207/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-17T00:50:16.971Z</news:publication_date>
       <news:title>शेयर बाजार में निफ्टी की वापसी लेकिन मिडकैप में सुस्ती, क्या है निवेश की रणनीति?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/tejas-networks-stock-target-price-analysis-2104/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T18:53:37.830Z</news:publication_date>
-      <news:title>Tejas Networks पर ब्रोकरेज बुलिश: क्या ₹1100 के टारगेट तक पहुंच पाएगा यह शेयर?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/hdfc-bank-stock-target-analysis-8581/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T18:38:24.666Z</news:publication_date>
-      <news:title>HDFC Bank पर ICICI Securities का बड़ा दांव, क्या ₹1,850 का लक्ष्य है मुमकिन?</news:title>
     </news:news>
   </url>
 </urlset>
