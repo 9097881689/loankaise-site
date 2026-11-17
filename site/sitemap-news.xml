@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/stock-market-sensex-nifty-recovery-update-3191/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T00:50:27.208Z</news:publication_date>
+      <news:title>शेयर बाजार में जोश: सेंसेक्स-निफ्टी की शानदार वापसी, इन सेक्टर्स ने फूंकी जान</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/nifty-sensex-market-update-investment-strategy-7597/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T00:50:16.971Z</news:publication_date>
+      <news:title>शेयर बाजार में निफ्टी की वापसी लेकिन मिडकैप में सुस्ती, क्या है निवेश की रणनीति?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/tejas-networks-stock-target-price-analysis-2104/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T06:35:21.303Z</news:publication_date>
       <news:title>RBI ने बदले पैसे भेजने के नियम: अब घर बैठे कैश ट्रांसफर करना होगा आसान</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/top-performing-largecap-stocks-november-multibagger-5061/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T06:30:32.010Z</news:publication_date>
-      <news:title>नवंबर में इन 6 लार्जकैप शेयरों ने मचाया धमाल: क्या आपके पोर्टफोलियो में हैं ये मल्टीबैगर स्टॉक्स?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/va-tech-wabag-saudi-project-cancellation-impact-3079/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T06:30:19.591Z</news:publication_date>
-      <news:title>VA Tech Wabag का 2,400 करोड़ का प्रोजेक्ट रद्द, रेखा झुनझुनवाला के पोर्टफोलियो पर क्या होगा असर?</news:title>
     </news:news>
   </url>
 </urlset>
