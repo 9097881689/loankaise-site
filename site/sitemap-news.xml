@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/mukul-agrawal-lodha-worli-property-deal-0319/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T08:40:25.034Z</news:publication_date>
+      <news:title>मुंबई के पॉश इलाके में दिग्गज निवेशक मुकुल अग्रवाल ने खरीदी 163 करोड़ की प्रॉपर्टी</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/highway-infrastructure-share-price-rally-9885/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T08:40:14.625Z</news:publication_date>
+      <news:title>₹100 से सस्ता यह इंफ्रा शेयर बना मल्टीबैगर, 6 महीने में निवेशकों का पैसा 70% बढ़ा</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/smart-cash-flow-management-portfolio-strategy-3571/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-16T08:25:28.661Z</news:publication_date>
       <news:title>क्रेडिट कार्ड के रिवॉर्ड पॉइंट से ऐसे बचाएं लाखों रुपये, वेकेशन का खर्च होगा आधा</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/inox-wind-share-price-q2-results-analysis-5679/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T04:27:00.510Z</news:publication_date>
-      <news:title>Inox Wind के शेयरों में 10% की बड़ी गिरावट, क्या Q2 के कमजोर नतीजे हैं वजह?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/tata-motors-share-price-fall-analysis-7792/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T04:26:49.519Z</news:publication_date>
-      <news:title>Tata Motors के शेयरों में 8% की भारी गिरावट: क्या अब निवेशकों को घबराना चाहिए?</news:title>
     </news:news>
   </url>
 </urlset>
