@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/nvidia-jensen-huang-ceo-return-update-5638/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T02:00:30.405Z</news:publication_date>
+      <news:title>Nvidia CEO Jensen Huang की वापसी पर बोर्ड का बड़ा फैसला, क्या शेयर बाजार में मचेगी हलचल?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/donald-trump-meme-coin-crash-analysis-1995/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T02:00:16.888Z</news:publication_date>
+      <news:title>डोनाल्ड ट्रंप के मीम कॉइन का बुरा हाल: क्या क्रिप्टो निवेशकों की उम्मीदें खत्म?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/stocks-in-focus-tech-mahindra-bse-ntpc-7527/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T22:12:36.934Z</news:publication_date>
       <news:title>शेयर बाजार का साप्ताहिक आउटलुक: क्या 25,000 के स्तर पर निफ्टी की चाल रहेगी बरकरार?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/bank-account-transaction-tax-itat-ruling-7395/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T14:20:35.576Z</news:publication_date>
-      <news:title>दूसरे का पैसा अपने बैंक अकाउंट में लेना पड़ सकता है भारी: ITAT का बड़ा फैसला</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/rising-pollution-health-insurance-claims-india-2765/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T14:20:18.930Z</news:publication_date>
-      <news:title>प्रदूषण के कारण बढ़ रहे हेल्थ इंश्योरेंस क्लेम: क्या आपका कवर पर्याप्त है?</news:title>
     </news:news>
   </url>
 </urlset>
