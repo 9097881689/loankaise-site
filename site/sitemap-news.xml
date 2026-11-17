@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/monthly-income-plan-for-retirees-30-lakh-1479/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T08:55:26.220Z</news:publication_date>
+      <news:title>30 लाख की बचत से हर महीने कैसे पाएं फिक्स्ड इनकम? रिटायरमेंट के लिए बेस्ट प्लान</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/budget-2027-tax-slabs-expectations-9846/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T08:55:14.280Z</news:publication_date>
+      <news:title>Budget 2027: क्या नई टैक्स रिजीम में मिलेगी होम लोन और HRA की बड़ी राहत?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/jnu-vice-chancellor-recruitment-process-0865/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-16T18:08:27.133Z</news:publication_date>
       <news:title>क्या पत्नी या पति को बिना बेचे ट्रांसफर कर सकते हैं म्यूचुअल फंड्स? जानिए 8 बड़े नियम</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/budget-2027-ltcg-tax-changes-cbdt-4058/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T14:50:38.316Z</news:publication_date>
-      <news:title>बजट 2027 में बदलेगा LTCG टैक्स? CBDT चेयरमैन रवि अग्रवाल ने दिए बड़े संकेत</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/indian-stock-market-performance-rally-outlook-4149/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T14:50:23.150Z</news:publication_date>
-      <news:title>क्या भारतीय शेयर बाज़ार में जारी रहेगी तेजी? दलाल स्ट्रीट का शानदार प्रदर्शन</news:title>
     </news:news>
   </url>
 </urlset>
