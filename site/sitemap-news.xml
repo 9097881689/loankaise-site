@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/nvidia-ceo-jensen-huang-ouster-impact-3672/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T02:55:27.502Z</news:publication_date>
+      <news:title>Nvidia के CEO जेनसेन हुआंग को क्यों निकाला गया? शेयर बाजार पर क्या होगा असर?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/ashok-leyland-q2-results-brokerage-rating-0495/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T02:55:17.423Z</news:publication_date>
+      <news:title>Ashok Leyland Share: Q2 में मुनाफा बढ़ने के बाद क्यों बदली ब्रोकरेज की राय?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/new-motor-insurance-rules-december-15-3514/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-15T08:23:53.478Z</news:publication_date>
       <news:title>Fujiyama Power Systems: सोलर सेक्टर के इस शेयर में 40% उछाल की उम्मीद, क्या आपके पोर्टफोलियो में है?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/chhath-puja-2026-sandhya-arghya-timings-7020/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T05:36:13.913Z</news:publication_date>
-      <news:title>छठ महापर्व 2026: संध्या अर्घ्य की शुभ तिथि, समय और आपके अपनों के लिए खास शुभकामना संदेश</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/indian-stock-market-november-rally-analysis-8770/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T05:20:43.254Z</news:publication_date>
-      <news:title>शेयर बाजार में फिर लौटी बहार: नवंबर की तेजी के पीछे क्या है असली वजह?</news:title>
     </news:news>
   </url>
 </urlset>
