@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/stocks-in-focus-tech-mahindra-bse-ntpc-7527/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T01:55:32.372Z</news:publication_date>
+      <news:title>शेयर बाज़ार में आज इन 5 कंपनियों पर रहेगी नज़र: टेक महिंद्रा से लेकर BSE तक</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/nri-seafarers-nps-kyc-relaxation-rules-4078/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T01:55:20.278Z</news:publication_date>
+      <news:title>NRI सीफरर्स के लिए बड़ी राहत: NPS खाता खोलना हुआ आसान, PFRDA ने बदले KYC नियम</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/walmart-target-q3-earnings-global-market-impact-3843/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T14:20:18.930Z</news:publication_date>
       <news:title>प्रदूषण के कारण बढ़ रहे हेल्थ इंश्योरेंस क्लेम: क्या आपका कवर पर्याप्त है?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/diljit-dosanjh-mumbai-concert-security-threat-0204/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T09:31:17.128Z</news:publication_date>
-      <news:title>दिलजीत दोसांझ के मुंबई कॉन्सर्ट पर बम से उड़ाने की धमकी, सुरक्षा बढ़ाने की मांग</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/stock-market-corporate-actions-record-date-november-9882/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T09:00:16.455Z</news:publication_date>
-      <news:title>अगले हफ्ते शेयर बाजार में हलचल: MRF, PFC समेत इन दिग्गज कंपनियों के कॉर्पोरेट एक्शन पर रखें नज़र</news:title>
     </news:news>
   </url>
 </urlset>
