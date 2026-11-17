@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/smart-cash-flow-management-portfolio-strategy-3571/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T08:34:28.021Z</news:publication_date>
+      <news:title>सिर्फ निवेश ही काफी नहीं: पोर्टफोलियो को सुरक्षित रखने के लिए कैश फ्लो मैनेजमेंट क्यों है ज़रूरी?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/reit-taxation-rules-explained-india-1737/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T08:34:17.822Z</news:publication_date>
+      <news:title>REITs से होने वाली कमाई पर कितना टैक्स लगता है? निवेश से पहले समझें पूरा गणित</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/nps-kyc-rules-eased-nri-seafarers-4444/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-16T04:26:49.519Z</news:publication_date>
       <news:title>Tata Motors के शेयरों में 8% की भारी गिरावट: क्या अब निवेशकों को घबराना चाहिए?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/top-six-stocks-to-buy-expert-picks-0653/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T01:30:47.707Z</news:publication_date>
-      <news:title>शानदार कमाई का मौका: शेयर बाजार के दिग्गजों ने बताए ये 6 धमाकेदार स्टॉक्स</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/stocks-to-watch-q2-results-impact-9913/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T00:30:16.312Z</news:publication_date>
-      <news:title>शेयर बाजार में आज इन कंपनियों पर रहेगी नजर: Q2 नतीजों ने बदली कई दिग्गजों की चाल</news:title>
     </news:news>
   </url>
 </urlset>
