@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/brokerage-recommendations-stocks-to-watch-7838/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T02:10:32.574Z</news:publication_date>
+      <news:title>शेयर बाजार में हलचल: ABB इंडिया और अशोक लेलैंड समेत इन शेयरों पर क्यों है ब्रोकरेज की नज़र?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/gold-price-fall-fed-rate-hike-impact-4786/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T02:10:21.398Z</news:publication_date>
+      <news:title>सोने की कीमतों में बड़ी गिरावट: क्या निवेश के लिए सही समय है या अभी और गिरेंगे दाम?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/us-dollar-surge-impact-indian-market-6559/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-15T02:55:28.197Z</news:publication_date>
       <news:title>Nvidia में उथल-पुथल और Anthropic का IPO: क्या AI शेयरों का दौर खत्म हो रहा है?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/jioblackrock-flexi-cap-fund-portfolio-changes-8639/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T00:14:03.265Z</news:publication_date>
-      <news:title>JioBlackRock Flexi Cap Fund का बड़ा दांव: 13 नए शेयरों में एंट्री और 21 से किनारा</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/dividend-stocks-record-dates-this-week-5650/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T00:13:40.233Z</news:publication_date>
-      <news:title>डिविडेंड की बौछार: इस हफ्ते Ashok Leyland और MRF समेत इन 23 शेयरों पर रखें नज़र</news:title>
     </news:news>
   </url>
 </urlset>
