@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/gold-price-crash-market-analysis-india-6266/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T09:20:30.278Z</news:publication_date>
+      <news:title>सोने की कीमतों में बड़ी गिरावट: 48 घंटे में 15,800 रुपये सस्ता हुआ सोना, क्या यह खरीदारी का सही मौका है?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/large-cap-stocks-investment-strategy-whiteoak-capital-4169/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T09:20:20.225Z</news:publication_date>
+      <news:title>शेयर बाजार में क्यों बढ़ रहा है लार्ज-कैप शेयरों का जलवा? व्हाइटओक कैपिटल के आशीष सोमैया ने दिया बड़ा संकेत</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/highest-grossing-james-bond-films-box-office-6813/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-17T01:30:21.499Z</news:publication_date>
       <news:title>शेयर बाजार में आज इन 6 स्टॉक्स पर दांव लगाने की तैयारी, एक्सपर्ट्स ने दिए टारगेट</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/china-stock-market-buyback-stimulus-struggle-9052/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T01:25:34.772Z</news:publication_date>
-      <news:title>चीन के शेयर बाजार में सुस्ती: सरकारी लोन लेकर भी क्यों नहीं बढ़ रही कंपनियों की दिलचस्पी?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/global-market-crash-nvidia-impact-india-2967/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T01:25:21.810Z</news:publication_date>
-      <news:title>ग्लोबल मार्केट में क्यों मची खलबली? Nvidia की कमाई और चिप वॉर का भारतीय निवेशकों पर असर</news:title>
     </news:news>
   </url>
 </urlset>
