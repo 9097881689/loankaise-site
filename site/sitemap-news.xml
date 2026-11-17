@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/hfcl-sterlite-technologies-share-price-correction-5207/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T09:00:29.288Z</news:publication_date>
+      <news:title>HFCL और Sterlite Technologies में भारी गिरावट, क्या मल्टीबैगर शेयरों में मुनाफावसूली का सही समय है?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/car-loan-prepayment-vs-mutual-fund-investment-2804/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T09:00:18.708Z</news:publication_date>
+      <news:title>7.9% ब्याज वाला कार लोन चुकाएं या म्यूचुअल फंड में लगाएं पैसा? 24 साल के युवा की उलझन</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/monthly-income-plan-for-retirees-30-lakh-1479/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-16T18:38:24.666Z</news:publication_date>
       <news:title>HDFC Bank पर ICICI Securities का बड़ा दांव, क्या ₹1,850 का लक्ष्य है मुमकिन?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/budget-2027-equity-capital-gains-tax-review-9151/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T18:08:44.796Z</news:publication_date>
-      <news:title>बजट 2027-28: इक्विटी कैपिटल गेन्स टैक्स में बड़े बदलाव की तैयारी, वित्त मंत्रालय ने शुरू की समीक्षा</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/how-to-transfer-mutual-funds-to-spouse-6579/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T18:08:27.133Z</news:publication_date>
-      <news:title>क्या पत्नी या पति को बिना बेचे ट्रांसफर कर सकते हैं म्यूचुअल फंड्स? जानिए 8 बड़े नियम</news:title>
     </news:news>
   </url>
 </urlset>
