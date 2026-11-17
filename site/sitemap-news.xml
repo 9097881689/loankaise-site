@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/us-chip-export-restrictions-amd-broadcom-impact-9816/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T01:10:56.729Z</news:publication_date>
+      <news:title>अमेरिकी चिप पाबंदियों से टेक शेयरों में हाहाकार: AMD और Broadcom के निवेशकों के लिए बड़ा झटका</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/nvidia-jensen-huang-leadership-debate-9930/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T01:10:42.599Z</news:publication_date>
+      <news:title>Nvidia के सीईओ जेनसेन हुआंग को लेकर सिलिकॉन वैली में क्यों छिड़ी बहस?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/stock-market-sensex-nifty-recovery-update-3191/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T06:40:19.680Z</news:publication_date>
       <news:title>ICICI Bank Credit Card: 25 नवंबर से बदल रहे हैं क्रेडिट कार्ड के नियम, क्या आपकी जेब पर पड़ेगा असर?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/inflation-monetary-policy-cea-nageswaran-impact-6883/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T06:35:32.213Z</news:publication_date>
-      <news:title>महंगाई रोकने में ब्याज दरों का असर होगा कम? CEA नागेश्वरन ने दी बड़ी चेतावनी</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/rbi-new-domestic-money-transfer-rules-4065/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T06:35:21.303Z</news:publication_date>
-      <news:title>RBI ने बदले पैसे भेजने के नियम: अब घर बैठे कैश ट्रांसफर करना होगा आसान</news:title>
     </news:news>
   </url>
 </urlset>
