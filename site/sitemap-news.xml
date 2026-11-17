@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/jio-platforms-23-stocks-anchor-lock-in-expiry-2329/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T09:40:26.402Z</news:publication_date>
+      <news:title>Jio Platforms समेत 23 शेयरों में आ सकता है उतार-चढ़ाव, जानें क्या है एंकर लॉक-इन का गणित</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/nse-vs-bse-share-market-investment-analysis-2934/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T09:40:17.253Z</news:publication_date>
+      <news:title>NSE बनाम BSE: शेयर बाजार की इस जंग में कौन सा स्टॉक है लंबी रेस का घोड़ा?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/how-to-get-four-free-credit-reports-india-1554/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-17T01:50:18.796Z</news:publication_date>
       <news:title>कनाडाई डॉलर 19 महीने के निचले स्तर पर: क्या बैंक ऑफ कनाडा अब ब्याज दरें नहीं बढ़ाएगा?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/us-major-banks-outage-jpmorgan-bofa-2588/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T01:45:27.582Z</news:publication_date>
-      <news:title>अमेरिका में बैंकिंग ठप: JPMorgan, BofA समेत कई बड़े बैंकों के सर्वर डाउन से हड़कंप</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/ai-impact-global-currency-market-rules-0490/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T01:45:15.162Z</news:publication_date>
-      <news:title>क्या AI और 24-घंटे की ट्रेडिंग विदेशी मुद्रा बाज़ार के लिए खतरा हैं? बदलेंगे नियम</news:title>
     </news:news>
   </url>
 </urlset>
