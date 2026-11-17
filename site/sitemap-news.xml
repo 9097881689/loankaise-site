@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/kaynes-technology-share-price-fall-analysis-0279/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T09:30:24.643Z</news:publication_date>
+      <news:title>Kaynes Technology के शेयरों में भारी गिरावट: क्या निवेशकों को अब घबराने की ज़रूरत है?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/credit-card-minimum-due-payment-trap-9233/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T09:30:15.294Z</news:publication_date>
+      <news:title>क्रेडिट कार्ड का सिर्फ &apos;Minimum Due&apos; चुकाना है बड़ी भूल, कर्ज के जाल में फंसने से कैसे बचें?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/major-brand-websites-malware-attack-security-alert-0524/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-17T01:40:17.432Z</news:publication_date>
       <news:title>SK Hynix के शेयरों में क्यों दिख रही है हलचल? AI चिप मार्केट का नया पावरहाउस</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/gold-price-outlook-goldman-sachs-forecast-2163/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T01:35:26.430Z</news:publication_date>
-      <news:title>गोल्ड में निवेश का क्या है भविष्य? गोल्डमैन सैक्स की नई रिपोर्ट से निवेशकों में हलचल</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/berkshire-hathaway-delta-airlines-bank-of-america-strategy-0340/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T01:35:17.035Z</news:publication_date>
-      <news:title>वॉरेन बफेट की कंपनी का बड़ा दांव: डेल्टा एयरलाइंस में हिस्सेदारी बढ़ाई, बैंक ऑफ अमेरिका से किनारा</news:title>
     </news:news>
   </url>
 </urlset>
