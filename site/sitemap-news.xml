@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/stock-market-rally-top-buys-reliance-hyundai-1131/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T01:45:45.237Z</news:publication_date>
+      <news:title>शेयर बाजार में रिकॉर्ड तेजी: Reliance, UltraTech और Hyundai में निवेश का मौका</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/nvidia-earnings-global-market-impact-india-9793/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T01:45:35.983Z</news:publication_date>
+      <news:title>Nvidia के नतीजों से ग्लोबल मार्केट में लौटी रौनक: क्या भारतीय शेयर बाज़ार में दिखेगा असर?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/ficci-demands-ltcg-tax-exemption-budget-2025-7364/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-17T02:10:21.398Z</news:publication_date>
       <news:title>सोने की कीमतों में बड़ी गिरावट: क्या निवेश के लिए सही समय है या अभी और गिरेंगे दाम?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/us-dollar-surge-impact-indian-market-6559/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T02:05:31.945Z</news:publication_date>
-      <news:title>अमेरिकी डॉलर में 19 महीने की सबसे बड़ी उछाल, क्या भारतीय बाज़ार पर पड़ेगा असर?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/us-banking-system-outage-explained-2679/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T02:05:20.044Z</news:publication_date>
-      <news:title>US बैंकिंग सिस्टम में बड़ी तकनीकी खराबी: क्या आपके पैसे सुरक्षित हैं? जानें पूरी सच्चाई</news:title>
     </news:news>
   </url>
 </urlset>
