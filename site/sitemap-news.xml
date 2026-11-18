@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/indoco-remedies-share-price-analysis-rally-9567/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T06:50:43.725Z</news:publication_date>
+      <news:title>Indoco Remedies Share Price: फार्मा स्टॉक में 13% की तूफानी तेजी, क्या ₹288 तक जाएगा भाव?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/gold-silver-price-crash-market-update-2638/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T06:50:27.967Z</news:publication_date>
+      <news:title>सोने-चांदी में बड़ी गिरावट: क्या 1 साल के निचले स्तर पर खरीदना सही दांव है?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/netweb-technologies-share-price-analysis-ai-stock-0185/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-17T02:20:16.147Z</news:publication_date>
       <news:title>Nvidia संकट और Anthropic IPO: क्या अमेरिकी टेक बाज़ार में आने वाला है बड़ा भूचाल?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/nvidia-earnings-asian-market-tech-selloff-5399/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T02:15:30.994Z</news:publication_date>
-      <news:title>Nvidia के नतीजों से पहले एशियाई बाजारों में बड़ी गिरावट, क्या टेक शेयरों में मची है खलबली?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/gold-silver-price-trend-india-latest-1615/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T02:15:18.627Z</news:publication_date>
-      <news:title>Gold-Silver Price Update: क्या सोने-चांदी में गिरावट का दौर थमेगा? जानें आज के लेटेस्ट भाव</news:title>
     </news:news>
   </url>
 </urlset>
