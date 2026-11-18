@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/stock-market-sensex-nifty-update-trends-2195/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T07:05:57.344Z</news:publication_date>
+      <news:title>शेयर बाजार में सुस्ती: सेंसेक्स-निफ्टी में गिरावट, क्या ग्लोबल मार्केट का दबाव है वजह?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/jensen-huang-nvidia-share-transfer-explained-2784/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T07:05:27.382Z</news:publication_date>
+      <news:title>Nvidia के CEO जेनसेन हुआंग ने क्यों ट्रांसफर किए 10.7 अरब डॉलर के शेयर?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/gold-price-crash-november-2026-market-update-3467/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-17T06:24:38.900Z</news:publication_date>
       <news:title>सरकारी बॉन्ड मार्केट में सुस्ती के क्या हैं मायने, आगे कैसी रहेगी चाल?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/us-dollar-strength-trump-tariffs-impact-9938/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T03:00:23.809Z</news:publication_date>
-      <news:title>अमेरिकी डॉलर की दमदार वापसी: क्या ट्रंप के टैरिफ का असर खत्म हो गया?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/us-banking-system-outage-technical-glitch-9958/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T03:00:14.293Z</news:publication_date>
-      <news:title>अमेरिकी बैंकिंग सिस्टम में तकनीकी खराबी से हड़कंप: क्या आपका पैसा सुरक्षित है?</news:title>
     </news:news>
   </url>
 </urlset>
