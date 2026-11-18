@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/gold-price-crash-november-2026-market-update-3467/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T07:00:27.478Z</news:publication_date>
+      <news:title>सोने की कीमतों में बड़ी गिरावट: क्या अब खरीदारी का सही मौका है या और गिरेगा भाव?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/indian-bond-market-crude-oil-impact-3354/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T07:00:18.776Z</news:publication_date>
+      <news:title>भारतीय बॉन्ड मार्केट में लौटी रौनक: कच्चे तेल की कीमतों में गिरावट का क्या है असर?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/nifty-target-28400-market-outlook-strategy-1656/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-17T03:00:14.293Z</news:publication_date>
       <news:title>अमेरिकी बैंकिंग सिस्टम में तकनीकी खराबी से हड़कंप: क्या आपका पैसा सुरक्षित है?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/nvidia-ceo-jensen-huang-ouster-impact-3672/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T02:55:27.502Z</news:publication_date>
-      <news:title>Nvidia के CEO जेनसेन हुआंग को क्यों निकाला गया? शेयर बाजार पर क्या होगा असर?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/ashok-leyland-q2-results-brokerage-rating-0495/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T02:55:17.423Z</news:publication_date>
-      <news:title>Ashok Leyland Share: Q2 में मुनाफा बढ़ने के बाद क्यों बदली ब्रोकरेज की राय?</news:title>
     </news:news>
   </url>
 </urlset>
