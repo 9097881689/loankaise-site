@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/anthropic-ipo-listing-impact-ai-stocks-8860/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T16:50:54.794Z</news:publication_date>
+      <news:title>Anthropic IPO: एंथ्रोपिक की शानदार लिस्टिंग से AI सेक्टर में हलचल, अल्फाबेट और चिप शेयरों में बहार</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/8th-pay-commission-pension-hike-demand-0314/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T16:35:17.964Z</news:publication_date>
+      <news:title>8th Pay Commission: क्या सरकारी पेंशनभोगियों को मिलेगा ₹45,000 का न्यूनतम लाभ?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/indian-government-bond-yield-market-update-0424/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-17T09:15:16.089Z</news:publication_date>
       <news:title>Mahanadi Coalfields IPO: निवेश से पहले जानें GMP और लिस्टिंग गेन का पूरा गणित</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/share-market-today-sensex-nifty-update-3487/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T09:10:28.163Z</news:publication_date>
-      <news:title>शेयर बाज़ार में आज की तेज़ चाल: सेंसेक्स-निफ्टी की रिकवरी और एशियाई पेंट्स का दम</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/kaynes-technology-q2-results-stock-crash-1168/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T09:10:16.284Z</news:publication_date>
-      <news:title>Kaynes Technology के शेयरों में बड़ी गिरावट: क्या 62% मुनाफा घटने से बिगड़ा खेल?</news:title>
     </news:news>
   </url>
 </urlset>
