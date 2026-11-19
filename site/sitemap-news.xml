@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/indian-government-bond-yield-market-update-0424/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T13:00:47.140Z</news:publication_date>
+      <news:title>भारतीय सरकारी बॉन्ड में सुस्ती: RBI और फेड के फैसलों पर टिकी निवेशकों की नज़र</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/epfo-swp-withdrawal-rules-change-explained-2517/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T13:00:30.672Z</news:publication_date>
+      <news:title>EPFO का बड़ा तोहफा: रिटायरमेंट के बाद अब हर महीने मिलेगी पेंशन जैसी रकम, PF निकासी के नियम भी बदले</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/gold-price-drop-fed-interest-rates-5393/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-17T09:10:16.284Z</news:publication_date>
       <news:title>Kaynes Technology के शेयरों में बड़ी गिरावट: क्या 62% मुनाफा घटने से बिगड़ा खेल?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/bank-guarantor-pension-deduction-court-ruling-4821/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T09:05:29.383Z</news:publication_date>
-      <news:title>लोन गारंटर हैं तो सावधान: क्या बैंक आपकी पेंशन से काट सकता है पैसा? जानें हाई कोर्ट का बड़ा फैसला</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/india-retail-credit-growth-gold-business-loan-3719/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T09:05:19.098Z</news:publication_date>
-      <news:title>भारत में रिटेल लोन का क्रेज बढ़ा: ₹185 लाख करोड़ के पार पहुंचा रिटेल क्रेडिट का आंकड़ा</news:title>
     </news:news>
   </url>
 </urlset>
