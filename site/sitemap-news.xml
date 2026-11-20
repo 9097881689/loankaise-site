@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/stocks-crossing-above-200-dma-analysis-6211/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T02:15:30.745Z</news:publication_date>
+      <news:title>शेयर बाजार में बड़ी हलचल: इन 5 स्टॉक्स ने 200-DMA को पार कर दिखाई मजबूती</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/anthropic-ipo-nasdaq-debut-ai-market-valuation-4270/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T02:15:20.993Z</news:publication_date>
+      <news:title>Anthropic IPO: AI की दिग्गज कंपनी की शानदार एंट्री, मार्केट कैप $2 ट्रिलियन के करीब</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/anthropic-ipo-listing-impact-ai-stocks-8860/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-17T09:20:20.225Z</news:publication_date>
       <news:title>शेयर बाजार में क्यों बढ़ रहा है लार्ज-कैप शेयरों का जलवा? व्हाइटओक कैपिटल के आशीष सोमैया ने दिया बड़ा संकेत</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/highest-grossing-james-bond-films-box-office-6813/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T09:15:31.592Z</news:publication_date>
-      <news:title>जेम्स बॉन्ड फिल्मों की कमाई का असली गणित: 007 की सबसे कामयाब फिल्में कौन सी हैं?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/mahanadi-coalfields-ipo-gmp-listing-gain-analysis-0492/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T09:15:16.089Z</news:publication_date>
-      <news:title>Mahanadi Coalfields IPO: निवेश से पहले जानें GMP और लिस्टिंग गेन का पूरा गणित</news:title>
     </news:news>
   </url>
 </urlset>
