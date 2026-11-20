@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/maharashtra-traffic-police-new-echallan-system-2897/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T12:41:00.713Z</news:publication_date>
+      <news:title>महाराष्ट्र में ट्रैफिक नियमों का उल्लंघन अब पड़ेगा भारी, फरवरी 2027 तक बदल जाएंगे ई-चालान के नियम</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/rbi-imposes-penalty-fusion-finance-kyc-norms-9507/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T12:25:19.730Z</news:publication_date>
+      <news:title>Fusion Finance पर RBI का बड़ा एक्शन, KYC नियमों के उल्लंघन पर लगा जुर्माना</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/fii-investment-strategy-midcap-smallcap-outlook-8443/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-17T09:40:17.253Z</news:publication_date>
       <news:title>NSE बनाम BSE: शेयर बाजार की इस जंग में कौन सा स्टॉक है लंबी रेस का घोड़ा?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/how-to-get-four-free-credit-reports-india-1554/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T09:35:25.480Z</news:publication_date>
-      <news:title>बिना पैसे खर्च किए साल में 4 बार कैसे चेक करें अपना क्रेडिट स्कोर? जानें पूरा प्रोसेस</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/hdfc-mutual-fund-sif-hybrid-long-short-fund-1404/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T09:35:16.344Z</news:publication_date>
-      <news:title>HDFC Mutual Fund का SIF सेगमेंट में बड़ा दांव: जानिए क्या है Hybrid Long-Short Fund</news:title>
     </news:news>
   </url>
 </urlset>
