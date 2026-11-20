@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/fii-investment-strategy-midcap-smallcap-outlook-8443/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T09:12:22.881Z</news:publication_date>
+      <news:title>शेयर बाजार में FIIs का नया दांव: क्या अब मिड और स्मॉलकैप स्टॉक्स की बारी है?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/bank-nifty-hits-record-high-banking-stocks-rally-5278/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T09:12:11.786Z</news:publication_date>
+      <news:title>Bank Nifty ने बनाया नया रिकॉर्ड, 2.10% की शानदार तेजी में इंडसइंड और एक्सिस बैंक चमके</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/rbi-foreign-exchange-export-import-regulations-2026-1252/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-17T09:35:16.344Z</news:publication_date>
       <news:title>HDFC Mutual Fund का SIF सेगमेंट में बड़ा दांव: जानिए क्या है Hybrid Long-Short Fund</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/kaynes-technology-share-price-fall-analysis-0279/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T09:30:24.643Z</news:publication_date>
-      <news:title>Kaynes Technology के शेयरों में भारी गिरावट: क्या निवेशकों को अब घबराने की ज़रूरत है?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/credit-card-minimum-due-payment-trap-9233/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T09:30:15.294Z</news:publication_date>
-      <news:title>क्रेडिट कार्ड का सिर्फ &apos;Minimum Due&apos; चुकाना है बड़ी भूल, कर्ज के जाल में फंसने से कैसे बचें?</news:title>
     </news:news>
   </url>
 </urlset>
