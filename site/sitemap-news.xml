@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/builder-flat-cancellation-consumer-court-case-0268/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T07:15:27.018Z</news:publication_date>
+      <news:title>बिल्डर ने फ्लैट कैंसिल किया तो नोएडा के कपल ने खटखटाया कंज्यूमर कोर्ट, जानें कैसे मिली जीत</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/indusind-bank-terminates-ceo-sumant-kathpalia-0489/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T07:15:15.653Z</news:publication_date>
+      <news:title>IndusInd Bank का बड़ा एक्शन: पूर्व CEO सुमंत कठपालिया की सेवाएं समाप्त, बोनस की होगी वसूली</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/home-loan-on-fathers-land-rules-4088/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-18T06:50:43.725Z</news:publication_date>
       <news:title>Indoco Remedies Share Price: फार्मा स्टॉक में 13% की तूफानी तेजी, क्या ₹288 तक जाएगा भाव?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/gold-silver-price-crash-market-update-2638/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T06:50:27.967Z</news:publication_date>
-      <news:title>सोने-चांदी में बड़ी गिरावट: क्या 1 साल के निचले स्तर पर खरीदना सही दांव है?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/netweb-technologies-share-price-analysis-ai-stock-0185/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T05:57:45.279Z</news:publication_date>
-      <news:title>Netweb Technologies: AI की दौड़ में क्या फिर से दौड़ेगा यह शेयर? जानें ब्रोकरेज की राय</news:title>
     </news:news>
   </url>
 </urlset>
