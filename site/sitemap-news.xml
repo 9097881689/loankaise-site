@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/us-dollar-weakens-fed-market-impact-0129/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T07:40:33.863Z</news:publication_date>
+      <news:title>US Dollar में सुस्ती का क्या है संकेत? फेडरल रिजर्व के रुख से बदलेगा बाजार</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/stock-market-rally-13-stocks-gain-streak-6754/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T07:40:20.960Z</news:publication_date>
+      <news:title>शेयर बाजार में तूफानी तेजी: ये 13 स्टॉक्स लगातार 5 दिन से दे रहे बंपर रिटर्न</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/us-treasury-yield-ai-market-impact-3069/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-18T07:15:25.166Z</news:publication_date>
       <news:title>शेयर बाजार में माइक्रो कैप का धमाका: ये 16 स्टॉक्स बने मल्टीबैगर, पैसा हुआ कई गुना</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/gold-price-fall-impact-gold-loan-companies-0332/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T07:15:15.789Z</news:publication_date>
-      <news:title>सोने की कीमतों में गिरावट से क्या गोल्ड लोन कंपनियों पर बढ़ेगा संकट?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/gold-price-crash-investment-opportunity-india-9414/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T07:10:24.028Z</news:publication_date>
-      <news:title>सोने की कीमतों में बड़ी गिरावट: क्या निवेश के लिए यह सही समय है या अभी और इंतज़ार करें?</news:title>
     </news:news>
   </url>
 </urlset>
