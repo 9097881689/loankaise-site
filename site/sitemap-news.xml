@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/pensioners-life-certificate-submission-guide-india-7496/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T06:19:11.800Z</news:publication_date>
+      <news:title>पेंशनर्स ध्यान दें: लाइफ सर्टिफिकेट जमा करने की डेडलाइन और डिजिटल प्रक्रिया</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/nvidia-anthropic-stock-market-crash-analysis-2542/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T06:18:58.241Z</news:publication_date>
+      <news:title>Nvidia और Anthropic में गिरावट से सहमा बाज़ार: क्या AI स्टॉक्स का बुलबुला फूट रहा है?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/maharashtra-fda-food-safety-crackdown-8103/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-18T01:45:45.237Z</news:publication_date>
       <news:title>शेयर बाजार में रिकॉर्ड तेजी: Reliance, UltraTech और Hyundai में निवेश का मौका</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/nvidia-earnings-global-market-impact-india-9793/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T01:45:35.983Z</news:publication_date>
-      <news:title>Nvidia के नतीजों से ग्लोबल मार्केट में लौटी रौनक: क्या भारतीय शेयर बाज़ार में दिखेगा असर?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/ficci-demands-ltcg-tax-exemption-budget-2025-7364/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T17:37:11.528Z</news:publication_date>
-      <news:title>बजट 2025 से पहले FICCI की बड़ी मांग: क्या फिर वापस मिलेगी लिस्टेड शेयरों पर LTCG छूट?</news:title>
     </news:news>
   </url>
 </urlset>
