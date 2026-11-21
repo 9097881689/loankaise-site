@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/gold-silver-price-crash-dsp-mutual-fund-strategy-3159/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T12:08:17.404Z</news:publication_date>
+      <news:title>सोने-चांदी में भारी गिरावट: क्या अब खरीदारी का सही समय है? DSP Mutual Fund की नई स्ट्रैटेजी</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/nifty-bank-record-rally-psu-vs-private-banks-0928/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T11:52:57.548Z</news:publication_date>
+      <news:title>Nifty Bank का रिकॉर्ड तोड़ प्रदर्शन: PSU और प्राइवेट बैंकों में से कौन है असली विनर?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/us-dollar-weakens-fed-market-impact-0129/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-18T07:20:30.234Z</news:publication_date>
       <news:title>SBI Clerk Prelims Result 2026: जल्द जारी होगा जूनियर एसोसिएट का परिणाम, ऐसे चेक करें अपना स्कोरकार्ड</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/epf-scheme-2026-contribution-rules-explained-9660/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T07:20:16.308Z</news:publication_date>
-      <news:title>EPF स्कीम 2026: क्या आपकी सैलरी से कटने वाला PF कम हो सकता है? जानें सरकारी नियम</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/microcap-stocks-multibagger-returns-2026-1184/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T07:15:25.166Z</news:publication_date>
-      <news:title>शेयर बाजार में माइक्रो कैप का धमाका: ये 16 स्टॉक्स बने मल्टीबैगर, पैसा हुआ कई गुना</news:title>
     </news:news>
   </url>
 </urlset>
