@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/us-treasury-yield-ai-market-impact-3069/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T07:35:37.407Z</news:publication_date>
+      <news:title>AI शेयरों में घबराहट: अमेरिकी बॉन्ड यील्ड में गिरावट का भारतीय बाज़ार पर क्या असर?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/gold-price-crash-recovery-analysis-2026-7585/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T07:35:22.797Z</news:publication_date>
+      <news:title>सोने की कीमतों में 32% की भारी गिरावट: क्या फिर से पुराने रिकॉर्ड स्तर तक पहुंचने में लगेंगे कई साल?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/gold-price-correction-post-diwali-impact-5487/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-18T07:10:24.028Z</news:publication_date>
       <news:title>सोने की कीमतों में बड़ी गिरावट: क्या निवेश के लिए यह सही समय है या अभी और इंतज़ार करें?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/ashok-leyland-stock-analysis-investor-concerns-8653/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T07:10:15.206Z</news:publication_date>
-      <news:title>Ashok Leyland: शानदार नतीजों के बाद भी क्यों गिर रहे शेयर? निवेशकों के लिए 3 बड़े खतरे</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/stock-market-sensex-nifty-update-trends-2195/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T07:05:57.344Z</news:publication_date>
-      <news:title>शेयर बाजार में सुस्ती: सेंसेक्स-निफ्टी में गिरावट, क्या ग्लोबल मार्केट का दबाव है वजह?</news:title>
     </news:news>
   </url>
 </urlset>
