@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/gold-price-correction-post-diwali-impact-5487/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T07:30:29.415Z</news:publication_date>
+      <news:title>दिवाली पर सोना खरीदने वालों को बड़ा झटका! क्या 15 दिन में ही डूब गई आपकी पूंजी?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/bitcoin-price-crash-below-60000-analysis-6770/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T07:30:21.184Z</news:publication_date>
+      <news:title>क्रिप्टो बाजार में हाहाकार: बिटकॉइन 60,000 डॉलर के नीचे फिसला, क्या निवेश डूब गया?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/top-performing-stocks-nifty-500-weekly-gainers-9470/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-18T07:05:57.344Z</news:publication_date>
       <news:title>शेयर बाजार में सुस्ती: सेंसेक्स-निफ्टी में गिरावट, क्या ग्लोबल मार्केट का दबाव है वजह?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/jensen-huang-nvidia-share-transfer-explained-2784/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T07:05:27.382Z</news:publication_date>
-      <news:title>Nvidia के CEO जेनसेन हुआंग ने क्यों ट्रांसफर किए 10.7 अरब डॉलर के शेयर?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/gold-price-crash-november-2026-market-update-3467/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T07:00:27.478Z</news:publication_date>
-      <news:title>सोने की कीमतों में बड़ी गिरावट: क्या अब खरीदारी का सही मौका है या और गिरेगा भाव?</news:title>
     </news:news>
   </url>
 </urlset>
