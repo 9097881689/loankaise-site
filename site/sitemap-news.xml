@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/maharashtra-fda-food-safety-crackdown-8103/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T06:09:42.862Z</news:publication_date>
+      <news:title>महाराष्ट्र FDA का बड़ा एक्शन: 152 करोड़ का मिलावटी खाना जब्त, 1600+ लाइसेंस रद्द</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/gold-price-crash-india-market-update-3504/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T06:09:31.622Z</news:publication_date>
+      <news:title>सोने की कीमतों में बड़ी गिरावट: 12,540 रुपये सस्ता हुआ सोना, जानें क्या है वजह</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/sukanya-samriddhi-yojana-investment-calculator-returns-3080/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-17T17:37:11.528Z</news:publication_date>
       <news:title>बजट 2025 से पहले FICCI की बड़ी मांग: क्या फिर वापस मिलेगी लिस्टेड शेयरों पर LTCG छूट?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/real-estate-vs-dividend-stocks-investment-strategy-3151/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T17:29:59.802Z</news:publication_date>
-      <news:title>30 की उम्र में रिटायरमेंट: 14 फ्लैट खरीदकर कैसे बनाई करोड़ों की संपत्ति और अब क्यों बदल रहे हैं रणनीति?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/fairfax-iifl-finance-stake-sale-idbi-bank-deal-5931/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T13:45:30.022Z</news:publication_date>
-      <news:title>Fairfax का बड़ा दांव: IDBI बैंक खरीदने के लिए IIFL Finance में बेचेगी हिस्सेदारी</news:title>
     </news:news>
   </url>
 </urlset>
