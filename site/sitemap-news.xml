@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/bitcoin-price-crash-ai-stocks-impact-6712/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T02:36:30.458Z</news:publication_date>
+      <news:title>Bitcoin में भारी गिरावट: क्या AI स्टॉक्स का संकट क्रिप्टो बाजार को ले डूबा?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/hospital-stocks-rally-apollo-max-fortis-5829/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T02:36:19.774Z</news:publication_date>
+      <news:title>Hospital Stocks Rally: अपोलो और मैक्स समेत इन शेयरों में आई जोरदार तेजी, क्या अभी खरीदना सही है?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/top-dividend-yielding-chemical-stocks-india-6421/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-19T16:50:54.794Z</news:publication_date>
       <news:title>Anthropic IPO: एंथ्रोपिक की शानदार लिस्टिंग से AI सेक्टर में हलचल, अल्फाबेट और चिप शेयरों में बहार</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/8th-pay-commission-pension-hike-demand-0314/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T16:35:17.964Z</news:publication_date>
-      <news:title>8th Pay Commission: क्या सरकारी पेंशनभोगियों को मिलेगा ₹45,000 का न्यूनतम लाभ?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/indian-government-bond-yield-market-update-0424/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T13:00:47.140Z</news:publication_date>
-      <news:title>भारतीय सरकारी बॉन्ड में सुस्ती: RBI और फेड के फैसलों पर टिकी निवेशकों की नज़र</news:title>
     </news:news>
   </url>
 </urlset>
