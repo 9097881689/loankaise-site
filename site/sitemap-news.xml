@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/motilal-oswal-new-etf-reopening-details-6100/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T08:40:29.880Z</news:publication_date>
+      <news:title>Motilal Oswal के 5 नए ETF में निवेश का मौका: 26 नवंबर से फिर शुरू होगी खरीद-बिक्री</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/sebi-new-margin-rules-agri-commodities-5691/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T08:40:21.400Z</news:publication_date>
+      <news:title>सेबी का बड़ा फैसला: कृषि कमोडिटी ट्रेडिंग में मार्जिन घटा, ट्रेडर्स को होगा ये फायदा</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/itat-ruling-tax-dispute-business-income-2847/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-20T13:10:41.184Z</news:publication_date>
       <news:title>SoftBank के शेयरों में 14.5% की भारी गिरावट: क्या AI स्टॉक्स का बुलबुला अब फूट रहा है?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/gold-price-crash-impact-analysis-6082/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T13:04:22.527Z</news:publication_date>
-      <news:title>सोने की कीमतों में भारी गिरावट: क्या अब खरीदारी का सही मौका है?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/maharashtra-traffic-police-new-echallan-system-2897/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T12:41:00.713Z</news:publication_date>
-      <news:title>महाराष्ट्र में ट्रैफिक नियमों का उल्लंघन अब पड़ेगा भारी, फरवरी 2027 तक बदल जाएंगे ई-चालान के नियम</news:title>
     </news:news>
   </url>
 </urlset>
