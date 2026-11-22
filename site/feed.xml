@@ -7,7 +7,23 @@
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <description>ताज़ा फाइनेंस न्यूज़, लोन गाइड्स, RBI अपडेट्स और बैंकिंग टूल्स हिंदी में।</description>
     <language>hi-in</language>
-    <lastBuildDate>Sun, 22 Nov 2026 03:25:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 03:30:28 GMT</lastBuildDate>
+    <item>
+      <title>Freedom and Despair: वेस्ट बैंक की हकीकत बयां करती एक बेबाक किताब</title>
+      <link>https://loankaise.in/news/book-review-freedom-and-despair-west-bank-2640/</link>
+      <guid isPermaLink="true">https://loankaise.in/news/book-review-freedom-and-despair-west-bank-2640/</guid>
+      <pubDate>Sun, 22 Nov 2026 03:30:27 GMT</pubDate>
+      <category>बिज़नेस &amp; इकोनॉमी</category>
+      <description>क्या आप जानते हैं कि वेस्ट बैंक की गलियों में आम ज़िंदगी कैसी है? इस किताब के जरिए जानिए संघर्ष और उम्मीद की अनकही दास्तां।</description>
+    </item>
+    <item>
+      <title>जेनसेन हुआंग का अगला कदम: क्या एनवीडिया के बाद इंटेल या स्पेसएक्स संभालेंगे दुनिया के सबसे बड़े टेक सीईओ?</title>
+      <link>https://loankaise.in/news/jensen-huang-next-move-nvidia-future-1626/</link>
+      <guid isPermaLink="true">https://loankaise.in/news/jensen-huang-next-move-nvidia-future-1626/</guid>
+      <pubDate>Sun, 22 Nov 2026 03:30:18 GMT</pubDate>
+      <category>बिज़नेस &amp; इकोनॉमी</category>
+      <description>एनवीडिया की अभूतपूर्व सफलता के बाद बाजार में चर्चा है कि क्या जेनसेन हुआंग किसी नई बड़ी चुनौती की ओर बढ़ रहे हैं।</description>
+    </item>
     <item>
       <title>सेमीकंडक्टर शेयरों में 2001 के बाद की सबसे बड़ी गिरावट, क्या डूब रही है टेक कंपनियों की नैया?</title>
       <link>https://loankaise.in/news/semiconductor-stocks-crash-nasdaq-market-update-9759/</link>
@@ -231,22 +247,6 @@
       <pubDate>Sat, 21 Nov 2026 07:30:21 GMT</pubDate>
       <category>शेयर बाज़ार &amp; गोल्ड</category>
       <description>बिटकॉइन की कीमतों में भारी गिरावट से निवेशकों में दहशत, जानिए क्या हैं बाजार के इस क्रैश के पीछे के असली कारण।</description>
-    </item>
-    <item>
-      <title>शेयर बाजार में तूफानी तेजी: इन 8 स्टॉक्स ने निवेशकों को एक हफ्ते में किया मालामाल</title>
-      <link>https://loankaise.in/news/top-performing-stocks-nifty-500-weekly-gainers-9470/</link>
-      <guid isPermaLink="true">https://loankaise.in/news/top-performing-stocks-nifty-500-weekly-gainers-9470/</guid>
-      <pubDate>Sat, 21 Nov 2026 07:25:23 GMT</pubDate>
-      <category>शेयर बाज़ार &amp; गोल्ड</category>
-      <description>निफ्टी 500 के टॉप परफॉर्मर्स ने बाजार की सुस्ती को पछाड़कर दिया शानदार रिटर्न, जानें किन शेयरों ने दिखाया दम।</description>
-    </item>
-    <item>
-      <title>2027 में निवेश की नई चाल: AI बनेगा पोर्टफोलियो का राजा, इन सेक्टरों पर रखें नज़र</title>
-      <link>https://loankaise.in/news/investment-strategy-ai-2027-barclays-report-9557/</link>
-      <guid isPermaLink="true">https://loankaise.in/news/investment-strategy-ai-2027-barclays-report-9557/</guid>
-      <pubDate>Sat, 21 Nov 2026 07:25:14 GMT</pubDate>
-      <category>शेयर बाज़ार &amp; गोल्ड</category>
-      <description>बार्कलेज की नई रिपोर्ट से मिले संकेत, जानें आने वाले सालों में कैसे बदल सकती है आपकी निवेश रणनीति और किन चुनौतियों से रहना होगा सावधान।</description>
     </item>
   </channel>
 </rss>

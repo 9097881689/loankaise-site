@@ -1,5 +1,41 @@
 [
   {
+    "id": "lk-1795318227255-yd35",
+    "slug": "book-review-freedom-and-despair-west-bank-2640",
+    "url": "/news/book-review-freedom-and-despair-west-bank-2640/",
+    "title": "Freedom and Despair: वेस्ट बैंक की हकीकत बयां करती एक बेबाक किताब",
+    "subtitle": "क्या आप जानते हैं कि वेस्ट बैंक की गलियों में आम ज़िंदगी कैसी है? इस किताब के जरिए जानिए संघर्ष और उम्मीद की अनकही दास्तां।",
+    "category": "business",
+    "categoryLabel": "बिज़नेस & इकोनॉमी",
+    "featuredImage": "/uploads/news/book-review-freedom-and-despair-west-bank-2640.webp",
+    "authorName": "नेहा गुप्ता",
+    "publishedAt": "2026-11-22T03:30:27.253Z",
+    "indexedInGoogle": true,
+    "sourcesCount": 1,
+    "sourceNames": [
+      "Financial Express Finance"
+    ],
+    "isLegacyGuide": false
+  },
+  {
+    "id": "lk-1795318218430-evjm",
+    "slug": "jensen-huang-next-move-nvidia-future-1626",
+    "url": "/news/jensen-huang-next-move-nvidia-future-1626/",
+    "title": "जेनसेन हुआंग का अगला कदम: क्या एनवीडिया के बाद इंटेल या स्पेसएक्स संभालेंगे दुनिया के सबसे बड़े टेक सीईओ?",
+    "subtitle": "एनवीडिया की अभूतपूर्व सफलता के बाद बाजार में चर्चा है कि क्या जेनसेन हुआंग किसी नई बड़ी चुनौती की ओर बढ़ रहे हैं।",
+    "category": "business",
+    "categoryLabel": "बिज़नेस & इकोनॉमी",
+    "featuredImage": "/uploads/news/jensen-huang-next-move-nvidia-future-1626.webp",
+    "authorName": "नेहा गुप्ता",
+    "publishedAt": "2026-11-22T03:30:18.429Z",
+    "indexedInGoogle": true,
+    "sourcesCount": 1,
+    "sourceNames": [
+      "Yahoo Finance"
+    ],
+    "isLegacyGuide": false
+  },
+  {
     "id": "lk-1795317924200-f71a",
     "slug": "semiconductor-stocks-crash-nasdaq-market-update-9759",
     "url": "/news/semiconductor-stocks-crash-nasdaq-market-update-9759/",
