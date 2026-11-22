@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/rbi-governor-small-business-loan-impact-5053/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T02:00:29.299Z</news:publication_date>
+      <news:title>छोटे व्यवसायों को कर्ज देने से अर्थव्यवस्था में 100 गुना ज्यादा उछाल: RBI गवर्नर</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/nvidia-ceo-jensen-huang-resignation-impact-investors-1272/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T01:45:15.354Z</news:publication_date>
+      <news:title>Nvidia के CEO जेनसेन हुआंग का इस्तीफा: क्या ये &apos;ब्लैक स्वान&apos; इवेंट है या आपकी निवेश रणनीति की बड़ी चूक?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/gold-price-crash-india-market-outlook-5532/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-18T11:53:47.296Z</news:publication_date>
       <news:title>गर्भावस्था नुकसान और मैटरनिटी क्लेम रिजेक्शन के पीछे की असली वजह</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/nifty-bank-index-record-high-rally-analysis-6132/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T11:53:29.798Z</news:publication_date>
-      <news:title>Nifty Bank का ऐतिहासिक सफर: 62,000 के पार पहुंचा इंडेक्स, क्या अभी निवेश करना सही है?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/nse-vs-mcx-commodity-market-strategy-7973/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T08:55:31.826Z</news:publication_date>
-      <news:title>NSE की नई रणनीति: कमोडिटी मार्केट में MCX की बादशाहत को मिली बड़ी चुनौती</news:title>
     </news:news>
   </url>
 </urlset>
