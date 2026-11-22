@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/stock-market-corporate-actions-record-dates-6184/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T01:20:00.495Z</news:publication_date>
+      <news:title>शेयर बाजार में इस हफ्ते एक्शन की भरमार: Zee, JTL और अन्य कंपनियों के लिए अहम तारीखें</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/top-stocks-under-100-buy-recommendation-2550/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T01:19:48.449Z</news:publication_date>
+      <news:title>शेयर बाज़ार में तेज़ी: ₹100 से कम के इन 3 स्टॉक्स में दिख रही है कमाई की बड़ी संभावना</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/cbic-gst-law-amendment-itc-protection-5237/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-18T07:45:26.945Z</news:publication_date>
       <news:title>SIP के जरिए क्या आप अनजाने में FII को एग्जिट का रास्ता दे रहे हैं? जानें कड़वी सच्चाई</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/budget-2027-stt-tax-derivatives-trading-changes-1864/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T07:45:17.397Z</news:publication_date>
-      <news:title>बजट 2027: शेयर बाज़ार में ट्रेडिंग नियमों में बड़े बदलाव की तैयारी, घटेगा STT?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/higher-eps-pension-pmo-update-epfo-2290/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T07:41:09.578Z</news:publication_date>
-      <news:title>Higher EPS Pension: क्या PMO के दखल से सुलझेगा हायर पेंशन का पेंच? जानें ताजा अपडेट</news:title>
     </news:news>
   </url>
 </urlset>
