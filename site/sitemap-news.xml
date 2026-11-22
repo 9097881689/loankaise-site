@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/top-dividend-yielding-chemical-stocks-india-6421/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T02:32:50.422Z</news:publication_date>
+      <news:title>केमिकल सेक्टर में डिविडेंड की बौछार: ये 3 शेयर दे रहे हैं 10% तक का शानदार रिटर्न</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/dividend-stocks-to-watch-this-week-9855/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T02:32:41.698Z</news:publication_date>
+      <news:title>डिविडेंड से होगी एक्स्ट्रा कमाई: इस हफ्ते Fusion CX समेत इन 3 शेयरों पर रखें नज़र</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/corporate-fd-interest-rates-november-2026-1571/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-19T13:00:47.140Z</news:publication_date>
       <news:title>भारतीय सरकारी बॉन्ड में सुस्ती: RBI और फेड के फैसलों पर टिकी निवेशकों की नज़र</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/epfo-swp-withdrawal-rules-change-explained-2517/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T13:00:30.672Z</news:publication_date>
-      <news:title>EPFO का बड़ा तोहफा: रिटायरमेंट के बाद अब हर महीने मिलेगी पेंशन जैसी रकम, PF निकासी के नियम भी बदले</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/gold-price-drop-fed-interest-rates-5393/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T21:00:49.170Z</news:publication_date>
-      <news:title>सोने की कीमतों में भारी गिरावट: 14 महीने के निचले स्तर पर फिसला गोल्ड, क्या है वजह?</news:title>
     </news:news>
   </url>
 </urlset>
