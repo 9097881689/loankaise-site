@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/bitcoin-price-fall-ipo-impact-8363/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T03:17:24.663Z</news:publication_date>
+      <news:title>बिटकॉइन में भारी गिरावट के पीछे क्या SpaceX और Anthropic IPO का है हाथ?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/gold-vs-silver-investment-strategy-2024-3399/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T03:16:59.411Z</news:publication_date>
+      <news:title>सोना या चांदी: बाजार की उथल-पुथल में कहां निवेश करना है सुरक्षित? एक्सपर्ट की राय</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/bitcoin-price-crash-ai-stocks-impact-6712/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-20T02:15:30.745Z</news:publication_date>
       <news:title>शेयर बाजार में बड़ी हलचल: इन 5 स्टॉक्स ने 200-DMA को पार कर दिखाई मजबूती</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/anthropic-ipo-nasdaq-debut-ai-market-valuation-4270/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T02:15:20.993Z</news:publication_date>
-      <news:title>Anthropic IPO: AI की दिग्गज कंपनी की शानदार एंट्री, मार्केट कैप $2 ट्रिलियन के करीब</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/anthropic-ipo-listing-impact-ai-stocks-8860/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T16:50:54.794Z</news:publication_date>
-      <news:title>Anthropic IPO: एंथ्रोपिक की शानदार लिस्टिंग से AI सेक्टर में हलचल, अल्फाबेट और चिप शेयरों में बहार</news:title>
     </news:news>
   </url>
 </urlset>
