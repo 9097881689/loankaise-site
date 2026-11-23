@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/bitcoin-price-recovery-analysis-crypto-market-2415/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T10:20:46.195Z</news:publication_date>
+      <news:title>बिटकॉइन में भारी गिरावट के बाद क्या फिर लौटेगी रौनक? जानें एक्सपर्ट्स की राय</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/cbic-faceless-gst-assessment-framework-impact-2332/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T10:20:36.922Z</news:publication_date>
+      <news:title>GST में बड़ा बदलाव: 2027 से शुरू होगा &apos;फेसलेस असेसमेंट&apos;, कारोबारियों को क्या फायदा?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/invits-distribute-one-lakh-crore-investors-5616/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-21T07:20:20.280Z</news:publication_date>
       <news:title>चांदी की कीमतों में आई भारी गिरावट: क्या अब खरीदारी का सही मौका है?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/builder-flat-cancellation-consumer-court-case-0268/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T07:15:27.018Z</news:publication_date>
-      <news:title>बिल्डर ने फ्लैट कैंसिल किया तो नोएडा के कपल ने खटखटाया कंज्यूमर कोर्ट, जानें कैसे मिली जीत</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/indusind-bank-terminates-ceo-sumant-kathpalia-0489/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T07:15:15.653Z</news:publication_date>
-      <news:title>IndusInd Bank का बड़ा एक्शन: पूर्व CEO सुमंत कठपालिया की सेवाएं समाप्त, बोनस की होगी वसूली</news:title>
     </news:news>
   </url>
 </urlset>
