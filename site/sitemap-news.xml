@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/invits-distribute-one-lakh-crore-investors-5616/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T07:39:09.480Z</news:publication_date>
+      <news:title>InvITs का कमाल: निवेशकों को ₹1 लाख करोड़ से ज़्यादा का डिस्ट्रीब्यूशन</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/brigade-enterprises-fy27-sales-outlook-2325/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T07:20:46.666Z</news:publication_date>
+      <news:title>Brigade Enterprises: क्या नए प्रोजेक्ट्स से सुधरेगी सुस्त रफ़्तार? जानें निवेशकों के लिए क्या है संकेत</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/china-market-crash-state-funds-intervention-8915/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-21T07:15:15.653Z</news:publication_date>
       <news:title>IndusInd Bank का बड़ा एक्शन: पूर्व CEO सुमंत कठपालिया की सेवाएं समाप्त, बोनस की होगी वसूली</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/home-loan-on-fathers-land-rules-4088/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T07:10:28.224Z</news:publication_date>
-      <news:title>पिता की ज़मीन पर घर बनाने के लिए लोन चाहिए? बैंक के ये नियम जानना है बेहद ज़रूरी</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/gold-silver-price-crash-analysis-2026-0370/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T07:10:16.868Z</news:publication_date>
-      <news:title>Gold vs Silver: रिकॉर्ड हाई से 65% तक लुढ़की चांदी, सोने के मुकाबले निवेशकों को हुआ भारी नुकसान</news:title>
     </news:news>
   </url>
 </urlset>
