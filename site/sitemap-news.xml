@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/nvidia-stock-rally-short-seller-losses-6556/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T20:34:23.955Z</news:publication_date>
+      <news:title>Nvidia में अचानक 37% की उछाल से शॉर्ट सेलर्स बर्बाद, लेवरेज्ड ETF में 92% तक की गिरावट</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/idbi-bank-share-price-fairfax-deal-analysis-1867/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T20:19:11.047Z</news:publication_date>
+      <news:title>IDBI Bank के शेयरों में निवेश का सही मौका? फेयरफैक्स डील और सुप्रीम कोर्ट के फैसले का क्या होगा असर</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/wipro-share-price-target-icici-securities-4553/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-21T07:40:33.863Z</news:publication_date>
       <news:title>US Dollar में सुस्ती का क्या है संकेत? फेडरल रिजर्व के रुख से बदलेगा बाजार</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/stock-market-rally-13-stocks-gain-streak-6754/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T07:40:20.960Z</news:publication_date>
-      <news:title>शेयर बाजार में तूफानी तेजी: ये 13 स्टॉक्स लगातार 5 दिन से दे रहे बंपर रिटर्न</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/us-treasury-yield-ai-market-impact-3069/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T07:35:37.407Z</news:publication_date>
-      <news:title>AI शेयरों में घबराहट: अमेरिकी बॉन्ड यील्ड में गिरावट का भारतीय बाज़ार पर क्या असर?</news:title>
     </news:news>
   </url>
 </urlset>
