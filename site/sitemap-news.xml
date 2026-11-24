@@ -2,25 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://loankaise.in/news/december-financial-rules-changes-aadhaar-fd-emi-0754/</loc>
+    <loc>https://loankaise.in/news/wipro-share-price-target-icici-securities-4553/</loc>
     <news:news>
       <news:publication>
         <news:name>LoanKaise.in</news:name>
         <news:language>hi</news:language>
       </news:publication>
-      <news:publication_date>2026-11-24T12:52:35.110Z</news:publication_date>
-      <news:title>दिसंबर से बदलने वाले हैं ये 5 बड़े वित्तीय नियम, आधार से लेकर होम लोन EMI तक जेब पर असर</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/rbi-new-guidelines-digital-payment-fraud-4289/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T12:19:50.142Z</news:publication_date>
-      <news:title>बैंक फ्रॉड रोकने के लिए RBI का कड़ा कदम, डिजिटल पेमेंट पर मिलेंगे नए सेफ्टी फीचर्स</news:title>
+      <news:publication_date>2026-11-24T12:36:19.239Z</news:publication_date>
+      <news:title>विप्रो शेयर पर आईसीआईसीआई सिक्योरिटीज की नई चाल, जानिए क्या है टारगेट प्राइस</news:title>
     </news:news>
   </url>
   <url>
@@ -549,6 +538,17 @@
       </news:publication>
       <news:publication_date>2026-11-21T07:40:20.960Z</news:publication_date>
       <news:title>शेयर बाजार में तूफानी तेजी: ये 13 स्टॉक्स लगातार 5 दिन से दे रहे बंपर रिटर्न</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/us-treasury-yield-ai-market-impact-3069/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T07:35:37.407Z</news:publication_date>
+      <news:title>AI शेयरों में घबराहट: अमेरिकी बॉन्ड यील्ड में गिरावट का भारतीय बाज़ार पर क्या असर?</news:title>
     </news:news>
   </url>
 </urlset>
