@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/retirement-planning-moving-to-smaller-city-8242/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T11:35:32.746Z</news:publication_date>
+      <news:title>रिटायरमेंट के बाद छोटे शहर में बसने का बना रहे हैं प्लान? इन 5 बातों को नजरअंदाज करना पड़ सकता है भारी</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/gulf-giants-vs-mi-emirates-ilt20-live-5550/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T11:35:20.081Z</news:publication_date>
+      <news:title>ILT20: गल्फ जायंट्स बनाम MI एमिरेट्स की आज होगी जंग, जानें कब और कहां देखें मुकाबला</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/nvidia-jensen-huang-ceo-return-stock-market-0050/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-21T07:30:21.184Z</news:publication_date>
       <news:title>क्रिप्टो बाजार में हाहाकार: बिटकॉइन 60,000 डॉलर के नीचे फिसला, क्या निवेश डूब गया?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/top-performing-stocks-nifty-500-weekly-gainers-9470/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T07:25:23.183Z</news:publication_date>
-      <news:title>शेयर बाजार में तूफानी तेजी: इन 8 स्टॉक्स ने निवेशकों को एक हफ्ते में किया मालामाल</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/investment-strategy-ai-2027-barclays-report-9557/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T07:25:14.702Z</news:publication_date>
-      <news:title>2027 में निवेश की नई चाल: AI बनेगा पोर्टफोलियो का राजा, इन सेक्टरों पर रखें नज़र</news:title>
     </news:news>
   </url>
 </urlset>
