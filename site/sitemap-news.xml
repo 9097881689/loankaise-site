@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/nvidia-jensen-huang-ceo-return-stock-market-0050/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T11:30:44.188Z</news:publication_date>
+      <news:title>Nvidia में जेनसेन हुआंग की वापसी: एक दिन में बढ़ी 34 अरब डॉलर की संपत्ति</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/nvidia-stock-rally-us-market-correction-7636/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T11:30:23.394Z</news:publication_date>
+      <news:title>Nvidia की रिकॉर्ड रैली के बाद अमेरिकी बाज़ार में गिरावट, क्या AI शेयरों का गुब्बारा फूट गया?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/bitcoin-price-recovery-analysis-crypto-market-2415/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-21T07:25:14.702Z</news:publication_date>
       <news:title>2027 में निवेश की नई चाल: AI बनेगा पोर्टफोलियो का राजा, इन सेक्टरों पर रखें नज़र</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/loan-guarantor-risks-cibil-score-impact-6300/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T07:20:31.082Z</news:publication_date>
-      <news:title>किसी के लोन का गारंटर बनने से पहले रुकें: आपकी एक गलती बिगाड़ सकती है सिबिल</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/silver-price-crash-india-investment-guide-3574/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T07:20:20.280Z</news:publication_date>
-      <news:title>चांदी की कीमतों में आई भारी गिरावट: क्या अब खरीदारी का सही मौका है?</news:title>
     </news:news>
   </url>
 </urlset>
