@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/government-employee-death-missing-pension-claims-4586/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T14:29:20.618Z</news:publication_date>
+      <news:title>सरकारी कर्मचारी की मृत्यु या लापता होने पर परिवार को कैसे मिलेंगे सभी वित्तीय लाभ?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/real-estate-vs-gold-investment-strategy-2079/</loc>
     <news:news>
       <news:publication>
@@ -538,17 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-22T01:19:48.449Z</news:publication_date>
       <news:title>शेयर बाज़ार में तेज़ी: ₹100 से कम के इन 3 स्टॉक्स में दिख रही है कमाई की बड़ी संभावना</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/cbic-gst-law-amendment-itc-protection-5237/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T22:17:41.583Z</news:publication_date>
-      <news:title>GST नियमों में बड़े बदलाव की तैयारी: अब सप्लायर की गलती पर नहीं डूबेगा आपका ITC</news:title>
     </news:news>
   </url>
 </urlset>
