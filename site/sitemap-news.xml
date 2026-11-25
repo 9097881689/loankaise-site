@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/corporate-bond-fundraising-record-fy27-2534/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T16:08:18.777Z</news:publication_date>
+      <news:title>बढ़ती ब्याज दरों के बावजूद कॉर्पोरेट बॉंड मार्केट में रिकॉर्ड तेजी, जानिए क्या है वजह</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/fii-inflows-boost-sensex-nifty-markets-9249/</loc>
     <news:news>
       <news:publication>
@@ -538,17 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-22T02:32:50.422Z</news:publication_date>
       <news:title>केमिकल सेक्टर में डिविडेंड की बौछार: ये 3 शेयर दे रहे हैं 10% तक का शानदार रिटर्न</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/dividend-stocks-to-watch-this-week-9855/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T02:32:41.698Z</news:publication_date>
-      <news:title>डिविडेंड से होगी एक्स्ट्रा कमाई: इस हफ्ते Fusion CX समेत इन 3 शेयरों पर रखें नज़र</news:title>
     </news:news>
   </url>
 </urlset>
