@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/real-estate-vs-gold-investment-strategy-2079/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T11:02:46.095Z</news:publication_date>
+      <news:title>गोल्ड में गिरावट और रियल एस्टेट की चमक: क्या अब निवेश के लिए प्रॉपर्टी बेहतर विकल्प है?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/stock-market-rally-sensex-nifty-surge-9867/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T11:02:33.908Z</news:publication_date>
+      <news:title>शेयर बाजार में तूफानी तेजी: सेंसेक्स 1500 अंक उछला, निफ्टी 25,800 के पार</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/nse-share-price-target-icici-securities-analysis-1400/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-21T22:17:41.583Z</news:publication_date>
       <news:title>GST नियमों में बड़े बदलाव की तैयारी: अब सप्लायर की गलती पर नहीं डूबेगा आपका ITC</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/rbi-financial-inclusion-re-kyc-drive-3153/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T22:02:29.334Z</news:publication_date>
-      <news:title>RBI का बड़ा अभियान: महाराष्ट्र में वित्तीय साक्षरता और री-KYC पर जोर, जानें क्या है खास</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/gold-silver-price-crash-dsp-mutual-fund-strategy-3159/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T12:08:17.404Z</news:publication_date>
-      <news:title>सोने-चांदी में भारी गिरावट: क्या अब खरीदारी का सही समय है? DSP Mutual Fund की नई स्ट्रैटेजी</news:title>
     </news:news>
   </url>
 </urlset>
