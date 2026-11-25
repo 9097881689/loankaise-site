@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/shukra-medtech-fund-raise-preferential-issue-6678/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T15:15:11.535Z</news:publication_date>
+      <news:title>₹100 से कम कीमत वाला यह स्मॉल-कैप फार्मा स्टॉक जुटाएगा ₹60 करोड़, बोर्ड मीटिंग की तारीख तय</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/rbi-foreign-exchange-reserves-september-2026-5205/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T15:13:32.132Z</news:publication_date>
+      <news:title>भारत का विदेशी मुद्रा भंडार बढ़कर $737 अरब के पार, RBI ने जारी की नई रिपोर्ट</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/sebi-early-payout-framework-fpo-commodity-9391/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-22T02:05:13.833Z</news:publication_date>
       <news:title>अगले हफ्ते शेयर बाजार में लंबी छुट्टी: जानें BSE और NSE कब रहेंगे बंद</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/rbi-governor-small-business-loan-impact-5053/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T02:00:29.299Z</news:publication_date>
-      <news:title>छोटे व्यवसायों को कर्ज देने से अर्थव्यवस्था में 100 गुना ज्यादा उछाल: RBI गवर्नर</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/nvidia-ceo-jensen-huang-resignation-impact-investors-1272/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T01:45:15.354Z</news:publication_date>
-      <news:title>Nvidia के CEO जेनसेन हुआंग का इस्तीफा: क्या ये &apos;ब्लैक स्वान&apos; इवेंट है या आपकी निवेश रणनीति की बड़ी चूक?</news:title>
     </news:news>
   </url>
 </urlset>
