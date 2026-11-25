@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/gold-price-drop-analysis-india-2404/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T14:39:37.088Z</news:publication_date>
+      <news:title>सोने की कीमतों में बड़ी गिरावट: 1.80 लाख से 1.22 लाख तक कैसे लुढ़का भाव?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/rbi-conducts-75000-crore-vrr-auction-7987/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T14:38:33.287Z</news:publication_date>
+      <news:title>RBI का बड़ा कदम: सिस्टम में नकदी बढ़ाने के लिए 75,000 करोड़ का VRR ऑक्शन</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/government-employee-death-missing-pension-claims-4586/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-22T01:29:00.875Z</news:publication_date>
       <news:title>3 दिसंबर को बैंक हड़ताल का एलान: IDBI-Fairfax डील के विरोध में क्यों उतरे कर्मचारी?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/stock-market-corporate-actions-record-dates-6184/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T01:20:00.495Z</news:publication_date>
-      <news:title>शेयर बाजार में इस हफ्ते एक्शन की भरमार: Zee, JTL और अन्य कंपनियों के लिए अहम तारीखें</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/top-stocks-under-100-buy-recommendation-2550/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T01:19:48.449Z</news:publication_date>
-      <news:title>शेयर बाज़ार में तेज़ी: ₹100 से कम के इन 3 स्टॉक्स में दिख रही है कमाई की बड़ी संभावना</news:title>
     </news:news>
   </url>
 </urlset>

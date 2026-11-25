@@ -1,5 +1,41 @@
 [
   {
+    "id": "lk-1795617577088-hd3c",
+    "slug": "gold-price-drop-analysis-india-2404",
+    "url": "/news/gold-price-drop-analysis-india-2404/",
+    "title": "सोने की कीमतों में बड़ी गिरावट: 1.80 लाख से 1.22 लाख तक कैसे लुढ़का भाव?",
+    "subtitle": "क्या सोना खरीदने का यह सही समय है या अभी और गिरेगा भाव? जानें पूरी रिपोर्ट।",
+    "category": "markets",
+    "categoryLabel": "शेयर बाज़ार & गोल्ड",
+    "featuredImage": "/uploads/news/gold-price-drop-analysis-india-2404.webp",
+    "authorName": "अमित मिश्रा",
+    "publishedAt": "2026-11-25T14:39:37.088Z",
+    "indexedInGoogle": true,
+    "sourcesCount": 1,
+    "sourceNames": [
+      "NDTV Profit"
+    ],
+    "isLegacyGuide": false
+  },
+  {
+    "id": "lk-1795617513287-x3um",
+    "slug": "rbi-conducts-75000-crore-vrr-auction-7987",
+    "url": "/news/rbi-conducts-75000-crore-vrr-auction-7987/",
+    "title": "RBI का बड़ा कदम: सिस्टम में नकदी बढ़ाने के लिए 75,000 करोड़ का VRR ऑक्शन",
+    "subtitle": "भारतीय रिज़र्व बैंक ने बैंकिंग सिस्टम में लिक्विडिटी को संतुलित रखने के लिए कल एक विशेष नीलामी का फैसला लिया है।",
+    "category": "banking-rbi",
+    "categoryLabel": "बैंकिंग & RBI",
+    "featuredImage": "/uploads/news/rbi-conducts-75000-crore-vrr-auction-7987.webp",
+    "authorName": "राहुल शर्मा",
+    "publishedAt": "2026-11-25T14:38:33.287Z",
+    "indexedInGoogle": true,
+    "sourcesCount": 2,
+    "sourceNames": [
+      "Reserve Bank of India (RBI)"
+    ],
+    "isLegacyGuide": false
+  },
+  {
     "id": "lk-1795616960620-kg3y",
     "slug": "government-employee-death-missing-pension-claims-4586",
     "url": "/news/government-employee-death-missing-pension-claims-4586/",
