@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/rbi-net-buyer-dollars-september-forex-data-7920/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T16:29:35.421Z</news:publication_date>
+      <news:title>सितंबर में RBI ने की ताबड़तोड़ डॉलर की खरीदारी, विदेशी मुद्रा बाजार से जुड़े बड़े आंकड़े आए सामने</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/corporate-bond-fundraising-record-fy27-2534/</loc>
     <news:news>
       <news:publication>
@@ -538,17 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-22T02:36:19.774Z</news:publication_date>
       <news:title>Hospital Stocks Rally: अपोलो और मैक्स समेत इन शेयरों में आई जोरदार तेजी, क्या अभी खरीदना सही है?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/top-dividend-yielding-chemical-stocks-india-6421/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T02:32:50.422Z</news:publication_date>
-      <news:title>केमिकल सेक्टर में डिविडेंड की बौछार: ये 3 शेयर दे रहे हैं 10% तक का शानदार रिटर्न</news:title>
     </news:news>
   </url>
 </urlset>
