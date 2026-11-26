@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/gold-silver-price-rebound-analysis-8305/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T06:35:32.371Z</news:publication_date>
+      <news:title>सोने-चांदी में जबरदस्त उछाल: क्या 15 महीने के निचले स्तर से हुई है असली वापसी?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/pnb-special-680-day-fd-interest-rates-4411/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T06:35:19.282Z</news:publication_date>
+      <news:title>PNB की 680 दिन वाली स्पेशल FD: जानें 5 और 10 लाख रुपये पर कितना मिलेगा रिटर्न</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/tax-deduction-for-pensioners-rent-paid-2778/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-24T20:34:23.955Z</news:publication_date>
       <news:title>Nvidia में अचानक 37% की उछाल से शॉर्ट सेलर्स बर्बाद, लेवरेज्ड ETF में 92% तक की गिरावट</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/idbi-bank-share-price-fairfax-deal-analysis-1867/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T20:19:11.047Z</news:publication_date>
-      <news:title>IDBI Bank के शेयरों में निवेश का सही मौका? फेयरफैक्स डील और सुप्रीम कोर्ट के फैसले का क्या होगा असर</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/wipro-share-price-target-icici-securities-4553/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T12:36:19.239Z</news:publication_date>
-      <news:title>विप्रो शेयर पर आईसीआईसीआई सिक्योरिटीज की नई चाल, जानिए क्या है टारगेट प्राइस</news:title>
     </news:news>
   </url>
 </urlset>
