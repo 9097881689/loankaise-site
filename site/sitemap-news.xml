@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/december-1-sbi-card-sebi-rule-changes-8376/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T16:31:42.694Z</news:publication_date>
+      <news:title>1 दिसंबर से जेब पर बड़ा असर: SBI क्रेडिट कार्ड के नियम और SEBI के बदलाव</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/chennai-couple-donates-206-crore-gold-tirupati-4430/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T16:30:28.935Z</news:publication_date>
+      <news:title>तिरुपति मंदिर को 206 करोड़ का दान: चेन्नई के इस कपल ने रचा इतिहास, जानिए क्या है पूरी कहानी</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/epfo-interest-rules-inactive-pf-account-9963/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T06:40:18.156Z</news:publication_date>
       <news:title>साल 2027 में पोर्टफोलियो को कैसे बचाएं? बड़े शेयरों, गोल्ड और एक्रूअल फंड्स का नया गणित</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/gold-silver-price-rebound-analysis-8305/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T06:35:32.371Z</news:publication_date>
-      <news:title>सोने-चांदी में जबरदस्त उछाल: क्या 15 महीने के निचले स्तर से हुई है असली वापसी?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/pnb-special-680-day-fd-interest-rates-4411/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T06:35:19.282Z</news:publication_date>
-      <news:title>PNB की 680 दिन वाली स्पेशल FD: जानें 5 और 10 लाख रुपये पर कितना मिलेगा रिटर्न</news:title>
     </news:news>
   </url>
 </urlset>
