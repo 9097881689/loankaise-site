@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/bse-share-price-hsbc-buy-rating-4469/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T06:45:28.746Z</news:publication_date>
+      <news:title>BSE Shares: 5 साल में 2200% रिटर्न, क्या अब भी है खरीदारी का मौका?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/rbi-shifts-gold-reserves-to-india-8158/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T06:45:13.792Z</news:publication_date>
+      <news:title>RBI का बड़ा फैसला: विदेशी तिजोरियों से भारत वापस क्यों लाया गया 60 टन सोना?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/sbi-clerk-mains-exam-pattern-details-3414/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-25T11:02:46.095Z</news:publication_date>
       <news:title>गोल्ड में गिरावट और रियल एस्टेट की चमक: क्या अब निवेश के लिए प्रॉपर्टी बेहतर विकल्प है?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/stock-market-rally-sensex-nifty-surge-9867/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T11:02:33.908Z</news:publication_date>
-      <news:title>शेयर बाजार में तूफानी तेजी: सेंसेक्स 1500 अंक उछला, निफ्टी 25,800 के पार</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/nse-share-price-target-icici-securities-analysis-1400/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T10:55:57.385Z</news:publication_date>
-      <news:title>NSE Share Price: ₹2650 का लक्ष्य! क्या नेशनल स्टॉक एक्सचेंज के शेयरों में निवेश का सही समय आ गया है?</news:title>
     </news:news>
   </url>
 </urlset>
