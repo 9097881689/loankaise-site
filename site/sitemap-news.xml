@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/share-market-nifty-realty-it-rally-3651/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T09:46:47.768Z</news:publication_date>
+      <news:title>शेयर बाज़ार में आज की हलचल: निफ्टी 25,800 के पार, रियल्टी शेयरों में जबरदस्त तेज़ी</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/idbi-bank-pension-dispute-supreme-court-verdict-8759/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T09:46:34.515Z</news:publication_date>
+      <news:title>IDBI Bank पेंशन विवाद: सुप्रीम कोर्ट के फैसले का रिटायर्ड कर्मचारियों पर क्या असर?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/allied-blenders-share-price-elara-securities-target-0350/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T05:55:13.585Z</news:publication_date>
       <news:title>सोने की कीमतों में भारी गिरावट: क्या अमेरिकी अर्थव्यवस्था का डेटा बिगाड़ रहा है गोल्ड का गणित?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/adani-group-public-bond-sale-plan-0284/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T05:50:24.721Z</news:publication_date>
-      <news:title>अडानी ग्रुप का बड़ा कदम: बॉन्ड मार्केट से जुटाएंगे 2,000 करोड़ रुपये</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/bse-share-price-target-hdfc-securities-analysis-9102/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T05:50:14.776Z</news:publication_date>
-      <news:title>BSE Share Price: 48% की शानदार बढ़त के बाद अब और उछलेंगे शेयर? जानिए क्या है नया टारगेट</news:title>
     </news:news>
   </url>
 </urlset>
