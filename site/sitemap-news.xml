@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/money-market-operations-rbi-analysis-9266/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T03:45:33.062Z</news:publication_date>
+      <news:title>मनी मार्केट का हाल: 25 नवंबर के आंकड़ों से क्या संकेत दे रही है बैंकिंग प्रणाली?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/october-credit-card-spending-india-rbi-data-9264/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T03:45:23.654Z</news:publication_date>
+      <news:title>अक्टूबर में क्रेडिट कार्ड खर्च ने तोड़े रिकॉर्ड: ₹2.45 लाख करोड़ का हुआ ट्रांजैक्शन</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/impact-of-interest-rate-on-debt-funds-6412/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-22T03:25:15.152Z</news:publication_date>
       <news:title>दो PAN कार्ड होने से फंसा टैक्स का पेंच: गुजरात के व्यापारी को ITAT से बड़ी राहत</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/sandisk-stock-split-explained-investor-impact-3045/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T03:20:47.920Z</news:publication_date>
-      <news:title>SanDisk के शेयर में 87% की भारी गिरावट? घबराएं नहीं, यह है असली गणित</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/upcoming-ipo-this-week-market-update-0278/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T03:20:36.559Z</news:publication_date>
-      <news:title>IPO कैलेंडर: इस हफ्ते बाजार में हलचल, Shree Siddhivinayak और Foodlink F&amp;B पर नजर</news:title>
     </news:news>
   </url>
 </urlset>

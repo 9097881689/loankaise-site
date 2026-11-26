@@ -7,7 +7,23 @@
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <description>ताज़ा फाइनेंस न्यूज़, लोन गाइड्स, RBI अपडेट्स और बैंकिंग टूल्स हिंदी में।</description>
     <language>hi-in</language>
-    <lastBuildDate>Thu, 26 Nov 2026 03:41:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 03:45:34 GMT</lastBuildDate>
+    <item>
+      <title>मनी मार्केट का हाल: 25 नवंबर के आंकड़ों से क्या संकेत दे रही है बैंकिंग प्रणाली?</title>
+      <link>https://loankaise.in/news/money-market-operations-rbi-analysis-9266/</link>
+      <guid isPermaLink="true">https://loankaise.in/news/money-market-operations-rbi-analysis-9266/</guid>
+      <pubDate>Thu, 26 Nov 2026 03:45:33 GMT</pubDate>
+      <category>बैंकिंग &amp; RBI</category>
+      <description>भारतीय मुद्रा बाजार में लिक्विडिटी का प्रवाह और ब्याज दरों में उतार-चढ़ाव का सीधा विश्लेषण।</description>
+    </item>
+    <item>
+      <title>अक्टूबर में क्रेडिट कार्ड खर्च ने तोड़े रिकॉर्ड: ₹2.45 लाख करोड़ का हुआ ट्रांजैक्शन</title>
+      <link>https://loankaise.in/news/october-credit-card-spending-india-rbi-data-9264/</link>
+      <guid isPermaLink="true">https://loankaise.in/news/october-credit-card-spending-india-rbi-data-9264/</guid>
+      <pubDate>Thu, 26 Nov 2026 03:45:23 GMT</pubDate>
+      <category>पर्सनल फाइनेंस</category>
+      <description>त्योहारी सीजन के दौरान भारतीयों ने जमकर क्रेडिट कार्ड का इस्तेमाल किया, जानिए क्या कहते हैं RBI के ताजा आंकड़े।</description>
+    </item>
     <item>
       <title>ब्याज दरों में बदलाव का आपके डेट फंड्स पर असर: शॉर्ट और लॉन्ग ड्यूरेशन में किसे चुनें?</title>
       <link>https://loankaise.in/news/impact-of-interest-rate-on-debt-funds-6412/</link>
@@ -231,22 +247,6 @@
       <pubDate>Tue, 24 Nov 2026 11:30:23 GMT</pubDate>
       <category>शेयर बाज़ार &amp; गोल्ड</category>
       <description>AI शेयरों में आई भारी मुनाफावसूली का असर अमेरिकी फ्यूचर्स पर, भारतीय निवेशकों को संभलकर रहने की जरूरत।</description>
-    </item>
-    <item>
-      <title>बिटकॉइन में भारी गिरावट के बाद क्या फिर लौटेगी रौनक? जानें एक्सपर्ट्स की राय</title>
-      <link>https://loankaise.in/news/bitcoin-price-recovery-analysis-crypto-market-2415/</link>
-      <guid isPermaLink="true">https://loankaise.in/news/bitcoin-price-recovery-analysis-crypto-market-2415/</guid>
-      <pubDate>Mon, 23 Nov 2026 10:20:46 GMT</pubDate>
-      <category>शेयर बाज़ार &amp; गोल्ड</category>
-      <description>क्रिप्टो बाजार में मची हलचल और 60,000 डॉलर के स्तर पर बिटकॉइन के संघर्ष के बीच निवेशकों को अब अपनी रणनीति कैसे बनानी चाहिए?</description>
-    </item>
-    <item>
-      <title>GST में बड़ा बदलाव: 2027 से शुरू होगा &apos;फेसलेस असेसमेंट&apos;, कारोबारियों को क्या फायदा?</title>
-      <link>https://loankaise.in/news/cbic-faceless-gst-assessment-framework-impact-2332/</link>
-      <guid isPermaLink="true">https://loankaise.in/news/cbic-faceless-gst-assessment-framework-impact-2332/</guid>
-      <pubDate>Mon, 23 Nov 2026 10:20:36 GMT</pubDate>
-      <category>बिज़नेस &amp; इकोनॉमी</category>
-      <description>CBIC की नई पहल से टैक्स अधिकारियों के साथ फिजिकल इंटरैक्शन कम होगा, जानिए आपके बिजनेस पर इसका क्या असर पड़ेगा।</description>
     </item>
   </channel>
 </rss>
