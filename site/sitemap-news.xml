@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/adani-group-public-bond-sale-plan-0284/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T05:50:24.721Z</news:publication_date>
+      <news:title>अडानी ग्रुप का बड़ा कदम: बॉन्ड मार्केट से जुटाएंगे 2,000 करोड़ रुपये</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/bse-share-price-target-hdfc-securities-analysis-9102/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T05:50:14.776Z</news:publication_date>
+      <news:title>BSE Share Price: 48% की शानदार बढ़त के बाद अब और उछलेंगे शेयर? जानिए क्या है नया टारगेट</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/indian-stock-market-us-tariff-impact-6787/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-22T17:45:19.138Z</news:publication_date>
       <news:title>पुराने पते पर भेजा इनकम टैक्स नोटिस? ITAT के इस बड़े फैसले से मिली बड़ी राहत</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/rbi-bank-fraud-data-fy26-analysis-8256/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T12:14:53.820Z</news:publication_date>
-      <news:title>बैंक फ्रॉड के आंकड़ों में आया बड़ा बदलाव: घटीं घटनाएं, लेकिन उड़ाए गए 48,000 करोड़</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/stocks-to-watch-market-outlook-nov-23-5440/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T12:05:21.664Z</news:publication_date>
-      <news:title>शेयर बाजार का नया हफ्ता: Maruti से Adani तक, इन 5 स्टॉक्स पर रहेगी निवेशकों की नज़र</news:title>
     </news:news>
   </url>
 </urlset>
