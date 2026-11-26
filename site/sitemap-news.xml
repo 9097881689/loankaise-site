@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/jeevan-pramaan-pension-deadline-november-30-6526/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T05:31:10.445Z</news:publication_date>
+      <news:title>Jeevan Pramaan: पेंशनर्स के लिए 30 नवंबर की डेडलाइन, लाइफ सर्टिफिकेट ऐसे करें सबमिट</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/tech-mahindra-bonus-share-record-date-2026-5776/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T05:31:01.182Z</news:publication_date>
+      <news:title>Tech Mahindra Bonus Share 2026: 1:1 बोनस शेयर के लिए रिकॉर्ड डेट तय, आखिरी मौका कल!</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/money-market-operations-rbi-analysis-9266/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-22T03:30:18.429Z</news:publication_date>
       <news:title>जेनसेन हुआंग का अगला कदम: क्या एनवीडिया के बाद इंटेल या स्पेसएक्स संभालेंगे दुनिया के सबसे बड़े टेक सीईओ?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/semiconductor-stocks-crash-nasdaq-market-update-9759/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T03:25:24.200Z</news:publication_date>
-      <news:title>सेमीकंडक्टर शेयरों में 2001 के बाद की सबसे बड़ी गिरावट, क्या डूब रही है टेक कंपनियों की नैया?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/two-pan-cards-tax-dispute-relief-8902/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T03:25:15.152Z</news:publication_date>
-      <news:title>दो PAN कार्ड होने से फंसा टैक्स का पेंच: गुजरात के व्यापारी को ITAT से बड़ी राहत</news:title>
     </news:news>
   </url>
 </urlset>
