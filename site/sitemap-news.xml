@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/us-tariff-hike-impact-fed-interest-rates-0924/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T17:30:24.988Z</news:publication_date>
+      <news:title>US टैरिफ में बदलाव से क्या भारतीय बाज़ार पर पड़ेगा असर? फेडरल रिजर्व के फैसले पर सबकी नज़र</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/epf-systematic-withdrawal-plan-tax-rules-2418/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T17:30:16.701Z</news:publication_date>
+      <news:title>EPF से हर महीने पैसे निकालने पर नहीं लगेगा टैक्स? सरकार की नई योजना से रिटायरमेंट होगा आसान</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/cement-sector-earnings-downgrade-risk-analysis-1963/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T08:05:23.051Z</news:publication_date>
       <news:title>म्यूचुअल फंड में डायरेक्ट vs रेगुलर प्लान: क्या वितरक के साथ रहने से मिलता है बेहतर रिटर्न?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/us-tariff-threat-impact-on-indian-exports-5790/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T08:00:37.523Z</news:publication_date>
-      <news:title>US Tariff Threat: क्या भारतीय एक्सपोर्टर्स के लिए 25% का टैरिफ बनेगा बड़ी मुसीबत?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/job-loss-insurance-policy-india-guide-1210/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T08:00:21.442Z</news:publication_date>
-      <news:title>क्या AI के दौर में नौकरी जाने का है डर? &apos;जॉब लॉस इंश्योरेंस&apos; से सुरक्षित करें अपना भविष्य</news:title>
     </news:news>
   </url>
 </urlset>
