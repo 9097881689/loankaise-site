@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/bpcl-iocl-stock-analysis-crude-oil-impact-6283/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T09:35:32.957Z</news:publication_date>
+      <news:title>BPCL और IOCL में निवेश का मौका: कच्चे तेल की कीमतों में गिरावट से बढ़ी चमक</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/gold-price-crash-investment-opportunity-2026-9920/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T09:35:20.211Z</news:publication_date>
+      <news:title>सोने की कीमतों में भारी गिरावट: क्या रिकॉर्ड स्तर से ₹58,500 सस्ता सोना खरीदना सही है?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/armed-forces-tribunal-pension-disabled-son-win-2115/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T05:45:20.547Z</news:publication_date>
       <news:title>RBI का बड़ा फैसला: विदेशी वॉल्ट से भारत वापस आया 60 टन सोना, जानिए क्यों?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/sugar-stocks-rally-isma-production-forecast-2247/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T05:40:36.744Z</news:publication_date>
-      <news:title>Sugar Stocks Rally: ISMA के उत्पादन अनुमानों ने चीनी शेयरों में भरी उड़ान, क्या है निवेशकों के लिए मौका?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/rbi-gold-reserves-decline-september-2026-0225/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T05:40:16.465Z</news:publication_date>
-      <news:title>RBI के गोल्ड रिजर्व में बड़ी गिरावट: क्या सोने की चमक कम हो रही है या ये सिर्फ मार्केट का खेल?</news:title>
     </news:news>
   </url>
 </urlset>
