@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/us-tariff-threat-impact-on-indian-exports-5790/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T08:00:37.523Z</news:publication_date>
+      <news:title>US Tariff Threat: क्या भारतीय एक्सपोर्टर्स के लिए 25% का टैरिफ बनेगा बड़ी मुसीबत?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/job-loss-insurance-policy-india-guide-1210/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T08:00:21.442Z</news:publication_date>
+      <news:title>क्या AI के दौर में नौकरी जाने का है डर? &apos;जॉब लॉस इंश्योरेंस&apos; से सुरक्षित करें अपना भविष्य</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/invesco-india-financial-services-debt-fund-launch-8603/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T05:31:01.182Z</news:publication_date>
       <news:title>Tech Mahindra Bonus Share 2026: 1:1 बोनस शेयर के लिए रिकॉर्ड डेट तय, आखिरी मौका कल!</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/money-market-operations-rbi-analysis-9266/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T03:45:33.062Z</news:publication_date>
-      <news:title>मनी मार्केट का हाल: 25 नवंबर के आंकड़ों से क्या संकेत दे रही है बैंकिंग प्रणाली?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/october-credit-card-spending-india-rbi-data-9264/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T03:45:23.654Z</news:publication_date>
-      <news:title>अक्टूबर में क्रेडिट कार्ड खर्च ने तोड़े रिकॉर्ड: ₹2.45 लाख करोड़ का हुआ ट्रांजैक्शन</news:title>
     </news:news>
   </url>
 </urlset>
