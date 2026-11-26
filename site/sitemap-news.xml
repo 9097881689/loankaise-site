@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/nifty-market-outlook-jpmorgan-analysis-7064/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T16:35:31.028Z</news:publication_date>
+      <news:title>Nifty का भविष्य: क्या 22,000 के स्तर तक गिर सकता है भारतीय शेयर बाज़ार?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/budget-2027-education-tech-proposals-5804/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T16:35:20.341Z</news:publication_date>
+      <news:title>Budget 2027: वित्त मंत्रालय को मिला अनोखा सुझाव, 5वीं कक्षा के बच्चों को अखबार पढ़ाने की तैयारी</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/december-1-sbi-card-sebi-rule-changes-8376/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T06:45:13.792Z</news:publication_date>
       <news:title>RBI का बड़ा फैसला: विदेशी तिजोरियों से भारत वापस क्यों लाया गया 60 टन सोना?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/sbi-clerk-mains-exam-pattern-details-3414/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T06:40:27.976Z</news:publication_date>
-      <news:title>SBI Clerk Mains 2026: परीक्षा पैटर्न और नेगेटिव मार्किंग के नियमों को समझें</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/best-investment-portfolio-strategy-2027-3048/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T06:40:18.156Z</news:publication_date>
-      <news:title>साल 2027 में पोर्टफोलियो को कैसे बचाएं? बड़े शेयरों, गोल्ड और एक्रूअल फंड्स का नया गणित</news:title>
     </news:news>
   </url>
 </urlset>
