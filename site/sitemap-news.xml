@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/stock-market-record-date-action-nov-27-6054/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T06:00:50.100Z</news:publication_date>
+      <news:title>Varvee, JTL Defence समेत 3 शेयरों में कल मचेगी हलचल, रिकॉर्ड डेट से पहले जानें क्या करें</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/gold-silver-price-rally-india-market-update-5858/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T06:00:41.590Z</news:publication_date>
+      <news:title>सोने-चांदी की कीमतों में जोरदार उछाल: क्या खरीदारी का सही समय आ गया है?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/impact-of-26-11-attacks-on-indian-economy-3342/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-23T02:24:13.682Z</news:publication_date>
       <news:title>सोने में 14 महीने की गिरावट के बाद उछाल: क्या रॉबर्ट कियोसाकी की सलाह पर निवेश करें?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/gold-price-fall-analysis-2026-5341/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T01:21:59.061Z</news:publication_date>
-      <news:title>सोने की चमक क्यों हुई फीकी? 5 साल की शानदार दौड़ पर लगा ब्रेक, क्या है गिरावट का कारण</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/south-korea-market-crash-kospi-impact-4592/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T01:21:49.472Z</news:publication_date>
-      <news:title>दक्षिण कोरियाई बाज़ार में हाहाकार: 10 महीने के निचले स्तर पर फिसला KOSPI, सरकार ने बुलाई इमरजेंसी मीटिंग</news:title>
     </news:news>
   </url>
 </urlset>
