@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/bombay-coated-special-steels-q2-results-2369/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T11:08:28.402Z</news:publication_date>
+      <news:title>₹100 से कम का यह मेटल शेयर दिखा रहा दम, Q2 नतीजों के बाद आई तेज़ी</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/pollution-health-insurance-claim-rules-2655/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T10:37:08.369Z</news:publication_date>
+      <news:title>बढ़ते प्रदूषण से बिगड़ रही है सेहत, क्या हेल्थ इंश्योरेंस देगा इलाज का पूरा खर्च?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/netflix-pakistani-series-india-ban-warning-2267/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T06:20:14.777Z</news:publication_date>
       <news:title>IDBI Bank विनिवेश और पेंशन विवाद: सुप्रीम कोर्ट के फैसले का कर्मचारियों पर क्या असर?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/gold-silver-price-recovery-mcx-analysis-6655/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T06:15:30.913Z</news:publication_date>
-      <news:title>सोने-चांदी की कीमतों में जोरदार वापसी: क्या MCX पर यह तेजी बरकरार रहेगी?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/gold-price-rebound-market-update-6543/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T06:15:21.754Z</news:publication_date>
-      <news:title>सोने की कीमतों में फिर आई चमक, भारी गिरावट के बाद संभले भाव: चेक करें आज का रेट</news:title>
     </news:news>
   </url>
 </urlset>
