@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/tax-deduction-for-pensioners-rent-paid-2778/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T06:30:27.088Z</news:publication_date>
+      <news:title>रिटायर्ड पेंशनर्स के लिए रेंट पर टैक्स छूट: क्या धारा 80GG का मिल सकता है लाभ?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/sg-mart-share-price-volatility-analysis-2107/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T06:30:17.802Z</news:publication_date>
+      <news:title>SG Mart के शेयरों में अचानक हलचल: 20% की गिरावट के बाद कैसे पलटी बाजी?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/gold-silver-price-market-trend-analysis-6129/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-24T12:36:19.239Z</news:publication_date>
       <news:title>विप्रो शेयर पर आईसीआईसीआई सिक्योरिटीज की नई चाल, जानिए क्या है टारगेट प्राइस</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/ionic-wealth-fundraise-angel-one-investment-7451/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T11:40:41.354Z</news:publication_date>
-      <news:title>Ionic Wealth ने जुटाए 117 करोड़ रुपये: अब बदल जाएगी आपकी वेल्थ मैनेजमेंट की दुनिया</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/netflix-pakistani-series-ban-aicwa-demand-3193/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T11:40:28.443Z</news:publication_date>
-      <news:title>Netflix की पाकिस्तानी वेब सीरीज पर विवाद: क्या भारत में बैन होगी &apos;जो बच्चे हैं संग समेट लो&apos;?</news:title>
     </news:news>
   </url>
 </urlset>
