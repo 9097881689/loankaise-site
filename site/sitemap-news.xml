@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/sandisk-stock-fall-analysis-investors-8714/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T05:35:22.784Z</news:publication_date>
+      <news:title>SanDisk के शानदार मुनाफे के बावजूद क्यों गिर रहे शेयर? निवेशकों के लिए क्या है संकेत</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/crude-oil-price-hike-rbi-monetary-policy-9381/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T05:35:13.876Z</news:publication_date>
+      <news:title>क्रूड ऑयल की बढ़ती आग और RBI की चिंता: क्या दिसंबर में महंगे होंगे आपके लोन?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/jeevan-pramaan-pension-deadline-november-30-6526/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-22T03:35:16.873Z</news:publication_date>
       <news:title>क्या आपका क्रेडिट स्कोर &apos;जीरो&apos; है? जानिए यह खराब स्कोर से कैसे अलग है और कैसे सुधारें</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/book-review-freedom-and-despair-west-bank-2640/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T03:30:27.253Z</news:publication_date>
-      <news:title>Freedom and Despair: वेस्ट बैंक की हकीकत बयां करती एक बेबाक किताब</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/jensen-huang-next-move-nvidia-future-1626/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T03:30:18.429Z</news:publication_date>
-      <news:title>जेनसेन हुआंग का अगला कदम: क्या एनवीडिया के बाद इंटेल या स्पेसएक्स संभालेंगे दुनिया के सबसे बड़े टेक सीईओ?</news:title>
     </news:news>
   </url>
 </urlset>
