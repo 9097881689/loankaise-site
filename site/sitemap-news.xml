@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/allied-blenders-share-price-elara-securities-target-0350/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T09:41:34.430Z</news:publication_date>
+      <news:title>Allied Blenders Share Price: 50% उछाल के बाद एलाइड ब्लेंडर्स पर ब्रोकरेज बुलिश, ₹1,000 का टार्गेट</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/income-tax-deadlines-december-2026-compliance-6339/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T09:40:22.240Z</news:publication_date>
+      <news:title>दिसंबर 2026 में टैक्स से जुड़ी ये डेडलाइन्स न करें मिस, वरना भरना पड़ सकता है भारी जुर्माना</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/bpcl-iocl-stock-analysis-crude-oil-impact-6283/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T05:50:14.776Z</news:publication_date>
       <news:title>BSE Share Price: 48% की शानदार बढ़त के बाद अब और उछलेंगे शेयर? जानिए क्या है नया टारगेट</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/indian-stock-market-us-tariff-impact-6787/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T05:45:30.990Z</news:publication_date>
-      <news:title>US Tariff Threat: क्या भारतीय शेयर बाज़ार ने ट्रंप की चेतावनी को अनसुना कर दिया?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/rbi-shifts-60-tonnes-gold-domestic-vaults-4178/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T05:45:20.547Z</news:publication_date>
-      <news:title>RBI का बड़ा फैसला: विदेशी वॉल्ट से भारत वापस आया 60 टन सोना, जानिए क्यों?</news:title>
     </news:news>
   </url>
 </urlset>
