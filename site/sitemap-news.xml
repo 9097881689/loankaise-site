@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/impact-of-26-11-attacks-on-indian-economy-3342/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T05:55:27.755Z</news:publication_date>
+      <news:title>26/11 मुंबई हमले के 18 साल: भारतीय अर्थव्यवस्था पर क्या रहा इस त्रासदी का असर?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/gold-price-fall-us-inflation-fed-impact-9197/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T05:55:13.585Z</news:publication_date>
+      <news:title>सोने की कीमतों में भारी गिरावट: क्या अमेरिकी अर्थव्यवस्था का डेटा बिगाड़ रहा है गोल्ड का गणित?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/adani-group-public-bond-sale-plan-0284/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-23T01:21:49.472Z</news:publication_date>
       <news:title>दक्षिण कोरियाई बाज़ार में हाहाकार: 10 महीने के निचले स्तर पर फिसला KOSPI, सरकार ने बुलाई इमरजेंसी मीटिंग</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/spicejet-financial-crisis-pilots-union-demand-6411/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T17:45:30.710Z</news:publication_date>
-      <news:title>SpiceJet पर मंडराया संकट: पायलट यूनियन ने DGCA से की कड़ी जांच की मांग</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/income-tax-notice-reassessment-rules-itat-ruling-3168/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T17:45:19.138Z</news:publication_date>
-      <news:title>पुराने पते पर भेजा इनकम टैक्स नोटिस? ITAT के इस बड़े फैसले से मिली बड़ी राहत</news:title>
     </news:news>
   </url>
 </urlset>
