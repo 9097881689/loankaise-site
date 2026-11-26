@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/epfo-interest-rules-inactive-pf-account-9963/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T16:14:14.135Z</news:publication_date>
+      <news:title>पुराने PF अकाउंट में जमा पैसों पर क्या अब भी मिलता है ब्याज? EPFO के नए नियम जानें</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/motilal-oswal-launches-five-new-etfs-0361/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T16:13:56.157Z</news:publication_date>
+      <news:title>Motilal Oswal के 5 नए ETFs: बैंकिंग से लेकर रियल एस्टेट तक में निवेश का मौका</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/us-fed-meeting-impact-gold-prices-6166/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T06:35:19.282Z</news:publication_date>
       <news:title>PNB की 680 दिन वाली स्पेशल FD: जानें 5 और 10 लाख रुपये पर कितना मिलेगा रिटर्न</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/tax-deduction-for-pensioners-rent-paid-2778/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T06:30:27.088Z</news:publication_date>
-      <news:title>रिटायर्ड पेंशनर्स के लिए रेंट पर टैक्स छूट: क्या धारा 80GG का मिल सकता है लाभ?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/sg-mart-share-price-volatility-analysis-2107/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T06:30:17.802Z</news:publication_date>
-      <news:title>SG Mart के शेयरों में अचानक हलचल: 20% की गिरावट के बाद कैसे पलटी बाजी?</news:title>
     </news:news>
   </url>
 </urlset>
