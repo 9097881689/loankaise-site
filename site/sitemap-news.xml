@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/us-tariff-impact-on-india-trade-strategy-1869/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T06:05:36.319Z</news:publication_date>
+      <news:title>US टैरिफ का भारत पर असर: क्या ट्रंप की नई पॉलिसी से बढ़ेगी भारतीय निर्यातकों की मुश्किलें?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/switch-mutual-fund-regular-to-direct-plan-4709/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T06:05:19.152Z</news:publication_date>
+      <news:title>म्यूचुअल फंड में रेगुलर से डायरेक्ट प्लान में स्विच करना है? जानें सही तरीका और टैक्स का गणित</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/stock-market-record-date-action-nov-27-6054/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-23T07:20:46.666Z</news:publication_date>
       <news:title>Brigade Enterprises: क्या नए प्रोजेक्ट्स से सुधरेगी सुस्त रफ़्तार? जानें निवेशकों के लिए क्या है संकेत</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/china-market-crash-state-funds-intervention-8915/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T02:33:22.736Z</news:publication_date>
-      <news:title>चीनी बाज़ार को बचाने के लिए &apos;नेशनल टीम&apos; की भारी खरीदारी, क्या संभलेंगे शेयर?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/gold-price-recovery-robert-kiyosaki-investment-advice-9340/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T02:24:13.682Z</news:publication_date>
-      <news:title>सोने में 14 महीने की गिरावट के बाद उछाल: क्या रॉबर्ट कियोसाकी की सलाह पर निवेश करें?</news:title>
     </news:news>
   </url>
 </urlset>
