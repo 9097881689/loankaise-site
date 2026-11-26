@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/banks-enhance-digital-security-customer-control-6060/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T16:46:29.969Z</news:publication_date>
+      <news:title>डिजिटल बैंकिंग में अब आप होंगे असली बॉस: बैंकों ने बदले सुरक्षा के नियम</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/jpmorgan-hsbc-complete-digital-gold-trades-5941/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T16:46:19.936Z</news:publication_date>
+      <news:title>डिजिटल गोल्ड ट्रेडिंग में बड़ा बदलाव, जेपी मॉर्गन और एचएसबीसी ने किए पहले सौदे</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/rupay-credit-card-upi-benefits-india-5255/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T06:55:13.342Z</news:publication_date>
       <news:title>EPFO 3.0: फरवरी 2027 से बदल जाएगा पीएफ का पूरा सिस्टम, जानें क्या होंगे बड़े बदलाव</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/fii-buying-stocks-q2-september-quarter-3521/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T06:50:37.523Z</news:publication_date>
-      <news:title>FIIs का दांव: सितंबर तिमाही में इन 8 शेयरों पर विदेशी निवेशकों ने लुटाया पैसा</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/pitti-engineering-share-price-rebound-analysis-4351/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T06:50:20.209Z</news:publication_date>
-      <news:title>Pitti Engineering का धमाका: 5 दिन की गिरावट के बाद शेयर में 13% की शानदार रिकवरी</news:title>
     </news:news>
   </url>
 </urlset>
