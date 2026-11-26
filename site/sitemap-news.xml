@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/mcx-share-price-gold-silver-rebound-4502/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T07:00:28.954Z</news:publication_date>
+      <news:title>MCX Shares: सोने-चांदी की कीमतों में उछाल से मल्टी कमोडिटी एक्सचेंज में लौटी रौनक</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/gold-price-forecast-8000-dollars-impact-4022/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T07:00:19.691Z</news:publication_date>
+      <news:title>सोने की कीमत 2.38 लाख रुपये प्रति 10 ग्राम तक क्यों पहुंच सकती है? जानें बड़ी वजह</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/gold-price-fall-inflation-impact-9472/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-25T15:13:32.132Z</news:publication_date>
       <news:title>भारत का विदेशी मुद्रा भंडार बढ़कर $737 अरब के पार, RBI ने जारी की नई रिपोर्ट</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/sebi-early-payout-framework-fpo-commodity-9391/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T14:55:06.376Z</news:publication_date>
-      <news:title>SEBI का बड़ा कदम: कमोडिटी डेरिवेटिव्स में FPO को मिलेगा 80% तक अर्ली पेमेंट</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/sebi-eases-kyc-norms-investors-onboarding-1220/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T14:54:39.396Z</news:publication_date>
-      <news:title>SEBI का बड़ा कदम: निवेशकों के लिए आसान हुआ KYC का झंझट, जानें नए नियम</news:title>
     </news:news>
   </url>
 </urlset>
