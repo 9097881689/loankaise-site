@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/jupiter-wagons-south-korea-jv-share-rally-5241/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T07:05:59.453Z</news:publication_date>
+      <news:title>Jupiter Wagons का बड़ा दांव: साउथ कोरियन कंपनी के साथ हाथ मिलाते ही रॉकेट बने शेयर</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/epfo-3-point-0-upi-atm-withdrawal-3972/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T07:05:49.799Z</news:publication_date>
+      <news:title>EPFO 3.0 अपडेट: अब यूपीआई और एटीएम से निकाल सकेंगे पीएफ का पैसा</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/mcx-share-price-gold-silver-rebound-4502/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-25T15:51:48.999Z</news:publication_date>
       <news:title>RBI ने देश के भीतर बढ़ाया सोने का भंडार: जानिए भारत के विदेशी मुद्रा खजाने का नया गणित</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/shukra-medtech-fund-raise-preferential-issue-6678/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T15:15:11.535Z</news:publication_date>
-      <news:title>₹100 से कम कीमत वाला यह स्मॉल-कैप फार्मा स्टॉक जुटाएगा ₹60 करोड़, बोर्ड मीटिंग की तारीख तय</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/rbi-foreign-exchange-reserves-september-2026-5205/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T15:13:32.132Z</news:publication_date>
-      <news:title>भारत का विदेशी मुद्रा भंडार बढ़कर $737 अरब के पार, RBI ने जारी की नई रिपोर्ट</news:title>
     </news:news>
   </url>
 </urlset>
