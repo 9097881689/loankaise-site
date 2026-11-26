@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/gold-silver-price-recovery-mcx-analysis-6655/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T06:15:30.913Z</news:publication_date>
+      <news:title>सोने-चांदी की कीमतों में जोरदार वापसी: क्या MCX पर यह तेजी बरकरार रहेगी?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/gold-price-rebound-market-update-6543/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T06:15:21.754Z</news:publication_date>
+      <news:title>सोने की कीमतों में फिर आई चमक, भारी गिरावट के बाद संभले भाव: चेक करें आज का रेट</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/pet-insurance-india-coverage-challenges-2146/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-24T11:30:23.394Z</news:publication_date>
       <news:title>Nvidia की रिकॉर्ड रैली के बाद अमेरिकी बाज़ार में गिरावट, क्या AI शेयरों का गुब्बारा फूट गया?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/bitcoin-price-recovery-analysis-crypto-market-2415/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T10:20:46.195Z</news:publication_date>
-      <news:title>बिटकॉइन में भारी गिरावट के बाद क्या फिर लौटेगी रौनक? जानें एक्सपर्ट्स की राय</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/cbic-faceless-gst-assessment-framework-impact-2332/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T10:20:36.922Z</news:publication_date>
-      <news:title>GST में बड़ा बदलाव: 2027 से शुरू होगा &apos;फेसलेस असेसमेंट&apos;, कारोबारियों को क्या फायदा?</news:title>
     </news:news>
   </url>
 </urlset>
