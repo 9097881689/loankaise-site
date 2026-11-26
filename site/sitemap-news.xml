@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/sc-agrotech-share-price-upper-circuit-bonus-split-4265/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T17:06:18.359Z</news:publication_date>
+      <news:title>SC Agrotech का तूफानी प्रदर्शन: 21 दिनों से लगातार अपर सर्किट, निवेशकों की बल्ले-बल्ले</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/nse-dlf-stocks-hit-52-week-high-5590/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T17:05:41.982Z</news:publication_date>
+      <news:title>NSE और DLF समेत इन 6 स्टॉक्स में तूफानी तेजी, निवेशकों की बल्ले-बल्ले; देखें पूरी लिस्ट</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/government-cpse-dividend-collection-update-2227/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T07:30:28.007Z</news:publication_date>
       <news:title>KFin Technologies के शेयरों में 7% की तूफानी तेजी, महानदी कोलफील्ड्स IPO का क्या है कनेक्शन?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/gold-silver-price-surge-mcx-update-4385/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T07:10:28.617Z</news:publication_date>
-      <news:title>सोने-चांदी में तूफानी तेजी: क्या 1.50 लाख के पार जाएगा गोल्ड? जानें आज के भाव</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/sbi-credit-card-new-charges-december-1615/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T07:10:17.588Z</news:publication_date>
-      <news:title>SBI Credit Card नियम: 1 दिसंबर से फ्यूल और यूटिलिटी खर्च पर लगेगा एक्स्ट्रा चार्ज</news:title>
     </news:news>
   </url>
 </urlset>
