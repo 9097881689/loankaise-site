@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/invesco-india-financial-services-debt-fund-launch-8603/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T07:55:22.810Z</news:publication_date>
+      <news:title>Invesco का नया डेट फंड: क्या फाइनेंशियल सेक्टर के बॉन्ड्स में निवेश का है सही मौका?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/tanla-platforms-share-price-fall-sc-verdict-9161/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T07:55:13.595Z</news:publication_date>
+      <news:title>Tanla Platforms के शेयरों में 12% की गिरावट: सुप्रीम कोर्ट के फैसले से क्यों लगा झटका?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/freelancer-financial-planning-foreign-income-0482/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T03:45:23.654Z</news:publication_date>
       <news:title>अक्टूबर में क्रेडिट कार्ड खर्च ने तोड़े रिकॉर्ड: ₹2.45 लाख करोड़ का हुआ ट्रांजैक्शन</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/impact-of-interest-rate-on-debt-funds-6412/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T03:41:12.738Z</news:publication_date>
-      <news:title>ब्याज दरों में बदलाव का आपके डेट फंड्स पर असर: शॉर्ट और लॉन्ग ड्यूरेशन में किसे चुनें?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/lt-stock-analysis-investment-pros-cons-5280/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T03:40:42.741Z</news:publication_date>
-      <news:title>L&amp;T का शेयर क्या 4440 का रिकॉर्ड तोड़ पाएगा? जानें निवेश से पहले के नफा-नुकसान</news:title>
     </news:news>
   </url>
 </urlset>
