@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/icici-prudential-short-term-plan-review-2722/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T09:55:47.046Z</news:publication_date>
+      <news:title>ICICI Prudential Short Term Plan: क्या कम अवधि के निवेश के लिए यह फंड है सही विकल्प?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/ctc-vs-in-hand-salary-explained-0216/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T09:55:26.946Z</news:publication_date>
+      <news:title>CTC और इन-हैंड सैलरी का अंतर क्या है? कहीं आप भी तो नहीं हो रहे भ्रम का शिकार</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/buying-second-home-investment-tips-1945/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T06:05:19.152Z</news:publication_date>
       <news:title>म्यूचुअल फंड में रेगुलर से डायरेक्ट प्लान में स्विच करना है? जानें सही तरीका और टैक्स का गणित</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/stock-market-record-date-action-nov-27-6054/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T06:00:50.100Z</news:publication_date>
-      <news:title>Varvee, JTL Defence समेत 3 शेयरों में कल मचेगी हलचल, रिकॉर्ड डेट से पहले जानें क्या करें</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/gold-silver-price-rally-india-market-update-5858/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T06:00:41.590Z</news:publication_date>
-      <news:title>सोने-चांदी की कीमतों में जोरदार उछाल: क्या खरीदारी का सही समय आ गया है?</news:title>
     </news:news>
   </url>
 </urlset>
