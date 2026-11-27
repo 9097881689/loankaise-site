@@ -1,5 +1,41 @@
 [
   {
+    "id": "lk-1795750529688-ivq3",
+    "slug": "nifty-500-earnings-market-outlook-q2-fy27-5565",
+    "url": "/news/nifty-500-earnings-market-outlook-q2-fy27-5565/",
+    "title": "भारतीय शेयर बाजार की चाल: क्या Nifty 500 के दमदार नतीजों ने बदली निवेशकों की तस्वीर?",
+    "subtitle": "Q2 FY27 में कंपनियों के शानदार प्रदर्शन के बाद बाजार के जानकारों ने दी निवेश पर अपनी राय।",
+    "category": "markets",
+    "categoryLabel": "शेयर बाज़ार & गोल्ड",
+    "featuredImage": "/uploads/news/nifty-500-earnings-market-outlook-q2-fy27-5565.webp",
+    "authorName": "अमित मिश्रा",
+    "publishedAt": "2026-11-27T03:35:29.688Z",
+    "indexedInGoogle": true,
+    "sourcesCount": 1,
+    "sourceNames": [
+      "NDTV Profit"
+    ],
+    "isLegacyGuide": false
+  },
+  {
+    "id": "lk-1795750519275-4pxo",
+    "slug": "nifty-sensex-market-outlook-foreign-inflow-0438",
+    "url": "/news/nifty-sensex-market-outlook-foreign-inflow-0438/",
+    "title": "शेयर बाजार में फिर रौनक: क्या Nifty 26,000 के पार बनाएगा नया रिकॉर्ड?",
+    "subtitle": "विदेशी निवेशकों की जोरदार खरीदारी और ग्लोबल संकेतों के बीच भारतीय बाजार लगातार पांचवें हफ्ते तेजी की ओर बढ़ रहे हैं।",
+    "category": "markets",
+    "categoryLabel": "शेयर बाज़ार & गोल्ड",
+    "featuredImage": "/uploads/news/nifty-sensex-market-outlook-foreign-inflow-0438.webp",
+    "authorName": "अमित मिश्रा",
+    "publishedAt": "2026-11-27T03:35:19.272Z",
+    "indexedInGoogle": true,
+    "sourcesCount": 1,
+    "sourceNames": [
+      "Livemint Markets"
+    ],
+    "isLegacyGuide": false
+  },
+  {
     "id": "lk-1795714224988-f0yn",
     "slug": "us-tariff-hike-impact-fed-interest-rates-0924",
     "url": "/news/us-tariff-hike-impact-fed-interest-rates-0924/",

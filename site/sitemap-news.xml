@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/nifty-500-earnings-market-outlook-q2-fy27-5565/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T03:35:29.688Z</news:publication_date>
+      <news:title>भारतीय शेयर बाजार की चाल: क्या Nifty 500 के दमदार नतीजों ने बदली निवेशकों की तस्वीर?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/nifty-sensex-market-outlook-foreign-inflow-0438/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T03:35:19.272Z</news:publication_date>
+      <news:title>शेयर बाजार में फिर रौनक: क्या Nifty 26,000 के पार बनाएगा नया रिकॉर्ड?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/us-tariff-hike-impact-fed-interest-rates-0924/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T08:25:16.074Z</news:publication_date>
       <news:title>ऑनलाइन शॉपिंग में सावधानी: चांदी के सिक्के की जगह राखी मिलने पर Amazon को लगा जुर्माना</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/nifty-26000-market-rally-outlook-4777/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T08:05:46.556Z</news:publication_date>
-      <news:title>Nifty 26000 का किला: क्या साल खत्म होने से पहले सेंसेक्स और निफ्टी तोड़ेंगे पुराना रिकॉर्ड?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/mutual-fund-direct-vs-regular-plan-analysis-0511/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T08:05:23.051Z</news:publication_date>
-      <news:title>म्यूचुअल फंड में डायरेक्ट vs रेगुलर प्लान: क्या वितरक के साथ रहने से मिलता है बेहतर रिटर्न?</news:title>
     </news:news>
   </url>
 </urlset>
