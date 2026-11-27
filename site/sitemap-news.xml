@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/bank-of-canada-interest-rate-hike-outlook-2651/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T21:27:17.810Z</news:publication_date>
+      <news:title>क्या दिसंबर में बढ़ेगी कनाडा की ब्याज दरें? कैनेडियन डॉलर में मजबूती के पीछे की वजह</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/gold-price-recovery-market-analysis-8957/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T21:27:07.526Z</news:publication_date>
+      <news:title>सोने की चमक में फिर लौटी जान, क्या अब खरीदारी का सही समय आ गया है?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/copper-prices-china-economic-stimulus-impact-9488/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T16:06:40.149Z</news:publication_date>
       <news:title>US Fed की दिसंबर बैठक और सोने की चाल: क्या फिर गिरेगा भाव या लौटेगी चमक?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/sip-payment-failure-cibil-impact-guide-1269/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T15:51:06.978Z</news:publication_date>
-      <news:title>SIP पेमेंट फेल होने पर क्या आपका CIBIL स्कोर गिरेगा? जानिए बैंक और फंड हाउस के नियम</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/sip-payment-failed-impact-cibil-score-3668/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T12:09:49.445Z</news:publication_date>
-      <news:title>SIP पेमेंट फेल होने पर क्या आपका CIBIL स्कोर खराब होगा? जानें सच और नुकसान</news:title>
     </news:news>
   </url>
 </urlset>
