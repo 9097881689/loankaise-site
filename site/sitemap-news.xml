@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/chennai-entrepreneur-vardhaman-jain-tirupati-gold-donation-1692/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T07:40:17.646Z</news:publication_date>
+      <news:title>चेन्नई के उद्यमी वर्धमान जैन ने तिरुपति मंदिर में दान किए 207 करोड़ के सोने के आभूषण</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/maharashtra-fda-tukaram-mundhe-restaurant-action-7784/</loc>
     <news:news>
       <news:publication>
@@ -538,17 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T10:00:49.400Z</news:publication_date>
       <news:title>Titan का नया दांव: SKINN और Fastrack के जरिए भारतीय परफ्यूम बाजार पर कब्ज़ा</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/8th-pay-commission-central-employees-update-1038/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T10:00:15.671Z</news:publication_date>
-      <news:title>8वें वेतन आयोग पर बड़ी अपडेट: क्या केंद्रीय कर्मचारियों की सैलरी में होगा इजाफा?</news:title>
     </news:news>
   </url>
 </urlset>
