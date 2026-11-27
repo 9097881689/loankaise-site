@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/bank-stock-under-100-jefferies-buy-rating-9966/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T04:55:24.268Z</news:publication_date>
+      <news:title>100 रुपये से कम का यह बैंक शेयर दे सकता है 15% का तगड़ा रिटर्न, जानें क्या है वजह</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/whiteoak-capital-equity-exposure-hike-9085/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T04:55:15.649Z</news:publication_date>
+      <news:title>WhiteOak Capital ने बढ़ाया इक्विटी एक्सपोजर: क्या बाजार में निवेश का सही मौका आ गया है?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/gift-city-investment-opportunities-for-indians-8350/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T09:50:16.856Z</news:publication_date>
       <news:title>GST रजिस्ट्रेशन कैंसिल कराने के नियम बदल गए: 1 दिसंबर से क्या होगा बदलाव?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/share-market-nifty-realty-it-rally-3651/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T09:46:47.768Z</news:publication_date>
-      <news:title>शेयर बाज़ार में आज की हलचल: निफ्टी 25,800 के पार, रियल्टी शेयरों में जबरदस्त तेज़ी</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/idbi-bank-pension-dispute-supreme-court-verdict-8759/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T09:46:34.515Z</news:publication_date>
-      <news:title>IDBI Bank पेंशन विवाद: सुप्रीम कोर्ट के फैसले का रिटायर्ड कर्मचारियों पर क्या असर?</news:title>
     </news:news>
   </url>
 </urlset>
