@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/it-stocks-short-selling-tcs-infosys-analysis-7354/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T05:00:32.072Z</news:publication_date>
+      <news:title>IT शेयरों में बड़ी गिरावट: TCS और Infosys समेत इन दिग्गज कंपनियों में क्यों बढ़ रही है शॉर्ट सेलिंग?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/gold-finance-stocks-muthoot-manappuram-rally-1490/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T05:00:17.390Z</news:publication_date>
+      <news:title>Gold Finance Stocks: सोने की कीमतों में उछाल से Muthoot और Manappuram में जोश, क्या निवेश का है सही मौका?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/bank-stock-under-100-jefferies-buy-rating-9966/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T09:55:26.946Z</news:publication_date>
       <news:title>CTC और इन-हैंड सैलरी का अंतर क्या है? कहीं आप भी तो नहीं हो रहे भ्रम का शिकार</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/buying-second-home-investment-tips-1945/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T09:50:26.410Z</news:publication_date>
-      <news:title>दूसरा घर खरीदने का बना रहे हैं प्लान? निवेश से पहले इन 6 बातों का रखें खास ध्यान</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/gst-registration-cancellation-rules-change-december-2286/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T09:50:16.856Z</news:publication_date>
-      <news:title>GST रजिस्ट्रेशन कैंसिल कराने के नियम बदल गए: 1 दिसंबर से क्या होगा बदलाव?</news:title>
     </news:news>
   </url>
 </urlset>
