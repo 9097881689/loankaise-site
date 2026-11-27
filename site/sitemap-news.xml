@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/gold-price-recovery-boosts-jewellery-stocks-3296/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T04:40:27.898Z</news:publication_date>
+      <news:title>सोने की चमक लौटते ही चमके ज्वेलरी स्टॉक्स: Titan और Kalyan Jewellers में क्यों आई तेजी?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/ixp-real-estate-aif-fund-launch-india-0909/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T04:40:18.817Z</news:publication_date>
+      <news:title>रियल एस्टेट में निवेश का नया मौका: 500 करोड़ का IXP Real Estate Fund लॉन्च</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/nifty-500-earnings-market-outlook-q2-fy27-5565/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T09:35:20.211Z</news:publication_date>
       <news:title>सोने की कीमतों में भारी गिरावट: क्या रिकॉर्ड स्तर से ₹58,500 सस्ता सोना खरीदना सही है?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/armed-forces-tribunal-pension-disabled-son-win-2115/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T08:25:27.615Z</news:publication_date>
-      <news:title>आर्मी पेंशन के लिए 9 साल की लंबी कानूनी लड़ाई, दिव्यांग बेटे को आखिर कैसे मिला हक?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/amazon-wrong-delivery-consumer-commission-ruling-9869/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T08:25:16.074Z</news:publication_date>
-      <news:title>ऑनलाइन शॉपिंग में सावधानी: चांदी के सिक्के की जगह राखी मिलने पर Amazon को लगा जुर्माना</news:title>
     </news:news>
   </url>
 </urlset>
