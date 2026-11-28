@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/indian-bond-yield-oil-price-rbi-hike-3763/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T04:46:08.695Z</news:publication_date>
+      <news:title>सरकारी बॉन्ड में भारी गिरावट: क्या कच्चे तेल की बढ़ती कीमतों से RBI बढ़ाएगा ब्याज दरें?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/us-stock-market-rally-nasdaq-dow-gains-7237/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T04:45:51.961Z</news:publication_date>
+      <news:title>अमेरिकी शेयर बाजार में जोरदार तेजी: नैस्डैक 2% उछला, डाओ जोंस ने लगाई 600 अंकों की छलांग</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/jindal-drilling-share-price-target-analysis-5925/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-28T02:35:34.760Z</news:publication_date>
       <news:title>8th Pay Commission: 2028 तक देरी करना सरकार के लिए क्यों पड़ सकता है महंगा?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/are-banks-open-on-november-28-holiday-list-7376/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T02:30:32.510Z</news:publication_date>
-      <news:title>क्या 28 नवंबर को बैंक खुले रहेंगे? जानें बैंक हॉलिडे और छुट्टियों का पूरा कैलेंडर</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/tech-mahindra-bonus-stock-split-ex-date-1863/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T02:30:16.522Z</news:publication_date>
-      <news:title>अगले हफ्ते शेयर बाजार में एक्शन: Tech Mahindra समेत इन स्टॉक्स में बोनस और स्प्लिट की धूम</news:title>
     </news:news>
   </url>
 </urlset>
