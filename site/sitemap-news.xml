@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/retirement-corpus-withdrawal-planning-strategy-9306/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T03:35:33.719Z</news:publication_date>
+      <news:title>रिटायरमेंट के 1.5 करोड़ रुपये का फंड: कहीं आपकी पेंशन 10 साल में ही तो खत्म नहीं हो जाएगी?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/top-stocks-to-buy-nifty-outlook-6031/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T03:35:21.122Z</news:publication_date>
+      <news:title>शेयर बाज़ार में गिरावट के बीच ये 3 स्टॉक्स दिला सकते हैं मुनाफा, एक्सपर्ट की राय</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/donald-trump-gdp-data-controversy-impact-9143/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-27T03:35:29.688Z</news:publication_date>
       <news:title>भारतीय शेयर बाजार की चाल: क्या Nifty 500 के दमदार नतीजों ने बदली निवेशकों की तस्वीर?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/nifty-sensex-market-outlook-foreign-inflow-0438/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-27T03:35:19.272Z</news:publication_date>
-      <news:title>शेयर बाजार में फिर रौनक: क्या Nifty 26,000 के पार बनाएगा नया रिकॉर्ड?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/us-tariff-hike-impact-fed-interest-rates-0924/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T17:30:24.988Z</news:publication_date>
-      <news:title>US टैरिफ में बदलाव से क्या भारतीय बाज़ार पर पड़ेगा असर? फेडरल रिजर्व के फैसले पर सबकी नज़र</news:title>
     </news:news>
   </url>
 </urlset>
