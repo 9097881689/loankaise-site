@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/nvidia-ai-rally-impact-on-indian-stocks-9417/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T02:26:45.924Z</news:publication_date>
+      <news:title>Nvidia की AI क्रांति का भारतीय बाज़ार पर असर: क्या Netweb जैसे शेयर दिलाएंगे बड़ा मुनाफा?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/ai-stocks-rally-sp500-market-update-4208/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T02:25:59.668Z</news:publication_date>
+      <news:title>AI शेयरों में लौटी बहार: S&amp;P 500 ने हासिल की अप्रैल 2025 के बाद की सबसे बड़ी बढ़त</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/bank-of-canada-interest-rate-hike-outlook-2651/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T16:14:14.135Z</news:publication_date>
       <news:title>पुराने PF अकाउंट में जमा पैसों पर क्या अब भी मिलता है ब्याज? EPFO के नए नियम जानें</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/motilal-oswal-launches-five-new-etfs-0361/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T16:13:56.157Z</news:publication_date>
-      <news:title>Motilal Oswal के 5 नए ETFs: बैंकिंग से लेकर रियल एस्टेट तक में निवेश का मौका</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/us-fed-meeting-impact-gold-prices-6166/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T16:06:40.149Z</news:publication_date>
-      <news:title>US Fed की दिसंबर बैठक और सोने की चाल: क्या फिर गिरेगा भाव या लौटेगी चमक?</news:title>
     </news:news>
   </url>
 </urlset>
