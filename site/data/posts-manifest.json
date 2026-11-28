@@ -1,5 +1,41 @@
 [
   {
+    "id": "lk-1795842926264-rqu6",
+    "slug": "rbi-repo-rate-hike-prediction-december-2080",
+    "url": "/news/rbi-repo-rate-hike-prediction-december-2080/",
+    "title": "RBI Repo Rate Hike: क्या दिसंबर में 50 bps तक बढ़ सकती हैं ब्याज दरें? जानें क्या है एक्सपर्ट्स की राय",
+    "subtitle": "महंगाई के बढ़ते आंकड़ों के बीच नोमुरा और बैंक ऑफ बड़ौदा ने रेपो रेट बढ़ोतरी को लेकर जारी किए अलग-अलग अनुमान।",
+    "category": "banking-rbi",
+    "categoryLabel": "बैंकिंग & RBI",
+    "featuredImage": "/uploads/news/rbi-repo-rate-hike-prediction-december-2080.webp",
+    "authorName": "राहुल शर्मा",
+    "publishedAt": "2026-11-28T05:15:26.264Z",
+    "indexedInGoogle": true,
+    "sourcesCount": 1,
+    "sourceNames": [
+      "Business Standard Finance"
+    ],
+    "isLegacyGuide": false
+  },
+  {
+    "id": "lk-1795842916110-udyr",
+    "slug": "8th-pay-commission-da-vs-dr-explained-0451",
+    "url": "/news/8th-pay-commission-da-vs-dr-explained-0451/",
+    "title": "8th Pay Commission: महंगाई भत्ते (DA) और राहत (DR) में क्या है अंतर? जानें कौन है हकदार",
+    "subtitle": "आठवें वेतन आयोग की चर्चा के बीच समझें कि सरकारी कर्मचारियों और पेंशनभोगियों के लिए ये दो बड़े भत्ते कैसे काम करते हैं।",
+    "category": "personal-finance",
+    "categoryLabel": "पर्सनल फाइनेंस",
+    "featuredImage": "/uploads/news/8th-pay-commission-da-vs-dr-explained-0451.webp",
+    "authorName": "प्रिया वर्मा",
+    "publishedAt": "2026-11-28T05:15:16.110Z",
+    "indexedInGoogle": true,
+    "sourcesCount": 1,
+    "sourceNames": [
+      "CNBC-TV18 Personal Finance"
+    ],
+    "isLegacyGuide": false
+  },
+  {
     "id": "lk-1795842631936-9zwv",
     "slug": "nestle-india-epfo-penalty-notice-explained-7963",
     "url": "/news/nestle-india-epfo-penalty-notice-explained-7963/",
