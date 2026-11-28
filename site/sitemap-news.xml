@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/ssb-man-investment-fraud-ed-raids-0354/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T11:45:15.662Z</news:publication_date>
+      <news:title>SSB के पूर्व जवान का &apos;सेफ इन्वेस्टमेंट प्लान&apos; बना निवेशकों के लिए मुसीबत, 70 करोड़ की धोखाधड़ी पर ED की बड़ी कार्रवाई</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/bpcl-1-27-lakh-crore-refinery-project-andhra-4274/</loc>
     <news:news>
       <news:publication>
@@ -538,17 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-28T07:10:16.245Z</news:publication_date>
       <news:title>शाहरुख खान का &apos;ऑरा फार्मिंग&apos; वाला नया अंदाज़: क्या है ये वायरल जेने-जी शब्द?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/govt-plans-gst-tax-administration-overhaul-9513/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T07:05:23.533Z</news:publication_date>
-      <news:title>GST लागू करने की बड़ी तैयारी: CBEC में बड़े बदलाव और नए कमिश्नरेट का पूरा प्लान</news:title>
     </news:news>
   </url>
 </urlset>
