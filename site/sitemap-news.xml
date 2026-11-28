@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/monsoon-deficit-impact-on-psu-banks-gold-loans-1835/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T10:25:37.137Z</news:publication_date>
+      <news:title>मानसून की बेरुखी से सरकारी बैंकों की चिंता बढ़ी, गोल्ड लोन बना नया सहारा</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/gold-loan-ltv-risk-price-fall-2901/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T10:25:18.389Z</news:publication_date>
+      <news:title>सोने की कीमतों में बड़ी गिरावट: क्या आपका गोल्ड लोन जोखिम में है? जानें बैंक के एक्शन</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/stock-market-correction-warnings-crude-oil-7833/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-28T06:20:23.211Z</news:publication_date>
       <news:title>Bajaj Finance से भी तेज दौड़ रही हैं ये 3 NBFCs, आधे दाम पर मिल रहा निवेश का मौका</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/rbi-policy-bond-market-interest-rate-outlook-9402/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T06:20:15.130Z</news:publication_date>
-      <news:title>RBI की अगली पॉलिसी से पहले बॉन्ड मार्केट में हलचल, क्या ब्याज दरों में होगा इजाफा?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/best-psu-bank-stocks-trading-below-historical-valuation-9235/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T06:00:22.918Z</news:publication_date>
-      <news:title>इन 5 सरकारी बैंकों के शेयरों में है निवेश का मौका, ऐतिहासिक वैल्यूएशन से हैं सस्ते</news:title>
     </news:news>
   </url>
 </urlset>
