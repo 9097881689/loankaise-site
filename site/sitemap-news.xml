@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/gold-silver-price-recovery-analysis-india-1922/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T07:55:17.450Z</news:publication_date>
+      <news:title>सोने-चांदी में जोरदार वापसी: क्या अब तेजी बनी रहेगी या फिर आएगा नया क्रैश?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/trading-debt-trap-case-study-0533/</loc>
     <news:news>
       <news:publication>
@@ -538,17 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-28T05:15:26.264Z</news:publication_date>
       <news:title>RBI Repo Rate Hike: क्या दिसंबर में 50 bps तक बढ़ सकती हैं ब्याज दरें? जानें क्या है एक्सपर्ट्स की राय</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/8th-pay-commission-da-vs-dr-explained-0451/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T05:15:16.110Z</news:publication_date>
-      <news:title>8th Pay Commission: महंगाई भत्ते (DA) और राहत (DR) में क्या है अंतर? जानें कौन है हकदार</news:title>
     </news:news>
   </url>
 </urlset>
