@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/gold-price-rally-december-outlook-1149/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T07:30:18.336Z</news:publication_date>
+      <news:title>सोने की चाल ने निवेशकों को चौंकाया: डॉलर और बॉन्ड यील्ड की तेजी के बीच क्यों चमक रहा पीला धातु?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/indian-share-market-nifty-sensex-update-8878/</loc>
     <news:news>
       <news:publication>
@@ -538,17 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-28T05:05:16.895Z</news:publication_date>
       <news:title>डिफेंस सेक्टर में फिर आएगी तेजी? BEL, HAL और Solar Industries पर एक्सपर्ट्स की राय</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/rbi-governor-fta-export-benefits-utilization-1864/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T05:00:26.997Z</news:publication_date>
-      <news:title>भारतीय एक्सपोर्टर्स क्यों नहीं उठा पा रहे FTA का पूरा फायदा? RBI गवर्नर की चिंता</news:title>
     </news:news>
   </url>
 </urlset>
