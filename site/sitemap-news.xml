@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/sebi-fpi-onboarding-market-reforms-india-9664/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T03:40:33.941Z</news:publication_date>
+      <news:title>SEBI का बड़ा ऐलान: अब विदेशी निवेशकों के लिए भारत में निवेश होगा सुपरफास्ट</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/zee-entertainment-share-buyback-details-5480/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T03:40:20.372Z</news:publication_date>
+      <news:title>Zee Entertainment का 600 करोड़ का बायबैक: 1 दिसंबर से शुरू, निवेशकों को कैसे मिलेगा फायदा?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/retirement-corpus-withdrawal-planning-strategy-9306/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-27T04:40:27.898Z</news:publication_date>
       <news:title>सोने की चमक लौटते ही चमके ज्वेलरी स्टॉक्स: Titan और Kalyan Jewellers में क्यों आई तेजी?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/ixp-real-estate-aif-fund-launch-india-0909/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-27T04:40:18.817Z</news:publication_date>
-      <news:title>रियल एस्टेट में निवेश का नया मौका: 500 करोड़ का IXP Real Estate Fund लॉन्च</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/nifty-500-earnings-market-outlook-q2-fy27-5565/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-27T03:35:29.688Z</news:publication_date>
-      <news:title>भारतीय शेयर बाजार की चाल: क्या Nifty 500 के दमदार नतीजों ने बदली निवेशकों की तस्वीर?</news:title>
     </news:news>
   </url>
 </urlset>
