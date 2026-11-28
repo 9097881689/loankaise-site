@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/kalyan-jewellers-share-target-hsbc-analysis-8926/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T10:55:13.515Z</news:publication_date>
+      <news:title>Kalyan Jewellers Share: 878% रिटर्न के बाद क्या अभी भी है पैसा कमाने का मौका?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/silver-price-fall-post-dhanteras-investment-loss-1203/</loc>
     <news:news>
       <news:publication>
@@ -538,17 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-28T06:45:14.116Z</news:publication_date>
       <news:title>Mrugesh Trading Share: 2350% का रिटर्न, लगातार 14 दिनों से अपर सर्किट में फंसा शेयर</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/sip-investment-market-volatility-strategy-4219/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T06:40:28.965Z</news:publication_date>
-      <news:title>SIP का बढ़ता क्रेज और बाजार की सच्चाई: क्या 31,500 करोड़ का निवेश सुरक्षित है?</news:title>
     </news:news>
   </url>
 </urlset>
