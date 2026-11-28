@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/wall-street-stock-market-rally-update-3963/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T03:05:38.089Z</news:publication_date>
+      <news:title>Wall Street की शानदार वापसी: AI शेयरों में खरीदारी से डाओ और नैस्डैक ने भरी उड़ान</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/rbi-new-atm-card-withdrawal-rules-4696/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T03:05:21.377Z</news:publication_date>
+      <news:title>RBI का ATM और कार्ड नियमों पर बड़ा फैसला: अब ट्रांजैक्शन फेल होने पर नहीं कटेगा पैसा</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/david-chilton-wealthy-barber-retirement-tips-6175/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T17:00:36.335Z</news:publication_date>
       <news:title>सरकारी खजाने की बहार: CPSE डिविडेंड से सरकार को अब तक मिली इतनी बड़ी रकम</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/us-stock-market-closed-thanksgiving-impact-2170/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T17:00:27.360Z</news:publication_date>
-      <news:title>अमेरिकी शेयर बाज़ार आज बंद: थैंक्सगिविंग की छुट्टी का ग्लोबल मार्केट पर असर</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/health-insurance-premium-tips-selection-7514/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T16:55:41.628Z</news:publication_date>
-      <news:title>हेल्थ इंश्योरेंस प्रीमियम में बढ़ोतरी: क्या आपका कवर आपकी जेब पर भारी पड़ रहा है?</news:title>
     </news:news>
   </url>
 </urlset>
