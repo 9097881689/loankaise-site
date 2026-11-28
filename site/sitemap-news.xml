@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/nifty-market-correction-outlook-investment-strategy-9836/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T02:35:45.194Z</news:publication_date>
+      <news:title>शेयर बाज़ार में गिरावट का दौर: क्या 25,000 के स्तर तक लुढ़क सकता है निफ्टी?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/8th-pay-commission-delay-fiscal-impact-3008/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T02:35:34.760Z</news:publication_date>
+      <news:title>8th Pay Commission: 2028 तक देरी करना सरकार के लिए क्यों पड़ सकता है महंगा?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/are-banks-open-on-november-28-holiday-list-7376/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T16:35:31.028Z</news:publication_date>
       <news:title>Nifty का भविष्य: क्या 22,000 के स्तर तक गिर सकता है भारतीय शेयर बाज़ार?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/budget-2027-education-tech-proposals-5804/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T16:35:20.341Z</news:publication_date>
-      <news:title>Budget 2027: वित्त मंत्रालय को मिला अनोखा सुझाव, 5वीं कक्षा के बच्चों को अखबार पढ़ाने की तैयारी</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/december-1-sbi-card-sebi-rule-changes-8376/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T16:31:42.694Z</news:publication_date>
-      <news:title>1 दिसंबर से जेब पर बड़ा असर: SBI क्रेडिट कार्ड के नियम और SEBI के बदलाव</news:title>
     </news:news>
   </url>
 </urlset>
