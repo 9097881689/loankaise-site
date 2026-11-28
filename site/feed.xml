@@ -7,7 +7,23 @@
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <description>ताज़ा फाइनेंस न्यूज़, लोन गाइड्स, RBI अपडेट्स और बैंकिंग टूल्स हिंदी में।</description>
     <language>hi-in</language>
-    <lastBuildDate>Sat, 28 Nov 2026 04:01:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:07:30 GMT</lastBuildDate>
+    <item>
+      <title>बैंकिंग सिस्टम में लिक्विडिटी कम होते ही RBI ने बदला नियम, सीआरआर पर बड़ा फैसला</title>
+      <link>https://loankaise.in/news/rbi-restores-90-percent-daily-crr-requirement-3756/</link>
+      <guid isPermaLink="true">https://loankaise.in/news/rbi-restores-90-percent-daily-crr-requirement-3756/</guid>
+      <pubDate>Sat, 28 Nov 2026 04:07:28 GMT</pubDate>
+      <category>बैंकिंग &amp; RBI</category>
+      <description>रिजर्व बैंक ने बैंकों के लिए दैनिक सीआरआर (CRR) की न्यूनतम सीमा को बढ़ाकर 90% कर दिया है, जिसका असर बॉन्ड मार्केट पर दिख रहा है।</description>
+    </item>
+    <item>
+      <title>विदेशी संपत्ति के संयुक्त मालिकों के लिए आयकर विभाग का कड़ा नियम</title>
+      <link>https://loankaise.in/news/foreign-asset-joint-owner-tax-disclosure-9217/</link>
+      <guid isPermaLink="true">https://loankaise.in/news/foreign-asset-joint-owner-tax-disclosure-9217/</guid>
+      <pubDate>Sat, 28 Nov 2026 04:06:24 GMT</pubDate>
+      <category>टैक्स &amp; बचत</category>
+      <description>यदि आपके पास भी विदेश में कोई संयुक्त संपत्ति है, तो अब टैक्स रिटर्न भरते समय अपने हिस्से का पूरा खुलासा करना अनिवार्य कर दिया गया है।</description>
+    </item>
     <item>
       <title>SIP का बदलता दौर: क्या आप जानते हैं 26% की रफ्तार से क्यों बढ़ रहा है निवेशकों का भरोसा?</title>
       <link>https://loankaise.in/news/sip-investment-trends-india-growth-9660/</link>
@@ -231,22 +247,6 @@
       <pubDate>Sat, 28 Nov 2026 02:55:28 GMT</pubDate>
       <category>पर्सनल फाइनेंस</category>
       <description>केंद्र सरकार के कर्मचारियों और पेंशनभोगियों के मन में उठ रहे वेतन वृद्धि के सवालों पर विशेषज्ञों ने स्थिति स्पष्ट की है।</description>
-    </item>
-    <item>
-      <title>Wall Street में AI शेयरों की जोरदार वापसी, निवेशकों के लिए क्या हैं संकेत?</title>
-      <link>https://loankaise.in/news/wall-street-ai-stocks-market-update-9297/</link>
-      <guid isPermaLink="true">https://loankaise.in/news/wall-street-ai-stocks-market-update-9297/</guid>
-      <pubDate>Sat, 28 Nov 2026 02:45:43 GMT</pubDate>
-      <category>शेयर बाज़ार &amp; गोल्ड</category>
-      <description>हफ्ते भर की उठापटक के बाद अमेरिकी बाज़ार में लौटी रौनक, जानिए टेक स्टॉक्स में आई इस तेजी के पीछे की कहानी।</description>
-    </item>
-    <item>
-      <title>EPF का पैसा अब बनेगा पेंशन का जरिया: 20, 40 और 75 लाख के फंड पर कितनी मिलेगी मंथली इनकम?</title>
-      <link>https://loankaise.in/news/epf-swp-retirement-income-plan-explained-5733/</link>
-      <guid isPermaLink="true">https://loankaise.in/news/epf-swp-retirement-income-plan-explained-5733/</guid>
-      <pubDate>Sat, 28 Nov 2026 02:45:31 GMT</pubDate>
-      <category>पर्सनल फाइनेंस</category>
-      <description>रिटायरमेंट के बाद EPF बैलेंस से सिस्टमैटिक विड्रॉल प्लान (SWP) के जरिए अपनी पेंशन खुद तय करने का मौका, जानिए क्या है पूरा गणित।</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,42 @@
 [
   {
+    "id": "lk-1795838848439-co7l",
+    "slug": "rbi-restores-90-percent-daily-crr-requirement-3756",
+    "url": "/news/rbi-restores-90-percent-daily-crr-requirement-3756/",
+    "title": "बैंकिंग सिस्टम में लिक्विडिटी कम होते ही RBI ने बदला नियम, सीआरआर पर बड़ा फैसला",
+    "subtitle": "रिजर्व बैंक ने बैंकों के लिए दैनिक सीआरआर (CRR) की न्यूनतम सीमा को बढ़ाकर 90% कर दिया है, जिसका असर बॉन्ड मार्केट पर दिख रहा है।",
+    "category": "banking-rbi",
+    "categoryLabel": "बैंकिंग & RBI",
+    "featuredImage": "/uploads/news/rbi-restores-90-percent-daily-crr-requirement-3756.webp",
+    "authorName": "राहुल शर्मा",
+    "publishedAt": "2026-11-28T04:07:28.439Z",
+    "indexedInGoogle": true,
+    "sourcesCount": 2,
+    "sourceNames": [
+      "Financial Express Finance",
+      "Business Standard Finance"
+    ],
+    "isLegacyGuide": false
+  },
+  {
+    "id": "lk-1795838784019-4wb7",
+    "slug": "foreign-asset-joint-owner-tax-disclosure-9217",
+    "url": "/news/foreign-asset-joint-owner-tax-disclosure-9217/",
+    "title": "विदेशी संपत्ति के संयुक्त मालिकों के लिए आयकर विभाग का कड़ा नियम",
+    "subtitle": "यदि आपके पास भी विदेश में कोई संयुक्त संपत्ति है, तो अब टैक्स रिटर्न भरते समय अपने हिस्से का पूरा खुलासा करना अनिवार्य कर दिया गया है।",
+    "category": "tax-saving",
+    "categoryLabel": "टैक्स & बचत",
+    "featuredImage": "/uploads/news/foreign-asset-joint-owner-tax-disclosure-9217.webp",
+    "authorName": "प्रिया वर्मा",
+    "publishedAt": "2026-11-28T04:06:24.018Z",
+    "indexedInGoogle": true,
+    "sourcesCount": 1,
+    "sourceNames": [
+      "Financial Express Finance"
+    ],
+    "isLegacyGuide": false
+  },
+  {
     "id": "lk-1795838474274-45by",
     "slug": "sip-investment-trends-india-growth-9660",
     "url": "/news/sip-investment-trends-india-growth-9660/",
