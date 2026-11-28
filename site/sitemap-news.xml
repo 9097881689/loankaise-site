@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/sip-investment-trends-india-growth-9660/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T04:01:14.274Z</news:publication_date>
+      <news:title>SIP का बदलता दौर: क्या आप जानते हैं 26% की रफ्तार से क्यों बढ़ रहा है निवेशकों का भरोसा?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/nvidia-halts-ai-chip-shipments-southeast-asia-7209/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T04:00:52.013Z</news:publication_date>
+      <news:title>Nvidia का बड़ा फैसला: दक्षिण-पूर्व एशिया में AI चिप्स की सप्लाई पर क्यों लगी रोक?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/rbi-new-guidelines-money-mule-accounts-cyber-fraud-8510/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-27T05:00:32.072Z</news:publication_date>
       <news:title>IT शेयरों में बड़ी गिरावट: TCS और Infosys समेत इन दिग्गज कंपनियों में क्यों बढ़ रही है शॉर्ट सेलिंग?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/gold-finance-stocks-muthoot-manappuram-rally-1490/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-27T05:00:17.390Z</news:publication_date>
-      <news:title>Gold Finance Stocks: सोने की कीमतों में उछाल से Muthoot और Manappuram में जोश, क्या निवेश का है सही मौका?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/bank-stock-under-100-jefferies-buy-rating-9966/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-27T04:55:24.268Z</news:publication_date>
-      <news:title>100 रुपये से कम का यह बैंक शेयर दे सकता है 15% का तगड़ा रिटर्न, जानें क्या है वजह</news:title>
     </news:news>
   </url>
 </urlset>
