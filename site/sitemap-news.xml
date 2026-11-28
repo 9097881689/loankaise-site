@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/are-banks-open-on-november-28-holiday-list-7376/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T02:30:32.510Z</news:publication_date>
+      <news:title>क्या 28 नवंबर को बैंक खुले रहेंगे? जानें बैंक हॉलिडे और छुट्टियों का पूरा कैलेंडर</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/tech-mahindra-bonus-stock-split-ex-date-1863/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T02:30:16.522Z</news:publication_date>
+      <news:title>अगले हफ्ते शेयर बाजार में एक्शन: Tech Mahindra समेत इन स्टॉक्स में बोनस और स्प्लिट की धूम</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/nvidia-ai-rally-impact-on-indian-stocks-9417/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T16:31:42.694Z</news:publication_date>
       <news:title>1 दिसंबर से जेब पर बड़ा असर: SBI क्रेडिट कार्ड के नियम और SEBI के बदलाव</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/chennai-couple-donates-206-crore-gold-tirupati-4430/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T16:30:28.935Z</news:publication_date>
-      <news:title>तिरुपति मंदिर को 206 करोड़ का दान: चेन्नई के इस कपल ने रचा इतिहास, जानिए क्या है पूरी कहानी</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/epfo-interest-rules-inactive-pf-account-9963/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T16:14:14.135Z</news:publication_date>
-      <news:title>पुराने PF अकाउंट में जमा पैसों पर क्या अब भी मिलता है ब्याज? EPFO के नए नियम जानें</news:title>
     </news:news>
   </url>
 </urlset>
