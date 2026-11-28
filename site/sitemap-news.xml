@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/gold-loan-growth-women-tier-3-borrowers-3714/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T04:50:27.728Z</news:publication_date>
+      <news:title>गोल्ड लोन की मांग में 60% का बड़ा उछाल: छोटे शहरों की महिलाएं बनीं नई लीडर</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/rbi-msme-credit-flow-kolkata-meeting-2622/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T04:50:18.383Z</news:publication_date>
+      <news:title>MSME लोन को आसान बनाने की तैयारी: RBI ने बैंकों को दिया &apos;कोलैटरल-फ्री&apos; क्रेडिट का मंत्र</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/indian-bond-yield-oil-price-rbi-hike-3763/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-28T02:40:44.631Z</news:publication_date>
       <news:title>शेयर बाजार के रिकॉर्ड हाई पर SIP शुरू करें या गिरावट का इंतज़ार? डेटा क्या कहता है</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/nifty-market-correction-outlook-investment-strategy-9836/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T02:35:45.194Z</news:publication_date>
-      <news:title>शेयर बाज़ार में गिरावट का दौर: क्या 25,000 के स्तर तक लुढ़क सकता है निफ्टी?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/8th-pay-commission-delay-fiscal-impact-3008/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T02:35:34.760Z</news:publication_date>
-      <news:title>8th Pay Commission: 2028 तक देरी करना सरकार के लिए क्यों पड़ सकता है महंगा?</news:title>
     </news:news>
   </url>
 </urlset>
