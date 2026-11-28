@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/epf-corpus-monthly-income-withdrawal-strategy-5234/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T05:40:30.130Z</news:publication_date>
+      <news:title>EPF कॉर्पस से हर महीने पाएं मोटी कमाई: 50 लाख के फंड से रिटायरमेंट प्लानिंग का पूरा गणित</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/microfinance-sector-drought-impact-banks-nbfcs-1845/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T05:40:17.934Z</news:publication_date>
+      <news:title>माइक्रो फाइनेंस सेक्टर पर सूखे का साया: क्या बैंकों और NBFCs के लोन पोर्टफोलियो पर बढ़ेगा दबाव?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/pet-insurance-benefits-claims-guide-3896/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-28T03:35:21.122Z</news:publication_date>
       <news:title>शेयर बाज़ार में गिरावट के बीच ये 3 स्टॉक्स दिला सकते हैं मुनाफा, एक्सपर्ट की राय</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/donald-trump-gdp-data-controversy-impact-9143/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T03:30:54.847Z</news:publication_date>
-      <news:title>GDP आंकड़ों पर डोनाल्ड ट्रंप ने उठाए सवाल: &apos;फर्जी&apos; डेटा की जांच की मांग से गरमाई सियासत</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/top-10-financial-trends-year-end-investment-0193/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T03:30:36.691Z</news:publication_date>
-      <news:title>निवेशकों के लिए साल का अंत: Nvidia से लेकर अमेरिकी बाज़ार तक इन 10 बड़े बदलावों पर रखें नज़र</news:title>
     </news:news>
   </url>
 </urlset>
