@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/sip-vs-nps-retirement-investment-strategy-2016/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T05:05:26.297Z</news:publication_date>
+      <news:title>रिटायरमेंट प्लानिंग: 5000 रुपये की SIP बेहतर या NPS? समझें निवेश का गणित</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/defence-stocks-rally-bel-hal-solar-industries-1040/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T05:05:16.895Z</news:publication_date>
+      <news:title>डिफेंस सेक्टर में फिर आएगी तेजी? BEL, HAL और Solar Industries पर एक्सपर्ट्स की राय</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/rbi-governor-fta-export-benefits-utilization-1864/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-28T03:00:15.248Z</news:publication_date>
       <news:title>Nestlé India को EPFO का झटका: 36 लाख रुपये का जुर्माना और डैमेज नोटिस जारी</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/global-stock-market-recovery-nvidia-micron-4019/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T02:55:40.204Z</news:publication_date>
-      <news:title>शेयर बाजार में जोरदार रिकवरी: 3.5 ट्रिलियन डॉलर की उछाल से निवेशकों को राहत</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/8th-pay-commission-interim-report-salary-hike-9397/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T02:55:28.048Z</news:publication_date>
-      <news:title>8th Pay Commission: क्या अंतरिम रिपोर्ट से बढ़ेगी सैलरी? कर्मचारियों के लिए बड़ी सच्चाई</news:title>
     </news:news>
   </url>
 </urlset>
