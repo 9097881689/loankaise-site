@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/us-market-volatility-impact-indian-investors-4855/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T04:20:49.447Z</news:publication_date>
+      <news:title>अमेरिकी जॉब डेटा और AI शेयरों की हलचल: भारतीय निवेशकों के लिए क्या है संकेत?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/european-market-rally-spain-election-impact-4287/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T04:20:30.263Z</news:publication_date>
+      <news:title>यूरोपीय बाजारों में लौटी रौनक: क्या स्पेन चुनाव का असर भारतीय शेयरों पर पड़ेगा?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/global-dollar-strength-impact-indian-stocks-3830/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-27T18:43:23.152Z</news:publication_date>
       <news:title>Axis Mutual Fund का नया Nifty LargeMidcap 250 Index Fund: क्या आपको निवेश करना चाहिए?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/rbi-brings-back-gold-reserves-india-6543/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-27T18:36:01.113Z</news:publication_date>
-      <news:title>RBI ने क्यों मंगवाया अपना 60 टन सोना? जानिए भारत के विदेशी भंडार की नई रणनीति</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/gold-price-recovery-india-market-analysis-2624/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-27T18:35:51.032Z</news:publication_date>
-      <news:title>सोने की कीमतों में फिर लौटी चमक: क्या 15 महीने के निचले स्तर से रिकवरी का दौर शुरू हो गया है?</news:title>
     </news:news>
   </url>
 </urlset>
