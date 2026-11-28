@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/bpcl-1-27-lakh-crore-refinery-project-andhra-4274/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T11:40:48.510Z</news:publication_date>
+      <news:title>BPCL का बड़ा दांव: आंध्र प्रदेश में 1.27 लाख करोड़ से बनेगा मेगा रिफाइनरी प्रोजेक्ट</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/panchayat-season-5-kevin-pietersen-phulera-3760/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T11:40:19.427Z</news:publication_date>
+      <news:title>Panchayat Season 5: फुलेरा की गलियों में दिखे केविन पीटरसन, क्या है प्राइम वीडियो का नया दांव?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/rbi-scrutiny-gold-loan-market-risks-9290/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-28T07:05:23.533Z</news:publication_date>
       <news:title>GST लागू करने की बड़ी तैयारी: CBEC में बड़े बदलाव और नए कमिश्नरेट का पूरा प्लान</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/bse-sensex-index-rejig-shriram-finance-trent-8061/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T07:05:13.901Z</news:publication_date>
-      <news:title>BSE Sensex Rejig: अब इंडेक्स में होगा श्रीराम फाइनेंस का दबदबा, ट्रेंट बाहर</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/navneet-education-stock-target-analysis-2246/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T07:00:35.962Z</news:publication_date>
-      <news:title>Navneet Education: क्या 182 रुपये के टारगेट के लिए दांव लगाना सही है?</news:title>
     </news:news>
   </url>
 </urlset>
