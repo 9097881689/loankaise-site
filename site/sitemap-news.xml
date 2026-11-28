@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/hal-share-price-target-buy-rating-2244/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T09:48:39.047Z</news:publication_date>
+      <news:title>HAL Share Price: डिफेंस सेक्टर के इस दिग्गज शेयर में 31% की तेजी के संकेत, जानें क्यों है खरीदारी का मौका</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/gold-price-outlook-us-inflation-fed-rates-6439/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T09:48:22.385Z</news:publication_date>
+      <news:title>सोने की कीमतों में रिकवरी: क्या $3650 का स्तर पार कर पाएगा पीली धातु का भाव?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/stock-market-crash-nifty-sensex-analysis-7053/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-28T05:25:32.381Z</news:publication_date>
       <news:title>शेयर बाजार की गिरावट से लाइव टीवी पर रो पड़ीं एंकर, निवेशकों के दर्द को बयां कर वायरल हुआ वीडियो</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/gold-silver-price-rebound-november-2026-9762/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T05:25:16.245Z</news:publication_date>
-      <news:title>सोने-चांदी की कीमतों में जोरदार उछाल: 27 नवंबर को क्या हैं लेटेस्ट भाव?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/top-performing-microcap-stocks-market-gains-1815/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T05:20:27.104Z</news:publication_date>
-      <news:title>बाजार की गिरावट में भी चमके ये 8 माइक्रो-कैप स्टॉक्स, निवेशकों को दिया 50% तक मुनाफा</news:title>
     </news:news>
   </url>
 </urlset>
