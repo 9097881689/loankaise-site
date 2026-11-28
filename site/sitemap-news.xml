@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/vardhman-jain-tirupati-balaji-gold-donation-9441/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T05:50:45.816Z</news:publication_date>
+      <news:title>चेन्नई के बिजनेसमैन वर्धमान जैन का तिरुपति बालाजी को 206 करोड़ का दान, जानिए कौन हैं ये दानवीर</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/suzlon-energy-tata-group-wind-repowering-order-8865/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T05:50:34.771Z</news:publication_date>
+      <news:title>Suzlon Energy: टाटा ग्रुप के नए ऑर्डर से क्या सुजलॉन में फिर लौटेगी तेजी?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/chennai-liquor-truck-accident-loot-incident-7608/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-28T03:45:16.486Z</news:publication_date>
       <news:title>RBI का नया फरमान: अब बैंक संदिग्ध ट्रांजैक्शन को तुरंत करेंगे होल्ड, ग्राहकों का पैसा रहेगा सुरक्षित</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/sebi-fpi-onboarding-market-reforms-india-9664/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T03:40:33.941Z</news:publication_date>
-      <news:title>SEBI का बड़ा ऐलान: अब विदेशी निवेशकों के लिए भारत में निवेश होगा सुपरफास्ट</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/zee-entertainment-share-buyback-details-5480/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T03:40:20.372Z</news:publication_date>
-      <news:title>Zee Entertainment का 600 करोड़ का बायबैक: 1 दिसंबर से शुरू, निवेशकों को कैसे मिलेगा फायदा?</news:title>
     </news:news>
   </url>
 </urlset>
