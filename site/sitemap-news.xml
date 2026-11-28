@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/stock-market-crash-nifty-sensex-analysis-7053/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T09:07:40.874Z</news:publication_date>
+      <news:title>शेयर बाजार में बड़ी गिरावट: निफ्टी और सेंसेक्स में भारी बिकवाली, अब क्या करें निवेशक?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/pfrda-nps-retirement-planning-updates-6439/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T09:07:32.466Z</news:publication_date>
+      <news:title>रिटायरमेंट प्लानिंग के लिए PFRDA का नया प्लान: NPS को और आसान बनाने की तैयारी</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/gold-silver-price-recovery-analysis-india-1922/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-28T05:20:27.104Z</news:publication_date>
       <news:title>बाजार की गिरावट में भी चमके ये 8 माइक्रो-कैप स्टॉक्स, निवेशकों को दिया 50% तक मुनाफा</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/crude-oil-price-fall-impact-india-8580/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T05:20:15.851Z</news:publication_date>
-      <news:title>क्रूड ऑयल की कीमतों में बड़ी गिरावट: क्या पेट्रोल-डीजल के दाम होंगे कम?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/rbi-repo-rate-hike-prediction-december-2080/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T05:15:26.264Z</news:publication_date>
-      <news:title>RBI Repo Rate Hike: क्या दिसंबर में 50 bps तक बढ़ सकती हैं ब्याज दरें? जानें क्या है एक्सपर्ट्स की राय</news:title>
     </news:news>
   </url>
 </urlset>
