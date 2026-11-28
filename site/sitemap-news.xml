@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/mutual-funds-net-selling-november-market-update-7169/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T10:00:31.160Z</news:publication_date>
+      <news:title>शेयर बाजार में नवंबर का उलटफेर: म्यूचुअल फंड्स की बिकवाली से क्या घबरा गए हैं निवेशक?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/gold-investment-ornaments-vs-coins-guide-2904/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T10:00:19.217Z</news:publication_date>
+      <news:title>सोना खरीदने का बना रहे हैं मन? गहने और सिक्कों में निवेश का ये गणित समझ लीजिए</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/gold-etf-vs-nifty-50-etf-returns-comparison-1487/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-28T05:40:30.130Z</news:publication_date>
       <news:title>EPF कॉर्पस से हर महीने पाएं मोटी कमाई: 50 लाख के फंड से रिटायरमेंट प्लानिंग का पूरा गणित</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/microfinance-sector-drought-impact-banks-nbfcs-1845/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T05:40:17.934Z</news:publication_date>
-      <news:title>माइक्रो फाइनेंस सेक्टर पर सूखे का साया: क्या बैंकों और NBFCs के लोन पोर्टफोलियो पर बढ़ेगा दबाव?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/pet-insurance-benefits-claims-guide-3896/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T05:35:38.370Z</news:publication_date>
-      <news:title>पालतू जानवरों का बीमा कराते समय रखें इन 5 बातों का ध्यान, वरना क्लेम रिजेक्शन से होगा नुकसान</news:title>
     </news:news>
   </url>
 </urlset>
