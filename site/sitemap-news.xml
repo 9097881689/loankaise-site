@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/nse-becomes-worlds-third-largest-exchange-1776/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T11:10:17.004Z</news:publication_date>
+      <news:title>दुनिया की तीसरी सबसे बड़ी एक्सचेंज बनी NSE: क्या अब शेयरों में निवेश करना है सही फैसला?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/yahoo-finance-app-market-updates-guide-2359/</loc>
     <news:news>
       <news:publication>
@@ -538,17 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-28T06:50:29.254Z</news:publication_date>
       <news:title>SIP में दिख रहा है लाल निशान? घबराकर निवेश बंद करने से पहले ये आंकड़े जरूर देखें</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/nps-3-0-new-investment-rules-explained-9328/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T06:50:14.710Z</news:publication_date>
-      <news:title>NPS 3.0: रिटायरमेंट प्लानिंग में आया बड़ा बदलाव, अब म्यूचुअल फंड की तरह होगा निवेश</news:title>
     </news:news>
   </url>
 </urlset>
