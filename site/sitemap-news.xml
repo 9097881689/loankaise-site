@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/sip-negative-returns-investment-strategy-4532/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T06:50:29.254Z</news:publication_date>
+      <news:title>SIP में दिख रहा है लाल निशान? घबराकर निवेश बंद करने से पहले ये आंकड़े जरूर देखें</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/nps-3-0-new-investment-rules-explained-9328/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T06:50:14.710Z</news:publication_date>
+      <news:title>NPS 3.0: रिटायरमेंट प्लानिंग में आया बड़ा बदलाव, अब म्यूचुअल फंड की तरह होगा निवेश</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/jio-platforms-ipo-analysis-investment-strategy-9960/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-28T04:35:18.066Z</news:publication_date>
       <news:title>Budget 2027-28: शेयर बाजार में क्या कैपिटल गेन्स टैक्स घटेगा? जानिए क्या है उम्मीद</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/hdfc-bank-upi-sms-alert-change-0497/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T04:30:34.500Z</news:publication_date>
-      <news:title>HDFC Bank के UPI यूज़र्स के लिए बड़ा बदलाव: 500 रुपये तक के ट्रांजेक्शन पर बंद होंगे SMS</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/money-management-app-security-tips-india-8438/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T04:30:23.010Z</news:publication_date>
-      <news:title>मनी मैनेजमेंट ऐप्स का कर रहे हैं इस्तेमाल? इन 5 गलतियों से खाली हो सकता है बैंक अकाउंट</news:title>
     </news:news>
   </url>
 </urlset>
