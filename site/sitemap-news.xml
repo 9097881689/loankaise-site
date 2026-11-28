@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/south-korea-stock-market-crash-anchor-emotional-6523/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T05:25:32.381Z</news:publication_date>
+      <news:title>शेयर बाजार की गिरावट से लाइव टीवी पर रो पड़ीं एंकर, निवेशकों के दर्द को बयां कर वायरल हुआ वीडियो</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/gold-silver-price-rebound-november-2026-9762/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T05:25:16.245Z</news:publication_date>
+      <news:title>सोने-चांदी की कीमतों में जोरदार उछाल: 27 नवंबर को क्या हैं लेटेस्ट भाव?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/top-performing-microcap-stocks-market-gains-1815/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-28T03:20:42.569Z</news:publication_date>
       <news:title>गोल्ड लोन लेने वालों पर संकट: सोने की कीमतों में गिरावट से बैंकों ने मांगा मार्जिन मनी</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/micro-entrepreneurs-personal-business-loans-growth-2004/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T03:15:56.473Z</news:publication_date>
-      <news:title>छोटे कारोबारियों के लिए लोन का नया ट्रेंड: व्यक्तिगत कर्ज से बढ़ रहा बिजनेस का पहिया</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/ai-existential-risk-retirement-planning-experts-2774/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T03:15:40.212Z</news:publication_date>
-      <news:title>क्या AI इंसानी दुनिया खत्म कर देगा? भविष्य की चिंता में अपनी सेविंग्स बदल रहे हैं ये एक्सपर्ट्स</news:title>
     </news:news>
   </url>
 </urlset>
