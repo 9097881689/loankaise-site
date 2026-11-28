@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/silver-price-fall-post-dhanteras-investment-loss-1203/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T10:50:15.916Z</news:publication_date>
+      <news:title>धनतेरस पर चांदी में किया निवेश? 1 महीने में ही डूब गए आपके 17 हजार रुपये</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/pensioners-life-certificate-status-check-guide-2346/</loc>
     <news:news>
       <news:publication>
@@ -538,17 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-28T06:40:28.965Z</news:publication_date>
       <news:title>SIP का बढ़ता क्रेज और बाजार की सच्चाई: क्या 31,500 करोड़ का निवेश सुरक्षित है?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/mahanadi-coalfields-ipo-analysis-india-0103/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T06:40:16.667Z</news:publication_date>
-      <news:title>Mahanadi Coalfields IPO: क्या कोल इंडिया की इस दिग्गज कंपनी के शेयर में निवेश करना फायदेमंद होगा?</news:title>
     </news:news>
   </url>
 </urlset>
