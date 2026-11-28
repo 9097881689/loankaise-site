@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/gold-price-fall-jewellery-stocks-surge-9476/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T09:50:34.606Z</news:publication_date>
+      <news:title>सोने की कीमतों में 30% की भारी गिरावट, फिर भी ज्वेलरी शेयरों में क्यों दिख रही है रॉकेट जैसी तेजी?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/gold-investment-stability-world-gold-council-3548/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T09:50:22.790Z</news:publication_date>
+      <news:title>क्या सोना वाकई निवेश का सबसे सुरक्षित विकल्प है? वर्ल्ड गोल्ड काउंसिल के आंकड़ों से समझें</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/hal-share-price-target-buy-rating-2244/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-28T05:30:25.714Z</news:publication_date>
       <news:title>क्रेडिट कार्ड का &apos;मिनिमम ड्यू&apos; भरने की गलती आपको बना सकती है कर्जदार, RBI की चेतावनी</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/bank-reward-points-fraud-consumer-court-verdict-9200/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T05:30:15.348Z</news:publication_date>
-      <news:title>रिवॉर्ड पॉइंट्स के लालच में कटे 72,500 रुपये, बैंक को देना पड़ा भारी हर्जाना</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/south-korea-stock-market-crash-anchor-emotional-6523/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T05:25:32.381Z</news:publication_date>
-      <news:title>शेयर बाजार की गिरावट से लाइव टीवी पर रो पड़ीं एंकर, निवेशकों के दर्द को बयां कर वायरल हुआ वीडियो</news:title>
     </news:news>
   </url>
 </urlset>
