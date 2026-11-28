@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/food-inflation-onion-garlic-price-hike-1413/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T10:05:35.042Z</news:publication_date>
+      <news:title>महंगाई का तड़का: प्याज 116% और लहसुन 61% महंगे, क्या आपकी रसोई का बजट बिगड़ेगा?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/layoff-home-loan-crisis-financial-advice-6945/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T10:05:22.500Z</news:publication_date>
+      <news:title>नौकरी गई, सिर पर होम लोन का बोझ: क्या 24 साल के इस युवा को अपनी जमा पूंजी देनी चाहिए?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/mutual-funds-net-selling-november-market-update-7169/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-28T05:45:32.057Z</news:publication_date>
       <news:title>चेन्नई में पलटा 56 लाख की शराब से भरा ट्रक: मची लूट, मौके पर पहुंची पुलिस</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/wwe-star-bronson-reed-death-analysis-1257/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T05:45:20.608Z</news:publication_date>
-      <news:title>WWE स्टार ब्रोंसन रीड का 38 साल की उम्र में निधन, क्राउन ज्वेल की चोटों से क्या है कनेक्शन?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/epf-corpus-monthly-income-withdrawal-strategy-5234/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T05:40:30.130Z</news:publication_date>
-      <news:title>EPF कॉर्पस से हर महीने पाएं मोटी कमाई: 50 लाख के फंड से रिटायरमेंट प्लानिंग का पूरा गणित</news:title>
     </news:news>
   </url>
 </urlset>
