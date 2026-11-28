@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/rbi-tightens-scrutiny-gold-loans-borrower-stress-7434/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T10:30:31.012Z</news:publication_date>
+      <news:title>गोल्ड लोन लेने वालों की बढ़ी मुश्किलें: RBI की सख्ती से क्या बदलेंगे नियम?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/smart-investment-strategies-wealth-creation-5413/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T10:30:20.669Z</news:publication_date>
+      <news:title>निवेश का सही मंत्र: IIT मद्रास के प्रोफेसर से जानें लंबी अवधि में वेल्थ कैसे बनाएं</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/monsoon-deficit-impact-on-psu-banks-gold-loans-1835/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-28T06:25:23.482Z</news:publication_date>
       <news:title>गोल्ड लोन पर कम ब्याज दर पाने का सीक्रेट: क्या पुराना रिश्ता दिला सकता है सस्ता कर्ज?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/indian-bank-stocks-global-investor-interest-0020/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T06:25:14.920Z</news:publication_date>
-      <news:title>भारतीय बैंकिंग शेयरों में फिर लौटा विदेशी निवेशकों का भरोसा, क्या अब तेजी का है मौका?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/three-nbfc-stocks-outperforming-bajaj-finance-9229/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T06:20:23.211Z</news:publication_date>
-      <news:title>Bajaj Finance से भी तेज दौड़ रही हैं ये 3 NBFCs, आधे दाम पर मिल रहा निवेश का मौका</news:title>
     </news:news>
   </url>
 </urlset>
