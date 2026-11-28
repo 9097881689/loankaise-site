@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/asian-markets-rally-us-tariff-fears-ease-0999/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T10:35:24.284Z</news:publication_date>
+      <news:title>एशियाई बाजारों में लौटी रौनक: अमेरिकी टैरिफ की चिंताएं कम होने से निवेशकों को राहत</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/chip-stocks-rally-nvidia-market-analysis-9924/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T10:35:13.951Z</news:publication_date>
+      <news:title>Black Friday पर चिप शेयरों की जबरदस्त दौड़, लेकिन Nvidia के निवेशकों को क्यों लगा झटका?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/rbi-tightens-scrutiny-gold-loans-borrower-stress-7434/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-28T06:30:43.459Z</news:publication_date>
       <news:title>सोमवार को बाजार में मचेगी हलचल: टाटा, सुजलॉन और ज़ी समेत इन 10 शेयरों पर रखें नजर</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/gold-price-fall-india-buying-opportunity-8603/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T06:30:34.078Z</news:publication_date>
-      <news:title>सोने की कीमतों में बड़ी गिरावट: क्या शादियों के सीजन में खरीदारी का है सही मौका?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/gold-loan-interest-rates-loyalty-benefits-9976/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T06:25:23.482Z</news:publication_date>
-      <news:title>गोल्ड लोन पर कम ब्याज दर पाने का सीक्रेट: क्या पुराना रिश्ता दिला सकता है सस्ता कर्ज?</news:title>
     </news:news>
   </url>
 </urlset>
