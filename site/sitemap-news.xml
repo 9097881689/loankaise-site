@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/indian-household-savings-debt-crisis-analysis-1851/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T12:00:16.251Z</news:publication_date>
+      <news:title>भारतीय परिवारों की गिरती बचत और बढ़ता कर्ज: क्या आप भी भविष्य के लिए खतरे में हैं?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/ssb-man-investment-fraud-ed-raids-0354/</loc>
     <news:news>
       <news:publication>
@@ -538,17 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-28T07:10:27.259Z</news:publication_date>
       <news:title>शेयर बाजार में उतार-चढ़ाव के बीच RBI का बड़ा संकेत: क्या फरवरी में फिर सस्ता होगा लोन?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/shah-rukh-khan-aura-farming-meaning-explained-1071/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T07:10:16.245Z</news:publication_date>
-      <news:title>शाहरुख खान का &apos;ऑरा फार्मिंग&apos; वाला नया अंदाज़: क्या है ये वायरल जेने-जी शब्द?</news:title>
     </news:news>
   </url>
 </urlset>

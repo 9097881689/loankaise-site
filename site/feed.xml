@@ -7,7 +7,15 @@
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <description>ताज़ा फाइनेंस न्यूज़, लोन गाइड्स, RBI अपडेट्स और बैंकिंग टूल्स हिंदी में।</description>
     <language>hi-in</language>
-    <lastBuildDate>Sat, 28 Nov 2026 11:45:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 12:00:18 GMT</lastBuildDate>
+    <item>
+      <title>भारतीय परिवारों की गिरती बचत और बढ़ता कर्ज: क्या आप भी भविष्य के लिए खतरे में हैं?</title>
+      <link>https://loankaise.in/news/indian-household-savings-debt-crisis-analysis-1851/</link>
+      <guid isPermaLink="true">https://loankaise.in/news/indian-household-savings-debt-crisis-analysis-1851/</guid>
+      <pubDate>Sat, 28 Nov 2026 12:00:16 GMT</pubDate>
+      <category>पर्सनल फाइनेंस</category>
+      <description>RBI के ताजा आंकड़े और एक्सपर्ट्स की चेतावनी के बीच जानिए क्यों आपकी सेविंग्स और कर्ज का संतुलन बिगड़ रहा है।</description>
+    </item>
     <item>
       <title>SSB के पूर्व जवान का &apos;सेफ इन्वेस्टमेंट प्लान&apos; बना निवेशकों के लिए मुसीबत, 70 करोड़ की धोखाधड़ी पर ED की बड़ी कार्रवाई</title>
       <link>https://loankaise.in/news/ssb-man-investment-fraud-ed-raids-0354/</link>
@@ -239,14 +247,6 @@
       <pubDate>Sat, 28 Nov 2026 10:05:22 GMT</pubDate>
       <category>पर्सनल फाइनेंस</category>
       <description>बेंगलुरु के एक युवा की आपबीती, जो ले-ऑफ के बाद होम लोन की किश्त और अपने भविष्य के बीच फंसा है।</description>
-    </item>
-    <item>
-      <title>शेयर बाजार में नवंबर का उलटफेर: म्यूचुअल फंड्स की बिकवाली से क्या घबरा गए हैं निवेशक?</title>
-      <link>https://loankaise.in/news/mutual-funds-net-selling-november-market-update-7169/</link>
-      <guid isPermaLink="true">https://loankaise.in/news/mutual-funds-net-selling-november-market-update-7169/</guid>
-      <pubDate>Sat, 28 Nov 2026 10:00:31 GMT</pubDate>
-      <category>शेयर बाज़ार &amp; गोल्ड</category>
-      <description>नवंबर में म्यूचुअल फंड्स की भारी बिकवाली और विदेशी निवेशकों की वापसी ने भारतीय बाजार की चाल पूरी तरह बदल दी है।</description>
     </item>
   </channel>
 </rss>
