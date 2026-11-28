@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/global-dollar-strength-impact-indian-stocks-3830/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T04:15:38.503Z</news:publication_date>
+      <news:title>ग्लोबल मार्केट में डॉलर की मजबूती और भारतीय शेयरों पर असर: निवेशकों के लिए क्या हैं संकेत?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/rbi-new-rules-suspected-bank-accounts-freeze-9254/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T04:15:24.176Z</news:publication_date>
+      <news:title>RBI का नया फरमान: अब संदिग्ध बैंक खातों पर तुरंत लगेगी लगाम, जानें क्या हैं नए नियम</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/rbi-restores-90-percent-daily-crr-requirement-3756/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-27T18:35:51.032Z</news:publication_date>
       <news:title>सोने की कीमतों में फिर लौटी चमक: क्या 15 महीने के निचले स्तर से रिकवरी का दौर शुरू हो गया है?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/chennai-entrepreneur-vardhaman-jain-tirupati-gold-donation-1692/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-27T07:40:17.646Z</news:publication_date>
-      <news:title>चेन्नई के उद्यमी वर्धमान जैन ने तिरुपति मंदिर में दान किए 207 करोड़ के सोने के आभूषण</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/maharashtra-fda-tukaram-mundhe-restaurant-action-7784/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-27T05:06:12.427Z</news:publication_date>
-      <news:title>महाराष्ट्र FDA का कड़ा एक्शन: तुकाराम मुंडे की रेड में चाइनीज रेस्टोरेंट और फूड ऑपरेटर सील</news:title>
     </news:news>
   </url>
 </urlset>
