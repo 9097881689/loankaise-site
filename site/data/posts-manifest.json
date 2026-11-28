@@ -1,5 +1,41 @@
 [
   {
+    "id": "lk-1795837855865-ggnp",
+    "slug": "rbi-new-card-tokenisation-consent-rules-1042",
+    "url": "/news/rbi-new-card-tokenisation-consent-rules-1042/",
+    "title": "RBI का नया फरमान: अब कार्ड टोकनाइजेशन के लिए आपकी मर्जी होगी अनिवार्य",
+    "subtitle": "रिजर्व बैंक ने कार्ड रिप्लेसमेंट और रिन्यूअल के नियमों को और सख्त किया, जानें ग्राहकों की सुरक्षा पर क्या होगा असर।",
+    "category": "banking-rbi",
+    "categoryLabel": "बैंकिंग & RBI",
+    "featuredImage": "/uploads/news/rbi-new-card-tokenisation-consent-rules-1042.webp",
+    "authorName": "राहुल शर्मा",
+    "publishedAt": "2026-11-28T03:50:55.864Z",
+    "indexedInGoogle": true,
+    "sourcesCount": 1,
+    "sourceNames": [
+      "Business Standard Finance"
+    ],
+    "isLegacyGuide": false
+  },
+  {
+    "id": "lk-1795837836401-5m9c",
+    "slug": "gold-price-today-maharashtra-latest-rates-1379",
+    "url": "/news/gold-price-today-maharashtra-latest-rates-1379/",
+    "title": "Gold Price Today: महाराष्ट्र में सोने के दाम में उछाल, जानिए मुंबई-पुणे में क्या हैं लेटेस्ट रेट्स",
+    "subtitle": "अगर आप सोना खरीदने की योजना बना रहे हैं, तो महाराष्ट्र के प्रमुख शहरों में आज के भाव और बाजार के बदलते ट्रेंड्स को जरूर समझें।",
+    "category": "markets",
+    "categoryLabel": "शेयर बाज़ार & गोल्ड",
+    "featuredImage": "/uploads/news/gold-price-today-maharashtra-latest-rates-1379.webp",
+    "authorName": "अमित मिश्रा",
+    "publishedAt": "2026-11-28T03:50:36.401Z",
+    "indexedInGoogle": true,
+    "sourcesCount": 1,
+    "sourceNames": [
+      "NDTV Profit"
+    ],
+    "isLegacyGuide": false
+  },
+  {
     "id": "lk-1795837527292-vk3w",
     "slug": "blackstone-sells-stake-in-igi-sebi-norms-3040",
     "url": "/news/blackstone-sells-stake-in-igi-sebi-norms-3040/",
