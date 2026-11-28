@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/global-stock-market-recovery-nvidia-micron-4019/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T02:55:40.204Z</news:publication_date>
+      <news:title>शेयर बाजार में जोरदार रिकवरी: 3.5 ट्रिलियन डॉलर की उछाल से निवेशकों को राहत</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/8th-pay-commission-interim-report-salary-hike-9397/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T02:55:28.048Z</news:publication_date>
+      <news:title>8th Pay Commission: क्या अंतरिम रिपोर्ट से बढ़ेगी सैलरी? कर्मचारियों के लिए बड़ी सच्चाई</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/wall-street-ai-stocks-market-update-9297/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T16:50:50.280Z</news:publication_date>
       <news:title>NSE का ग्लोबल जलवा: दुनिया का तीसरा सबसे बड़ा एक्सचेंज बना नेशनल स्टॉक एक्सचेंज</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/jpmorgan-india-stock-picks-2027-investment-strategy-7641/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T16:50:22.263Z</news:publication_date>
-      <news:title>JPMorgan की 2027 के लिए बड़ी भविष्यवाणी: इन 33 शेयरों में निवेश का मौका, 10 से रहें दूर</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/banks-enhance-digital-security-customer-control-6060/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T16:46:29.969Z</news:publication_date>
-      <news:title>डिजिटल बैंकिंग में अब आप होंगे असली बॉस: बैंकों ने बदले सुरक्षा के नियम</news:title>
     </news:news>
   </url>
 </urlset>
