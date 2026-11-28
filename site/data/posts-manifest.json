@@ -1,5 +1,41 @@
 [
   {
+    "id": "lk-1795837527292-vk3w",
+    "slug": "blackstone-sells-stake-in-igi-sebi-norms-3040",
+    "url": "/news/blackstone-sells-stake-in-igi-sebi-norms-3040/",
+    "title": "International Gemological Institute में Blackstone ने बेची हिस्सेदारी, जानिए क्या है वजह",
+    "subtitle": "SEBI के नियमों का पालन करने के लिए दिग्गज निवेशक ब्लैकस्टोन ने अपनी हिस्सेदारी घटाई, शेयर बाजार पर दिखा असर।",
+    "category": "markets",
+    "categoryLabel": "शेयर बाज़ार & गोल्ड",
+    "featuredImage": "/uploads/news/blackstone-sells-stake-in-igi-sebi-norms-3040.webp",
+    "authorName": "अमित मिश्रा",
+    "publishedAt": "2026-11-28T03:45:27.292Z",
+    "indexedInGoogle": true,
+    "sourcesCount": 1,
+    "sourceNames": [
+      "Economic Times Markets"
+    ],
+    "isLegacyGuide": false
+  },
+  {
+    "id": "lk-1795837516486-esb5",
+    "slug": "rbi-new-guidelines-suspicious-transaction-hold-1174",
+    "url": "/news/rbi-new-guidelines-suspicious-transaction-hold-1174/",
+    "title": "RBI का नया फरमान: अब बैंक संदिग्ध ट्रांजैक्शन को तुरंत करेंगे होल्ड, ग्राहकों का पैसा रहेगा सुरक्षित",
+    "subtitle": "रिजर्व बैंक ने बैंकिंग फ्रॉड रोकने के लिए बनाई नई गाइडलाइन, अब संदिग्ध लेनदेन पर लगेगी लगाम।",
+    "category": "banking-rbi",
+    "categoryLabel": "बैंकिंग & RBI",
+    "featuredImage": "/uploads/news/rbi-new-guidelines-suspicious-transaction-hold-1174.webp",
+    "authorName": "राहुल शर्मा",
+    "publishedAt": "2026-11-28T03:45:16.486Z",
+    "indexedInGoogle": true,
+    "sourcesCount": 1,
+    "sourceNames": [
+      "Business Standard Finance"
+    ],
+    "isLegacyGuide": false
+  },
+  {
     "id": "lk-1795837233941-zbx9",
     "slug": "sebi-fpi-onboarding-market-reforms-india-9664",
     "url": "/news/sebi-fpi-onboarding-market-reforms-india-9664/",
