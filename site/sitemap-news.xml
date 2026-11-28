@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/stock-market-correction-warnings-crude-oil-7833/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T10:20:31.756Z</news:publication_date>
+      <news:title>शेयर बाजार में बड़ी गिरावट के लिए रहें तैयार: फंड मैनेजर्स ने निवेशकों को दी चेतावनी</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/china-stock-market-rally-impact-analysis-2280/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T10:20:17.054Z</news:publication_date>
+      <news:title>चीन के शेयर बाजार में ऐतिहासिक उछाल: क्या ड्रैगन की &apos;नेशनल टीम&apos; ने बदल दी बाजी?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/gold-silver-price-outlook-fed-rate-hike-8774/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-28T06:00:22.918Z</news:publication_date>
       <news:title>इन 5 सरकारी बैंकों के शेयरों में है निवेश का मौका, ऐतिहासिक वैल्यूएशन से हैं सस्ते</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/rooftop-solar-investment-savings-guide-9453/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T06:00:14.717Z</news:publication_date>
-      <news:title>सोने से बेहतर निवेश? घर की छत पर सोलर पैनल लगाने से मिलेंगे ये जबरदस्त फायदे</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/european-stock-market-tariff-fears-easing-0943/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T05:55:24.589Z</news:publication_date>
-      <news:title>यूरोपीय बाजारों में लौटी रौनक: टैरिफ के डर से राहत और ECB की स्थिरता का असर</news:title>
     </news:news>
   </url>
 </urlset>
