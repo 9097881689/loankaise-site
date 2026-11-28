@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/gold-silver-price-outlook-fed-rate-hike-8774/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T10:15:32.617Z</news:publication_date>
+      <news:title>सोने-चांदी में लौटी रौनक: क्या अमेरिकी फेड रिजर्व के फैसले से फिर थमेगी रफ्तार?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/nse-ceo-ashish-chauhan-market-trust-4605/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T10:15:19.734Z</news:publication_date>
+      <news:title>भारतीय शेयर बाज़ार की असली ताकत क्या है? NSE CEO आशीष चौहान ने खोले राज</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/mutual-funds-buying-slumping-smallcap-stocks-2430/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-28T05:55:24.589Z</news:publication_date>
       <news:title>यूरोपीय बाजारों में लौटी रौनक: टैरिफ के डर से राहत और ECB की स्थिरता का असर</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/rbi-new-atm-cash-withdrawal-rules-2026-0485/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T05:55:16.430Z</news:publication_date>
-      <news:title>ATM से पैसे निकालने के नियमों में बड़ा बदलाव: RBI ने जारी की नई गाइडलाइंस, अब बैंकों को देना होगा अलर्ट</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/vardhman-jain-tirupati-balaji-gold-donation-9441/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T05:50:45.816Z</news:publication_date>
-      <news:title>चेन्नई के बिजनेसमैन वर्धमान जैन का तिरुपति बालाजी को 206 करोड़ का दान, जानिए कौन हैं ये दानवीर</news:title>
     </news:news>
   </url>
 </urlset>
