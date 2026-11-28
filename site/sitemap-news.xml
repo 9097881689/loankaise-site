@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/hdfc-bank-upi-sms-alert-change-0497/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T04:30:34.500Z</news:publication_date>
+      <news:title>HDFC Bank के UPI यूज़र्स के लिए बड़ा बदलाव: 500 रुपये तक के ट्रांजेक्शन पर बंद होंगे SMS</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/money-management-app-security-tips-india-8438/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T04:30:23.010Z</news:publication_date>
+      <news:title>मनी मैनेजमेंट ऐप्स का कर रहे हैं इस्तेमाल? इन 5 गलतियों से खाली हो सकता है बैंक अकाउंट</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/milk-butter-ghee-price-hike-shortage-4972/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-27T21:27:07.526Z</news:publication_date>
       <news:title>सोने की चमक में फिर लौटी जान, क्या अब खरीदारी का सही समय आ गया है?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/copper-prices-china-economic-stimulus-impact-9488/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-27T19:30:25.182Z</news:publication_date>
-      <news:title>चीन की नई आर्थिक चाल से चमकी कॉपर की चमक, क्या अब कमोडिटी मार्केट में आएगी तेजी?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/opec-plus-oil-production-strategy-impact-9574/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-27T19:15:14.767Z</news:publication_date>
-      <news:title>OPEC+ का बड़ा फैसला: क्या कच्चे तेल की गिरती कीमतों पर लगेगा लगाम या बढ़ेगा संकट?</news:title>
     </news:news>
   </url>
 </urlset>

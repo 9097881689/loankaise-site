@@ -1,5 +1,41 @@
 [
   {
+    "id": "lk-1795840234500-wjoj",
+    "slug": "hdfc-bank-upi-sms-alert-change-0497",
+    "url": "/news/hdfc-bank-upi-sms-alert-change-0497/",
+    "title": "HDFC Bank के UPI यूज़र्स के लिए बड़ा बदलाव: 500 रुपये तक के ट्रांजेक्शन पर बंद होंगे SMS",
+    "subtitle": "1 जनवरी 2027 से छोटे UPI भुगतान के लिए बैंक आपको मैसेज नहीं भेजेगा, जानिए क्या है नया नियम।",
+    "category": "banking-rbi",
+    "categoryLabel": "बैंकिंग & RBI",
+    "featuredImage": "/uploads/news/hdfc-bank-upi-sms-alert-change-0497.webp",
+    "authorName": "राहुल शर्मा",
+    "publishedAt": "2026-11-28T04:30:34.500Z",
+    "indexedInGoogle": true,
+    "sourcesCount": 1,
+    "sourceNames": [
+      "CNBC-TV18 Personal Finance"
+    ],
+    "isLegacyGuide": false
+  },
+  {
+    "id": "lk-1795840223010-d7l2",
+    "slug": "money-management-app-security-tips-india-8438",
+    "url": "/news/money-management-app-security-tips-india-8438/",
+    "title": "मनी मैनेजमेंट ऐप्स का कर रहे हैं इस्तेमाल? इन 5 गलतियों से खाली हो सकता है बैंक अकाउंट",
+    "subtitle": "अपने पैसों का हिसाब रखने के चक्कर में कहीं आप अपनी बैंकिंग सुरक्षा से समझौता तो नहीं कर रहे? जानें सुरक्षित रहने के तरीके।",
+    "category": "personal-finance",
+    "categoryLabel": "पर्सनल फाइनेंस",
+    "featuredImage": "/uploads/news/money-management-app-security-tips-india-8438.webp",
+    "authorName": "प्रिया वर्मा",
+    "publishedAt": "2026-11-28T04:30:23.010Z",
+    "indexedInGoogle": true,
+    "sourcesCount": 1,
+    "sourceNames": [
+      "CNBC-TV18 Personal Finance"
+    ],
+    "isLegacyGuide": false
+  },
+  {
     "id": "lk-1795839939060-vkmz",
     "slug": "milk-butter-ghee-price-hike-shortage-4972",
     "url": "/news/milk-butter-ghee-price-hike-shortage-4972/",
