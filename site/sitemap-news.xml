@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://loankaise.in/news/direct-vs-regular-mutual-funds-investment-strategy-2217/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T03:10:27.138Z</news:publication_date>
+      <news:title>डायरेक्ट बनाम रेगुलर म्यूचुअल फंड: क्या डिस्ट्रीब्यूटर की सलाह के लिए ज्यादा खर्च करना सही है?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://loankaise.in/news/swara-baby-products-ipo-details-0321/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LoanKaise.in</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T03:10:17.215Z</news:publication_date>
+      <news:title>Swara Baby Products IPO: फर्स्टक्राई समर्थित कंपनी का 800 करोड़ का आईपीओ, जानें प्राइस बैंड और डेट</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://loankaise.in/news/wall-street-stock-market-rally-update-3963/</loc>
     <news:news>
       <news:publication>
@@ -527,28 +549,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T17:06:18.359Z</news:publication_date>
       <news:title>SC Agrotech का तूफानी प्रदर्शन: 21 दिनों से लगातार अपर सर्किट, निवेशकों की बल्ले-बल्ले</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/nse-dlf-stocks-hit-52-week-high-5590/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T17:05:41.982Z</news:publication_date>
-      <news:title>NSE और DLF समेत इन 6 स्टॉक्स में तूफानी तेजी, निवेशकों की बल्ले-बल्ले; देखें पूरी लिस्ट</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://loankaise.in/news/government-cpse-dividend-collection-update-2227/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LoanKaise.in</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T17:00:36.335Z</news:publication_date>
-      <news:title>सरकारी खजाने की बहार: CPSE डिविडेंड से सरकार को अब तक मिली इतनी बड़ी रकम</news:title>
     </news:news>
   </url>
 </urlset>
